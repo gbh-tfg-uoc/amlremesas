@@ -1,0 +1,1009 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-79D51U74,01/01/2023,20:32,103,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,True,Timoteo,Sarmiento,Barco,Bhután,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ARNJVC7I,01/01/2023,21:16,354,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0ALHKHFI,01/02/2023,16:48,1811,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DIVJCKU5,01/02/2023,13:44,818,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,True
+TXN-PCBYCN24,01/02/2023,09:23,1088,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QWNK74H8,01/02/2023,18:12,2323,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4AYWI8OU,01/03/2023,18:49,2159,CANCELADA,España,Paulino,Ramirez,,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6S54Y7V0,01/03/2023,14:20,65,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XAMFH9KQ,01/03/2023,13:57,2814,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6VUPBLNU,01/03/2023,15:25,170,EXITOSA,España,Efraín,Carlos,Ureña,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HE4UPZ0O,01/03/2023,21:12,1450,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GTD6QT37,01/04/2023,20:29,2639,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8WEI41GA,01/04/2023,11:27,136,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OBAV0UXT,01/04/2023,14:57,1276,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ANEL4B75,01/04/2023,14:56,1447,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RP76YW8M,01/04/2023,21:34,1248,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JB1PH5YZ,01/05/2023,16:53,977,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-B4PDJXNP,01/05/2023,13:36,2525,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IK59GQK0,01/05/2023,20:59,1603,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0P09YOHX,01/06/2023,11:33,524,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XBUZP165,01/06/2023,09:16,2041,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R4US9F0G,01/06/2023,15:31,60,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J42HZWKG,01/07/2023,19:41,443,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RCN8PR6O,01/07/2023,16:48,461,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WMPZNBUB,01/07/2023,15:20,1228,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SAL8VKWA,01/07/2023,18:54,521,EXITOSA,España,Reyes,Echeverría,Capdevila,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X4ZG4K8D,01/08/2023,16:31,994,FALLIDA,España,Maxi,Leon,Ojeda,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TWU2CYIN,01/08/2023,20:51,1320,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X438CY50,01/08/2023,06:15,1093,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IZCEEZEW,01/09/2023,16:21,1417,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PT8X4E3U,01/09/2023,19:07,2799,CANCELADA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GL2R8VE0,01/09/2023,15:22,1155,CANCELADA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M18PPQG6,01/09/2023,09:26,1276,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NKKYGX0H,01/09/2023,11:33,1284,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7R21SFP2,01/09/2023,11:40,1784,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-963CM2NA,01/09/2023,16:59,2288,CANCELADA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E6CMJHEY,01/10/2023,10:31,1553,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZLI3I0JS,01/10/2023,21:30,1674,EXITOSA,España,Vera,Blanca,Abril,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7HBN6PEQ,01/10/2023,21:22,2003,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Kike,Nogués,Montaña,Kenya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U72H3XP2,01/10/2023,15:42,283,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6VKW1WZC,01/11/2023,09:01,2216,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FJY7GCIX,01/11/2023,18:03,1366,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Kike,Nogués,Montaña,Kenya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SNZRTYIO,01/12/2023,15:30,2446,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Nando,Conde,Campo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FUABK6C5,01/12/2023,16:17,1120,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NAIOJ9YQ,01/12/2023,19:58,601,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R95C2JIB,02/01/2023,12:17,559,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BGK6KX9U,02/01/2023,06:01,1582,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PR8Q7NRX,02/01/2023,12:34,1518,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EEES8YTV,02/01/2023,12:33,1543,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VH2FWV4W,02/01/2023,14:58,2700,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LMKURVZ4,02/02/2023,18:13,988,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WBH12JD8,02/02/2023,15:25,407,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VJU83D9D,02/03/2023,18:10,1572,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MLE03AAN,02/04/2023,19:27,266,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J6QTJ0BR,02/05/2023,09:42,1485,FALLIDA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D5IKPRH2,02/05/2023,17:53,2259,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FHP9IMKM,02/05/2023,17:57,215,CANCELADA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UG3TYWWP,02/06/2023,15:00,1027,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MVRNG8M7,02/06/2023,09:18,346,CANCELADA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KN44ELV8,02/06/2023,12:51,474,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OSQQ0E94,02/06/2023,21:16,1186,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JFDMKET7,02/07/2023,10:12,2995,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F0H2I32J,02/07/2023,13:52,301,FALLIDA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-70R40NFB,02/08/2023,18:03,1120,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CP5DF7RK,02/09/2023,11:06,1580,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BS0E9ZV3,02/10/2023,16:52,2716,EXITOSA,España,Fabián,Palma,Luna,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8M0ZLMO2,02/10/2023,19:39,1431,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R6BUKKB7,02/10/2023,05:12,1475,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZHLPKAJ2,02/10/2023,18:12,2277,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9DH8R52T,02/11/2023,14:54,2678,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PJ7YEJCJ,02/11/2023,09:51,1826,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Edu,Merino,Aguado,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UD5X89RY,02/11/2023,14:29,2973,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2KUUS511,02/12/2023,11:50,2689,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-95WE2ZUX,02/12/2023,14:00,2599,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1AQJE09S,02/12/2023,08:48,2663,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5L3MDAT9,02/12/2023,09:14,2292,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4F9M2B3K,03/01/2023,17:08,1873,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G5K86BFY,03/01/2023,21:42,2137,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5NV2L8U7,03/02/2023,16:28,580,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F2Q6JMZ8,03/03/2023,20:19,266,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZEFHK7KO,03/03/2023,13:29,1506,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-O1HAQH9H,03/04/2023,22:39,608,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-60FLSUU4,03/05/2023,20:54,1852,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QXPCL5EI,03/05/2023,19:07,2786,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AJBEGF5F,03/05/2023,11:31,1551,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7XC42GIW,03/05/2023,09:56,2206,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MRWT9NQ1,03/06/2023,10:21,2825,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FIYMNTR3,03/06/2023,19:23,2936,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1WKM72I4,03/06/2023,15:29,1104,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-N6S2HT9M,03/06/2023,12:23,286,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EP52OCE8,03/07/2023,18:46,2403,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QXQGT59D,03/08/2023,19:03,2127,CANCELADA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FZFPYSXK,03/08/2023,09:22,2122,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XJRBNEXJ,03/08/2023,18:08,969,EXITOSA,España,Carmina,Valbuena,Quintanilla,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ESRFE8NL,03/08/2023,03:57,959,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8OG0C6M3,03/09/2023,20:46,1734,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MN5ZDSJV,03/09/2023,21:17,2960,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-177O5QNW,03/09/2023,16:07,697,FALLIDA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4YPTQH4X,03/09/2023,18:39,2334,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-THC2P278,03/10/2023,14:37,2757,EXITOSA,España,Candela,Borrell,Varela,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NRWYJWKL,03/11/2023,13:53,1778,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UMSXWTVM,03/11/2023,20:44,2485,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZNJFXTKF,03/11/2023,15:13,2906,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HSX9R634,03/11/2023,09:24,908,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-77OB06D2,03/11/2023,21:51,2442,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YQ6T9DIR,03/12/2023,18:38,151,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-C2V2EJOH,03/12/2023,10:56,1932,CANCELADA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W0ZX4WXV,04/01/2023,05:42,515,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WHL0I07U,04/01/2023,11:31,2463,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EA9M2TKA,04/01/2023,21:59,955,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YCCJSTXJ,04/02/2023,21:09,196,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X2U70494,04/03/2023,02:23,1538,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-77VP2FK3,04/03/2023,11:07,1762,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AWXB4TKI,04/03/2023,20:10,1419,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S3ZOY72C,04/03/2023,10:42,968,CANCELADA,España,Susanita,Rebollo,Morell,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DK8ZYI1S,04/03/2023,19:42,2233,CANCELADA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EO0OKY9U,04/04/2023,18:48,627,EXITOSA,España,Atilio,Somoza,Monreal,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D2KBOFHX,04/04/2023,16:44,1403,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MTF57RIU,04/05/2023,12:37,195,CANCELADA,España,Azucena,Barrera,Sedano,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5BE6J979,04/05/2023,13:46,2172,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-64P3FW3B,04/06/2023,10:11,1011,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W7ZHQVQI,04/06/2023,21:46,1544,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BCB3ZJFV,04/07/2023,08:12,812,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KM5XB269,04/07/2023,17:57,300,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SOLY33IT,04/07/2023,19:17,1344,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RK2Q8VUT,04/07/2023,11:36,238,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IVS1OGMS,04/07/2023,19:42,2268,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-K5VSJRZN,04/07/2023,16:45,2012,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F37KRJ9Z,04/07/2023,18:37,552,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5VDZOW9T,04/07/2023,21:54,2019,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-I8YC94KR,04/08/2023,12:07,2103,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NQJ0PS4G,04/08/2023,10:57,527,EXITOSA,España,Nerea,Conde,Feijoo,Malta,ZZZ511A5,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Q5QS53MJ,04/08/2023,15:28,783,CANCELADA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LOEBWIRA,04/09/2023,11:16,1270,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Wilfredo,Montero,Valle,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZCLLHQ4X,04/09/2023,12:43,1459,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EPJRA2GE,04/10/2023,19:57,282,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0G4O6VNI,04/10/2023,16:17,1723,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E4KHO0IQ,04/10/2023,14:21,2182,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YO2I6PA1,04/11/2023,15:28,2934,CANCELADA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CJ05VFF3,04/11/2023,15:45,789,FALLIDA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CEV97CAH,04/11/2023,21:24,1784,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-URFDLQVX,04/11/2023,09:25,2438,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-A9B51HLJ,04/11/2023,20:37,142,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YAKVVJC1,04/12/2023,08:46,341,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IYL9QJBU,04/12/2023,12:43,1471,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QK4H3STY,04/12/2023,14:03,1827,EXITOSA,España,Loreto,Tejedor,Vilanova,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4L1HWV02,05/01/2023,10:09,2620,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NC56KEMG,05/01/2023,12:46,1831,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-75AHINV8,05/02/2023,16:08,2316,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7LJGZIPT,05/02/2023,11:45,435,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GQAM4I4D,05/02/2023,15:26,439,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AHZ974QA,05/03/2023,16:15,1435,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P41842J6,05/03/2023,13:15,2129,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IZ7NUP37,05/03/2023,21:31,2748,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-25EMJILO,05/03/2023,17:14,1142,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HMZM740K,05/04/2023,19:59,1420,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9XWMJZYJ,05/04/2023,15:57,2225,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JNUF39P9,05/04/2023,20:37,2576,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-92MI2OFA,05/04/2023,10:32,2916,EXITOSA,España,Florentina,Palomar,Vázquez,Uganda,ZZZE6951,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z9NFDJ93,05/05/2023,12:53,2026,EXITOSA,España,Perla,Bilbao,Pulido,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D1TLI7W7,05/05/2023,18:15,2120,CANCELADA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MF9VDHM7,05/06/2023,19:40,669,EXITOSA,España,Ximena,Arjona,Conesa,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5KVXRUZE,05/06/2023,17:22,1893,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-71HO8XFZ,05/06/2023,06:49,1059,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Paca,Almazán,,Kiribati,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0PIELJYO,05/06/2023,20:54,1116,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CF8Q9Q9Y,05/06/2023,12:12,659,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PYR12ZXL,05/08/2023,20:26,1198,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RVE7918H,05/08/2023,14:19,1412,FALLIDA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FTHX5HGM,05/09/2023,19:08,1462,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SSWKFFTF,05/09/2023,19:23,1864,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GUG98G6U,05/09/2023,19:13,2467,CANCELADA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4JNWNUGD,05/09/2023,09:05,151,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TMLAGDB5,05/10/2023,15:38,1657,FALLIDA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4E5NG0MD,05/11/2023,19:20,2608,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XFBKFYDB,05/12/2023,10:03,156,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OXK12UR7,05/12/2023,19:54,1032,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4L7NNTEU,05/12/2023,13:38,2173,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IMTL8LPD,06/01/2023,17:13,2176,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4H0XJBA5,06/01/2023,16:41,269,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DRMJWVM3,06/01/2023,13:50,1512,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4NJOKC3S,06/01/2023,14:41,1365,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2Y4E16ZS,06/02/2023,16:04,1188,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M3CX6OPS,06/02/2023,15:45,1171,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1HL8Q2FQ,06/02/2023,15:13,2604,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZN9RPP5Z,06/03/2023,21:27,1686,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MUHTL9VG,06/03/2023,07:04,2027,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HQPBKJHU,06/03/2023,14:37,2864,FALLIDA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3LTP3GID,06/03/2023,09:54,363,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IXYA10LL,06/03/2023,13:51,2895,FALLIDA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EKDOXGR5,06/03/2023,18:09,1389,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3XMCM16R,06/04/2023,16:29,2047,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FO73YJ37,06/04/2023,11:48,2197,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WPGRKU6T,06/05/2023,17:24,1361,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X68PQ1VT,06/05/2023,18:16,1134,EXITOSA,España,Gonzalo,Pulido,Terrón,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8WNS1W16,06/05/2023,09:09,1588,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GIQRRP6H,06/06/2023,20:18,2432,EXITOSA,España,Fito,Baró,Almagro,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WSCTUEJ1,06/06/2023,10:55,1520,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DA9VMUSF,06/06/2023,14:19,658,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FC0QA2V0,06/06/2023,12:48,2755,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Juan Francisco,Valentín,Plana,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QYEYDB2F,06/07/2023,15:00,1686,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KXFBW4VP,06/07/2023,04:43,381,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CMRF0XIP,06/08/2023,13:40,1457,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-03UOH9AR,06/08/2023,17:02,315,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FQZJZUL7,06/08/2023,07:43,1720,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Pepita,Chamorro,,Austria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5MBCBISG,06/10/2023,10:11,2960,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-08SD49N9,06/10/2023,17:42,2285,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VFHNJ09E,06/10/2023,18:56,444,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-99JESY4Y,06/10/2023,11:27,1659,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W7I3BVQY,06/10/2023,13:30,1665,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZOM7GBH7,06/10/2023,15:25,1184,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MUWPUECG,06/11/2023,17:01,1748,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W5A939NY,06/11/2023,16:52,2214,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-64PNZBMY,06/11/2023,13:33,333,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-460KDW61,06/11/2023,21:13,2160,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5PWN740I,06/12/2023,16:46,710,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GO7RRDEC,07/01/2023,19:43,83,EXITOSA,España,Reinaldo,Mariscal,Vera,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R98PUILI,07/01/2023,01:10,1002,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-85TUGYMU,07/01/2023,18:47,2123,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,ZZZ449CB,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QTJWYN71,07/01/2023,13:06,2935,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-725EDEBX,07/04/2023,15:37,799,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-71B3XJGB,07/04/2023,11:06,2525,EXITOSA,España,Gabriel,Lastra,Pacheco,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0I94A1DZ,07/04/2023,12:13,2072,FALLIDA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0EQA6VJY,07/05/2023,20:22,1184,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PNOYZE1W,07/05/2023,09:18,1683,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JAU2KMKY,07/06/2023,13:58,1146,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NCTZBON5,07/06/2023,09:05,185,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6OD7YNFY,07/06/2023,10:27,2158,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4ZMWLQMG,07/06/2023,13:23,919,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8LLQPUII,07/06/2023,08:55,2703,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AL4G5NCW,07/06/2023,09:29,423,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZJQG59WM,07/07/2023,22:41,2603,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AG0CBVPM,07/07/2023,17:38,308,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PUT4Q38X,07/07/2023,09:00,1973,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GTAQ4QCT,07/08/2023,15:39,2004,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AEP1YC0R,07/09/2023,11:42,2169,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YNOVZ175,07/09/2023,02:11,722,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Emigdio,Casal,Medina,Comoras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4SKEZJLR,07/09/2023,16:05,1851,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-45AA5RX8,07/09/2023,17:36,2832,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YEM1H2WV,07/09/2023,09:29,1408,EXITOSA,España,Blas,Lobo,Comas,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-O60XG5IE,07/09/2023,11:19,1073,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Joaquina,Navarro,Villalonga,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-719SP2GF,07/10/2023,09:35,1036,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9552QS75,07/11/2023,09:41,1702,EXITOSA,España,Anacleto,Cañizares,Bauzà,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-POKG6VNH,07/11/2023,20:57,1356,CANCELADA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6HRQUDL9,07/11/2023,12:39,123,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-C8FXK7BP,07/12/2023,15:48,1345,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EJYJAFHV,07/12/2023,21:54,688,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UOK3G4J9,07/12/2023,16:17,1463,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-C32HGBXJ,08/02/2023,21:46,419,CANCELADA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Maura,Ribera,Pont,Polonia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SGKS4VBK,08/02/2023,19:52,1217,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YJVN3IYG,08/02/2023,21:06,2804,CANCELADA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OE4G21Z8,08/03/2023,16:37,2873,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-V77EBA9I,08/03/2023,19:30,562,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KDZ4E274,08/03/2023,15:41,2956,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QY5BSYRE,08/04/2023,10:06,2648,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-66R4BQO7,08/04/2023,19:21,1739,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z7QGUI24,08/04/2023,12:01,2388,CANCELADA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XLQON33K,08/05/2023,19:54,655,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S8R7M57L,08/05/2023,19:51,321,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QLMDZ1CB,08/06/2023,09:21,2686,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RJT3OBQ6,08/07/2023,03:37,333,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U0XNARHX,08/07/2023,13:12,1569,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R7I748YY,08/08/2023,04:47,273,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D8KKQBYR,08/09/2023,12:50,2528,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-I507J3AQ,08/09/2023,15:49,2520,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SQZ8HH79,08/09/2023,14:03,954,CANCELADA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MS0ZN0CO,08/09/2023,15:06,1317,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-043IUJAR,08/09/2023,13:40,1139,EXITOSA,España,Alfonso,Morell,Juliá,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6JLT4322,08/10/2023,15:33,157,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-88OZWM68,08/10/2023,13:17,2939,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X3LZD7GD,08/10/2023,18:41,193,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E3YK9Z40,08/11/2023,17:50,1813,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G36DKOLU,08/11/2023,11:49,1896,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BD8OZJEF,08/11/2023,14:29,1650,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EC12HIN0,08/11/2023,19:59,292,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Q8DVRO2R,08/12/2023,16:13,1616,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-A3DZ3EVP,09/01/2023,12:54,1684,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1TA5YWF8,09/01/2023,15:52,803,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W0JRWETV,09/01/2023,18:27,95,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8R2DAZNE,09/01/2023,11:32,1322,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WSTPYDVX,09/03/2023,14:25,1483,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RLX05GHO,09/03/2023,16:56,1303,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-71G8R15L,09/03/2023,19:44,1519,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-94M5Y2HG,09/03/2023,14:14,1086,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WQNWDBRE,09/04/2023,16:00,1435,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ANP6PSXP,09/04/2023,18:52,2844,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6A7Z7DIZ,09/05/2023,17:51,2132,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3IBOYD4U,09/05/2023,18:39,2482,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-C3EXKOSS,09/05/2023,23:54,2337,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1N0UOP9E,09/06/2023,16:20,1625,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-60WL2NOV,09/06/2023,15:54,629,FALLIDA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OWDR4ED3,09/06/2023,16:21,379,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JBU31RFD,09/06/2023,19:36,1158,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FDF6UMUW,09/07/2023,13:41,2301,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ES1M0Z2I,09/07/2023,18:30,301,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QRIM7V6A,09/08/2023,14:54,2488,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6NQM966G,09/08/2023,23:54,256,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-N5MGWRCV,09/08/2023,10:42,1685,CANCELADA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Benigna,Otero,Cantón,Brasil,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S2LI589O,09/09/2023,19:54,994,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LYVLGEVL,09/10/2023,10:01,1249,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UOHP5OFY,09/10/2023,16:30,508,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5AZP0FB0,09/11/2023,09:54,862,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BLHEN0W0,09/11/2023,18:39,2982,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Joaquina,Navarro,Villalonga,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PKGYI6YM,09/11/2023,15:50,2413,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JEW85BTA,09/12/2023,03:56,61,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8HKSCN3C,10/01/2023,10:46,276,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XFTLNWXB,10/02/2023,12:41,1385,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-H85ZRVY1,10/02/2023,18:51,2141,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8MYFX24I,10/03/2023,09:18,551,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JCG55PEH,10/03/2023,09:47,228,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GQ3IKNTR,10/04/2023,18:11,1427,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NEUPAS73,10/04/2023,10:13,98,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MAMHVOZO,10/05/2023,16:23,2746,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MF2LT2RC,10/05/2023,16:02,2350,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VFL1FJZM,10/05/2023,15:26,2649,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KI0ON542,10/05/2023,12:44,1041,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UTBXD9TZ,10/06/2023,10:49,1387,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JI3M79UA,10/06/2023,19:09,1312,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J7Y93PIB,10/06/2023,20:46,2139,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AJD84865,10/06/2023,14:41,2269,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J1ES3BIZ,10/07/2023,10:00,2559,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-V8KF5MJ0,10/08/2023,10:03,1148,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6ZGJNOJO,10/08/2023,12:37,421,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E3L1EVDX,10/08/2023,12:03,98,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CGV06WX8,10/10/2023,20:54,1822,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6FYESZ2X,10/10/2023,09:15,1349,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M7QZDICD,10/10/2023,14:39,2482,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IO3L4FCD,10/10/2023,14:58,982,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LT8OFDXB,10/11/2023,15:28,84,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-US2T50CH,10/11/2023,10:27,1338,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M2V12ZVP,10/11/2023,11:40,264,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BDN7ZRPP,10/11/2023,12:56,2406,FALLIDA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6E6C1WS7,10/11/2023,21:42,1028,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Carina,Llopis,,República Federal Democrática de Nepal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LKRTFZ9B,10/11/2023,13:35,1849,CANCELADA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L8UDT0EP,10/11/2023,15:47,2809,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1R1ILT0P,10/12/2023,13:02,2220,CANCELADA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OVUD5DQA,10/12/2023,10:06,1845,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y70NXSVY,11/01/2023,15:33,523,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IN42SEZZ,11/01/2023,16:06,114,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-K8UXAZPC,11/02/2023,11:27,1434,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZGHA46TU,11/02/2023,14:58,235,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E1LOFK4T,11/02/2023,19:12,242,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SIS7N3HC,11/02/2023,14:28,2316,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-98KQVA0F,11/02/2023,13:45,2911,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YVDRYAPC,11/02/2023,19:00,3000,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P8KSCNTS,11/03/2023,18:24,2612,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EU62UW32,11/03/2023,18:45,2263,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-I6VH4ARH,11/03/2023,07:02,2008,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5JCPCE47,11/03/2023,14:45,997,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RA38S2Z0,11/04/2023,09:25,274,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-60BR1BTY,11/05/2023,13:45,1237,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Fidela,Díez,Romeu,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-13MCL379,11/05/2023,17:56,858,CANCELADA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XAJCAMZH,11/05/2023,11:35,2767,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IDLDNJ4H,11/06/2023,10:43,239,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VV0IXOQK,11/07/2023,09:45,701,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z2OEVBDO,11/07/2023,21:41,1462,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KOVW51HI,11/07/2023,13:56,820,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-45YXI0Y2,11/07/2023,19:18,2096,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RLAPD8DZ,11/08/2023,18:28,1118,CANCELADA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z8W3AU9C,11/08/2023,15:05,2759,CANCELADA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OMUNR2GF,11/08/2023,21:25,723,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KGJDZMSX,11/08/2023,20:15,2889,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7VHMYIWU,11/08/2023,13:46,2922,EXITOSA,España,Augusto,Tamayo,Bas,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VIGUOO2T,11/09/2023,17:23,1024,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F4A9N0YD,11/09/2023,10:28,1876,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Felicidad,Moreno,Carreras,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ELH3L3HT,11/09/2023,09:09,518,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YMAE82YQ,11/10/2023,13:44,1349,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2ALBA5X4,11/10/2023,15:03,2434,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IRT3RWCE,11/10/2023,13:34,2529,CANCELADA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1P2SP1GZ,11/10/2023,13:37,2485,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-47T0JWOR,11/10/2023,09:29,1402,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U8GJ45J8,11/11/2023,17:26,1017,CANCELADA,España,Raúl,Ferreras,Elorza,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NEHA853U,11/11/2023,18:02,900,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3LCIL3SP,11/11/2023,09:18,784,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-087KU3CJ,11/11/2023,20:16,2030,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KB3ZD5A9,11/11/2023,16:33,678,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AAUAXDPI,11/12/2023,17:25,2847,CANCELADA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JD8NR31B,11/12/2023,18:51,2865,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-44OQ2YYU,11/12/2023,15:07,2217,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CNF6EA1M,12/01/2023,15:02,1317,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0JM5ESZR,12/01/2023,17:45,1963,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DI5KU4VG,12/01/2023,10:50,164,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TEUNBUEF,12/02/2023,15:22,156,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9L3ZHLYL,12/02/2023,11:54,2214,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AT225ORP,12/02/2023,18:07,2778,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4B3186XZ,12/03/2023,13:36,2921,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LP2MWO1F,12/03/2023,11:54,2572,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FPU2P21S,12/03/2023,07:52,1597,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XN0FQDSG,12/03/2023,20:49,2668,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IESP4XPW,12/03/2023,13:21,120,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UB4ZWO6M,12/04/2023,12:06,1111,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0P7BQZUR,12/04/2023,13:58,2056,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SDN60FBR,12/05/2023,09:19,1895,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5LPQUE0N,12/05/2023,17:39,1453,FALLIDA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0OSRDHDP,12/05/2023,21:17,1023,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UMPG80LG,12/05/2023,13:32,2361,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-A5FNZ837,12/06/2023,12:17,1571,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,ZZZ9928D,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YRBF5SC8,12/06/2023,19:24,1118,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IQLPZS9B,12/07/2023,18:36,816,CANCELADA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YWF1XHKS,12/08/2023,17:02,2802,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-77K4YSBE,12/08/2023,12:44,1412,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F4UN0HZY,12/08/2023,16:38,643,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KXYMX4AU,12/08/2023,08:44,1748,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RUNO6X05,12/08/2023,13:38,2152,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YD9NNJ6K,12/08/2023,10:36,843,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BTBGN86V,12/09/2023,14:54,2774,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-INYGBJZC,12/09/2023,11:43,2734,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Paca,Almazán,,Kiribati,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VH72S3BE,12/09/2023,10:17,2228,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-41WIAL4W,12/09/2023,13:26,175,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3N5QC7RL,12/10/2023,19:53,471,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Amaya,Castejón,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ROZ8P6EJ,12/10/2023,10:29,251,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4NR7ZSHY,12/10/2023,09:44,295,CANCELADA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5SDV0YGD,12/11/2023,18:33,468,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4NV1GM5H,12/11/2023,12:32,1527,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIA8R3WQ,12/11/2023,10:00,158,EXITOSA,España,Arcelia,Garcés,Pinto,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2GHNVXXZ,12/12/2023,20:20,1702,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MNDKBTO1,12/12/2023,16:03,2001,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4RHR524D,13/01/2023,21:40,261,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IAH1LG2Y,13/01/2023,10:31,1056,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YO0I5AZ4,13/01/2023,13:24,196,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CBLEAW36,13/01/2023,11:29,1296,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GALE7QY4,13/02/2023,13:38,2692,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VJ6YIPMR,13/02/2023,14:05,1348,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JH71MUX5,13/03/2023,12:45,1411,EXITOSA,España,Eugenia,Atienza,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TXHDBECX,13/04/2023,15:21,2920,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EBPRKLR8,13/04/2023,17:38,506,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DPZJZZHZ,13/04/2023,14:32,2087,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4FGYMYUG,13/04/2023,12:43,844,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4HWKCMO7,13/05/2023,09:58,422,FALLIDA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WTY9TH9A,13/06/2023,18:58,1119,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ETTRGE3K,13/06/2023,19:23,284,FALLIDA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HMZ13N6B,13/06/2023,15:07,1189,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9H1B436E,13/07/2023,09:43,2867,CANCELADA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-34GI5VUF,13/07/2023,10:28,2463,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9J5UK2BG,13/07/2023,11:41,217,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TPHDYHN8,13/08/2023,12:51,2581,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-378I8XPZ,13/08/2023,12:44,955,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Édgar,Castells,Portero,Nauru,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UMU3J41L,13/08/2023,15:59,2101,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0UQS2IQR,13/09/2023,13:42,1676,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LXMBSIUC,13/10/2023,21:09,175,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2XT2E2WS,13/10/2023,12:54,2607,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-T8I0RA2A,13/10/2023,20:38,80,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8RJETC8T,13/10/2023,15:23,2267,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F4BMMJBH,13/10/2023,14:59,989,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L10K1U5C,13/10/2023,09:35,935,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IIAE6PNR,13/10/2023,21:57,2881,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-025C1OC2,13/11/2023,21:29,870,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-I04GU22X,13/11/2023,10:40,265,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2W2ERPVA,14/01/2023,09:01,1413,CANCELADA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MX892A1G,14/02/2023,21:12,450,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-31CBN2VK,14/02/2023,17:43,2274,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JS0SXZI5,14/02/2023,09:14,1928,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X3EZT133,14/02/2023,11:29,1885,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3JPCDD60,14/02/2023,19:53,2842,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CE94LHTQ,14/03/2023,19:11,660,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-850G7MN0,14/03/2023,20:22,2685,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0NB2OMYT,14/03/2023,12:33,2798,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y19CMXMD,14/04/2023,11:53,833,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QT3E8O20,14/04/2023,19:33,2030,EXITOSA,España,María Luisa,Polo,Carbonell,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MWGTDBX9,14/05/2023,12:01,2690,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1AYOK342,14/05/2023,21:35,2153,EXITOSA,España,Bernardita,Parra,González,Líbano,ZZZ40492,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7X786A1V,14/05/2023,09:40,1640,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CYMCTB29,14/05/2023,18:30,319,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-03PP8NGN,14/05/2023,14:59,756,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6QIZKHUT,14/06/2023,09:46,249,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WM76MNE8,14/06/2023,16:14,914,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PF8NSYXY,14/07/2023,16:09,671,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FJ1859G7,14/08/2023,00:40,808,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VF5XNQ8D,14/08/2023,12:05,817,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BTXXLGUG,14/09/2023,15:27,1876,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3VAUE1AN,14/09/2023,13:15,2181,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XYUKN4TD,14/09/2023,09:28,1879,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-T6KWAZ4I,14/09/2023,21:30,2627,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UKOVQI0O,14/09/2023,19:21,177,EXITOSA,España,David,Oller,Guerra,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-H95HJF6A,14/10/2023,15:36,2106,EXITOSA,España,Mariana,Villalonga,Carreño,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XIU0EE1K,14/10/2023,18:31,2965,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-V3UM3CBV,14/11/2023,14:19,1803,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,ZZZB803B,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y8J0UB38,14/11/2023,21:57,1162,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Laura,Fuertes,,República de Corea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WIDFXLGN,14/11/2023,10:25,1228,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-O9OFAE9M,14/11/2023,20:44,1173,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GQKHVEHK,14/12/2023,09:56,1325,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9YQLKEXN,15/01/2023,12:14,564,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-URO16KUP,15/02/2023,12:07,2881,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-A2Y99BZP,15/02/2023,18:44,472,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DRMEMLCH,15/02/2023,20:33,2098,FALLIDA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HV1T4QB0,15/03/2023,09:11,1418,FALLIDA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6J5HJYXG,15/03/2023,19:49,966,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YM73NCGQ,15/04/2023,18:12,1852,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6QJZA5XO,15/04/2023,16:24,2684,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9V1QNFEH,15/05/2023,15:02,285,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R75AQGZP,15/05/2023,12:31,2758,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KQR2IIOZ,15/06/2023,18:55,127,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6R4OOS5P,15/06/2023,09:09,2184,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S4E5PBRX,15/06/2023,11:08,89,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P5ABGVIL,15/07/2023,20:35,2427,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QR4LVLDF,15/07/2023,01:58,1674,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZU6U933L,15/08/2023,20:15,907,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-35WEG02I,15/08/2023,20:36,735,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YR4SRHFC,15/08/2023,12:54,2753,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UFG51RYV,15/08/2023,14:08,2307,EXITOSA,España,Ligia,Garzón,Benet,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3BE2JUC3,15/08/2023,19:51,2100,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9Q9QYMRS,15/08/2023,13:57,958,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5Z5CJAOB,15/09/2023,15:03,2788,EXITOSA,España,Eli,Aparicio,Pinilla,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZMBXE6OH,15/09/2023,13:37,1654,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E8XJ6BZ9,15/09/2023,12:43,1367,EXITOSA,España,Faustino,Cobo,Aguirre,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0XLKL24X,15/10/2023,11:01,2933,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1B9NPG46,15/10/2023,21:51,628,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z2NIZIVN,15/11/2023,17:27,782,CANCELADA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D7AS64I0,15/11/2023,02:04,1112,CANCELADA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EHWBS8F9,15/11/2023,07:14,2076,EXITOSA,España,Ariel,Duque,,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E9Y42O6D,15/11/2023,20:19,1557,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PN33HP2N,15/11/2023,19:29,2266,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KL8504X6,15/11/2023,10:53,203,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YTF4H18L,15/11/2023,10:42,348,FALLIDA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z8G6ED48,15/12/2023,21:44,275,EXITOSA,España,Felicidad,Peral,Trillo,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-H89T3I8A,16/01/2023,18:25,2991,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PEGIT9TN,16/01/2023,09:09,2724,FALLIDA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KIF7DDAF,16/01/2023,20:54,2672,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YPPXZ8SJ,16/01/2023,16:28,1574,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3D7UV9NF,16/02/2023,12:56,2477,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U61IY1TX,16/02/2023,14:47,1150,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GE4U5H6Y,16/02/2023,14:15,1484,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3DZN9TL3,16/03/2023,14:52,326,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Emigdio,Casal,Medina,Comoras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OI3D7V1Y,16/03/2023,14:02,1238,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QF8F6EI6,16/04/2023,18:16,2784,EXITOSA,España,Alexandra,Girona,Montalbán,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XXU99COG,16/04/2023,15:32,1140,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4RFRI61U,16/04/2023,19:03,2265,CANCELADA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W9YMZ3UX,16/04/2023,12:57,434,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R3H7LQVV,16/04/2023,17:50,621,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IW96S587,16/04/2023,14:09,938,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EZPFWWXJ,16/05/2023,20:56,1914,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5A4ANLSG,16/05/2023,21:08,169,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Andrés,Escamilla,,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZK3G68ON,16/05/2023,09:53,1640,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9UEMOW9I,16/06/2023,16:07,2238,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LKWNPSC9,16/06/2023,17:05,1771,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M89B7G0M,16/07/2023,14:37,1703,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GZDXXQCU,16/07/2023,18:14,509,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KSNXYPA1,16/08/2023,21:28,358,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QHD12S9L,16/09/2023,18:02,2742,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UNRB25HN,16/09/2023,19:01,495,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QGUIAGXC,16/10/2023,17:48,217,FALLIDA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MB2LN44Y,16/10/2023,10:23,1620,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KW5RDIDR,16/10/2023,18:28,869,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-813IIF9N,16/10/2023,13:28,1614,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-O26FUUBO,16/10/2023,16:09,1377,EXITOSA,España,Concha,Arjona,Córdoba,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D7PWXWI1,16/10/2023,17:03,2377,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BGK4E5EG,16/10/2023,20:04,732,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0OBOH2TC,16/10/2023,15:17,1011,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M79D4DNI,16/10/2023,13:58,2362,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X2A20PIN,16/10/2023,16:44,2700,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-K5NIASWS,16/10/2023,19:00,2091,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X0E4OMNM,16/11/2023,21:17,2050,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ESAZ4VEF,16/11/2023,18:49,1647,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z77X6IJZ,16/12/2023,17:50,764,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MR2X2D18,16/12/2023,20:12,733,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-A6WJOTOW,17/01/2023,10:37,2813,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JJQ1ZQGP,17/02/2023,19:52,274,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-77SYIOQM,17/03/2023,12:51,1585,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-I4JMKBMN,17/03/2023,15:01,809,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y2F5PRYN,17/04/2023,20:52,755,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8WFTM1HF,17/04/2023,17:04,662,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0XLR1PKX,17/04/2023,16:41,214,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-T6YT08P6,17/04/2023,09:42,469,CANCELADA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NVZJ4Y1X,17/04/2023,18:21,2777,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MGDPW0SH,17/06/2023,19:17,1809,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-83AOBBX4,17/06/2023,21:42,279,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2BWXHHWM,17/06/2023,21:12,302,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6ZE7M9S6,17/06/2023,10:53,1925,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BUMPE6T7,17/06/2023,12:50,1255,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2OVS59S4,17/06/2023,11:41,2957,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7B5XPPFI,17/06/2023,16:39,1631,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RE8JQ2V6,17/07/2023,09:14,1166,EXITOSA,España,Perla,Lopez,Martín,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JVAGVGZP,17/07/2023,20:39,2223,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VO5VLNN0,17/07/2023,17:54,2723,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J4B7VLQG,17/07/2023,19:23,2298,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8ZYDPQLD,17/08/2023,10:33,2948,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8Q7ENW93,17/08/2023,22:21,683,EXITOSA,España,Merche,Mateos,Batlle,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ORLPO4LU,17/09/2023,20:27,2635,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FECQTB7C,17/09/2023,20:29,2459,EXITOSA,España,Rolando,Quintana,Chaparro,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M70VP6Y9,17/09/2023,18:47,471,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-T4015VRO,17/09/2023,18:28,1764,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8Y9IR3T0,17/10/2023,16:36,2498,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9GTKJGSD,17/10/2023,10:08,1364,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5HA5K6M2,17/10/2023,14:22,2563,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XHHL7OBY,17/11/2023,21:58,2694,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-79W0CEI8,17/12/2023,21:31,2230,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AN2G5O4W,18/01/2023,20:01,1951,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7D7R3FS0,18/01/2023,13:30,1842,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DDHR4KRN,18/02/2023,13:49,923,CANCELADA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-N00B6REU,18/02/2023,20:44,2661,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MHSI0DCK,18/02/2023,13:18,2137,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XT8X6OLF,18/03/2023,11:15,814,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6J2FITGG,18/04/2023,15:02,2591,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6AX92ZKL,18/04/2023,11:45,1731,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GHQFKDV0,18/04/2023,18:35,2068,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PP0WESSG,18/05/2023,19:36,2905,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z7A54A4A,18/05/2023,17:19,1493,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E0OGH2ZP,18/05/2023,20:41,598,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M8BW1J0C,18/05/2023,19:51,362,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OOWCHKKV,18/06/2023,16:05,1025,CANCELADA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9J4TI5Z2,18/06/2023,14:06,2904,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L2I2EAZC,18/06/2023,09:24,2879,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y4QQEKV3,18/07/2023,19:06,712,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WSCCS4DY,18/07/2023,12:21,1641,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MFT01AQX,18/08/2023,12:45,1516,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1PZ37CM0,18/09/2023,12:51,1823,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-N7IBCTI4,18/09/2023,09:34,347,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y5B6W4Y9,18/09/2023,09:52,2932,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-H18ZY7SA,18/09/2023,10:00,1473,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-71PS5PYK,18/09/2023,09:32,2685,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ULXD43MY,18/09/2023,21:01,1710,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5LAV6DHK,18/10/2023,09:20,1793,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AJ4RW0GF,18/10/2023,09:02,858,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XZGNOR2Z,18/11/2023,20:20,2851,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JO1ZNCKY,18/11/2023,20:41,947,EXITOSA,España,Lupe,Porta,Llopis,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZDJZHIBW,18/11/2023,09:43,1064,CANCELADA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6JQF8YME,18/12/2023,19:03,2605,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-522ES4DC,18/12/2023,12:53,1103,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M5JYUFHA,19/01/2023,09:16,885,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9O5LGDMU,19/01/2023,21:45,1233,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-K1TUWUFT,19/02/2023,15:51,1398,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-40SGLMPB,19/02/2023,21:24,2481,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-91UYNRRB,19/02/2023,09:46,441,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0SYM233I,19/02/2023,12:52,1009,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4AOMIH8N,19/03/2023,20:10,2240,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TO9JYVKU,19/03/2023,08:08,2503,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GZOW3OIH,19/03/2023,19:43,2670,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-B63U4Z71,19/04/2023,16:22,742,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZRSTVMH5,19/05/2023,10:57,708,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Alonso,Rozas,Barón,Benin,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-69PXZMSK,19/06/2023,09:12,2266,FALLIDA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R6UKVYDK,19/06/2023,10:15,2131,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FNSZS90K,19/07/2023,17:03,582,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-C2VBZDSW,19/07/2023,20:47,1160,EXITOSA,España,Javier,Barral,Checa,Jamaica,ZZZ9F8C6,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TZYBD4DF,19/07/2023,21:25,2828,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Q51CK17J,19/07/2023,21:45,2111,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DCVI7RJL,19/08/2023,16:57,2053,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YHXFR2Z9,19/08/2023,15:06,1251,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L3E4Y4MZ,19/09/2023,10:35,1283,CANCELADA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Zaragoza,Sujeto_Obligado12,Agente8055,True
+TXN-6XH1WLQB,19/09/2023,16:55,2392,FALLIDA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0PPP3PJM,19/10/2023,14:26,661,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FOHZABV7,19/10/2023,21:06,1352,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-78D0GL0Z,19/10/2023,14:02,994,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-E7I9FDCZ,19/10/2023,18:47,2137,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QJICS99L,19/11/2023,11:52,1644,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NBD3P2CA,19/11/2023,21:21,2185,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9EVB0HKY,19/12/2023,19:01,2331,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S7AEDCQG,19/12/2023,18:33,1599,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PDE7MUJN,19/12/2023,14:29,1335,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NNEE5ZLE,19/12/2023,09:50,1830,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ONGNOK49,20/01/2023,21:48,503,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-53PPU9OV,20/01/2023,20:58,449,FALLIDA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WXIYOXJC,20/02/2023,12:57,2018,EXITOSA,España,Pilar,Cervera,Campo,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SW6JR7ZF,20/02/2023,11:33,2951,FALLIDA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Alcides,Girón,Guillén,Arabia Saudita,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AJ9IWRGM,20/02/2023,16:13,1828,CANCELADA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7O2LI6ZM,20/02/2023,14:49,469,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NK4KKAVT,20/02/2023,19:12,417,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1CHTIRLV,20/03/2023,21:03,1211,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3FHR0XUF,20/03/2023,21:26,1808,CANCELADA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XMM6OBVC,20/04/2023,16:24,1297,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Sabas,Carvajal,Aragón,Ghana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-46WDGSZQ,20/04/2023,21:37,1959,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UTR0R7PX,20/05/2023,12:53,2206,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MPLYIPKN,20/05/2023,16:44,2565,CANCELADA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9V4W7UV3,20/05/2023,11:19,1691,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZRCO78QB,20/05/2023,10:45,659,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Celestino,Buendía,Solís,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UV3OKYPQ,20/05/2023,13:09,2232,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Julio,Tamayo,Villalobos,Hungría,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8BSVVMLO,20/06/2023,10:10,2362,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Hilario,Pardo,Asenjo,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VDMRQ9UH,20/06/2023,16:11,1435,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CWXZ4Z5X,20/06/2023,14:40,598,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4ZAXW80H,20/07/2023,21:34,1746,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZT16NFA6,20/08/2023,11:49,2335,FALLIDA,España,Fortunata,Bru,Aragonés,Liechtenstein,ZZZ2C6D3,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ILS62KHR,20/08/2023,19:55,2729,FALLIDA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8AW3K5UW,20/09/2023,16:22,1949,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JMVXFXG1,20/09/2023,13:13,2717,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JWP87PZL,20/10/2023,19:19,2243,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KS9C1YHF,20/11/2023,09:06,2038,EXITOSA,España,Maxi,Dueñas,Batlle,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J3KGLXKK,20/11/2023,17:47,1598,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-29HK7SWZ,20/11/2023,15:43,2696,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9WECHURI,20/11/2023,15:47,1819,CANCELADA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MM3ZI5T5,20/11/2023,17:01,1633,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8E53QLNB,21/01/2023,17:26,1185,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2BUKY6SY,21/02/2023,19:13,2450,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8LTCI6AR,21/03/2023,14:28,456,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZVIRRCV7,21/03/2023,21:32,919,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L1GR9UVZ,21/03/2023,20:07,2375,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LA6CEW22,21/03/2023,13:05,1344,CANCELADA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Vera,Viña,Gras,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CZKVUN8C,21/03/2023,20:26,1468,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DQ9ZH1SQ,21/04/2023,11:02,1111,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LOYWTW0F,21/04/2023,18:44,299,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XJ1YRXVV,21/04/2023,16:34,2644,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PQ2PXOYZ,21/04/2023,18:23,2716,CANCELADA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AGIA6YE6,21/05/2023,19:06,229,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1IDHKDG6,21/05/2023,13:56,748,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Q9J77TG7,21/05/2023,13:22,1345,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QCAXY08Y,21/05/2023,15:40,2499,EXITOSA,España,Nicolás,Aranda,Coello,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7RVQB9AG,21/05/2023,20:07,1776,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SYAWZERA,21/05/2023,11:52,68,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ETKJS74Y,21/06/2023,17:34,1623,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0MZGQNQA,21/06/2023,15:57,1224,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EDZSB5E3,21/06/2023,09:04,807,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CJL7STVN,21/08/2023,16:22,2166,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U28SIX9N,21/08/2023,13:52,2879,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NRC38135,21/09/2023,13:04,1169,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BMY2O42C,21/09/2023,19:41,2653,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-N359AEXP,21/10/2023,12:31,2496,FALLIDA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3873UZVF,21/10/2023,09:56,2460,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4EF9B7VP,21/11/2023,11:49,1466,CANCELADA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WP2SP938,21/11/2023,18:48,2648,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-24Y3V3JH,21/11/2023,10:11,1562,EXITOSA,España,Luisa,Codina,Ferrando,Senegal,X3205334P,España,08/01/1917,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HJY9VKSA,21/12/2023,11:47,814,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-T9AAIASB,21/12/2023,12:14,2917,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Gertrudis,Olivera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZAS2PDPN,22/01/2023,03:16,741,CANCELADA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-83RONO0K,22/01/2023,14:21,1245,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZWFMGZAZ,22/01/2023,17:02,1966,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Zaragoza,Sujeto_Obligado12,Agente8055,True
+TXN-LI0PPKYW,22/02/2023,04:04,1085,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Jose Francisco,Higueras,Carbonell,Arabia Saudita,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-61LNSCGY,22/02/2023,09:07,1545,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4ZIG9M8K,22/02/2023,16:17,2277,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WXG70LJ9,22/03/2023,18:50,789,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6ZTS97I7,22/04/2023,17:35,1224,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RHGWFFNU,22/06/2023,13:56,589,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-62KD5SL3,22/06/2023,13:22,1399,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-69YI34Y0,22/06/2023,12:59,1494,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9ZHGZI9W,22/07/2023,20:11,2682,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P6LVXPC0,22/07/2023,17:31,2529,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-X6NY43P4,22/07/2023,16:12,2343,EXITOSA,España,Noé,Ruano,Costa,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W0NBVR29,22/07/2023,19:05,201,EXITOSA,España,Amando,Ribes,Iglesia,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Toribio,Tejero,,Belarús,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CZM9TKJ6,22/08/2023,21:39,1797,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EEVRILRM,22/08/2023,14:43,1848,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NU9ZUGVX,22/08/2023,21:59,2759,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L7DWTO2B,22/09/2023,10:14,2368,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7R9YA23B,22/09/2023,17:49,2595,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0QBHU5EA,22/10/2023,15:32,2355,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2X492CAR,22/11/2023,12:29,2936,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7A9P80UQ,22/12/2023,15:52,1304,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3LIR4QC1,22/12/2023,14:32,354,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HJXD83L8,22/12/2023,09:31,1079,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DXJ244IH,22/12/2023,19:07,1933,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G311W3KS,23/01/2023,00:48,2827,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-D9IXUSO5,23/01/2023,15:19,1524,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0PRVK527,23/02/2023,18:38,2319,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-283TOYLS,23/02/2023,17:47,449,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BCAEXAZ3,23/03/2023,18:12,1256,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-A39FU9LV,23/03/2023,14:56,1868,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S7AMDBW8,23/04/2023,07:38,2571,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J8EVSUOF,23/04/2023,14:32,2424,FALLIDA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KJTW55SE,23/04/2023,09:20,1504,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LX6EXH5O,23/05/2023,14:56,741,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PY32GUWD,23/05/2023,16:09,1029,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2HLADGNL,23/05/2023,14:46,2687,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-APW6QO49,23/06/2023,16:24,1692,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-H1TT4XEC,23/06/2023,17:36,1230,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S6HDOCWM,23/06/2023,18:21,1863,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-17GX1IXW,23/06/2023,18:53,1789,EXITOSA,España,Herminio,Villalonga,Casanova,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2IQL1CFK,23/07/2023,13:54,766,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OCR9MK9Q,23/07/2023,15:23,1646,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RBPF3P0E,23/09/2023,19:07,966,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Hilario,Puga,Gibert,Uganda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1N9EESVD,23/09/2023,18:13,1805,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-047F2GJP,23/10/2023,14:58,1077,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AE7X2HTM,23/10/2023,18:04,2921,CANCELADA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZXHQU0IC,23/10/2023,21:59,1587,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8G9CGFES,23/11/2023,19:20,2340,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Z9F5EHBM,23/12/2023,10:21,1142,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FY0SAB2R,23/12/2023,20:53,452,CANCELADA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3SDYRBOE,23/12/2023,12:08,335,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-84MNJLPV,23/12/2023,18:35,1126,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PWAL1PJZ,23/12/2023,10:12,997,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7IGSO8GZ,24/01/2023,16:47,360,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SSXEC0OD,24/01/2023,16:57,2754,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GMWN2VI4,24/02/2023,15:55,771,EXITOSA,España,Cristian,Montalbán,Verdejo,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8J5JWWD5,24/03/2023,13:30,2241,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ABS5ENT5,24/04/2023,09:22,534,EXITOSA,España,Pacífica,Juan,Varela,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IMCIRLJ1,24/04/2023,12:55,1664,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6Z6JX6M4,24/04/2023,15:23,2253,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RXECKC8L,24/04/2023,14:21,2720,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9P17PM3Z,24/05/2023,09:36,2366,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JBG185YQ,24/05/2023,18:32,349,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EVXB3BRW,24/06/2023,13:04,1884,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IRRKWZOQ,24/07/2023,10:45,1610,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-45118XH4,24/07/2023,19:31,2486,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NSTJ7T4F,24/08/2023,18:12,79,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P63WTQUO,24/08/2023,20:58,541,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W0GPIRTH,24/10/2023,22:20,2788,FALLIDA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GXY65FEE,24/10/2023,09:13,704,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GQ4A37HG,24/10/2023,11:36,1944,CANCELADA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-T7L5G6BL,24/11/2023,10:25,51,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SOD6YD6Q,24/12/2023,00:32,479,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QW900276,24/12/2023,11:11,334,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BASMJNBC,24/12/2023,13:45,966,FALLIDA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2N0KAEH8,25/01/2023,15:04,2430,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-193CMYX7,25/01/2023,10:18,1232,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QKC0QJ2B,25/01/2023,17:48,1959,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AJRAC4NA,25/02/2023,16:38,1366,CANCELADA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GZ305EXT,25/02/2023,12:07,151,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QTAD4O65,25/03/2023,19:00,427,CANCELADA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8V08OS5G,25/03/2023,17:52,1872,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8UB5R720,25/03/2023,09:06,2142,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-8MMIMOY3,25/04/2023,18:50,1729,FALLIDA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P0X5WB11,25/04/2023,12:43,2182,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R0DVIJHW,25/04/2023,11:37,1574,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G2EFN0HM,25/05/2023,14:36,2362,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZJ0UZE5W,25/06/2023,18:37,1200,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZMMPJNKW,25/06/2023,21:43,1095,CANCELADA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Nando,Conde,Campo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GL2DSSE4,25/06/2023,14:09,465,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Gaspar,Costa,Cuéllar,Madagascar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J0VNP1A9,25/06/2023,09:50,2766,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6CU4GS1O,25/07/2023,20:22,2300,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9PFETPKB,25/07/2023,07:42,2814,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FQAW1GNO,25/07/2023,17:15,474,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CQ0427R1,25/07/2023,10:39,973,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RT82QXFL,25/08/2023,10:45,1936,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MW1AE2YO,25/08/2023,17:14,2168,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EH6STV8G,25/08/2023,13:59,2339,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7G402BN4,25/09/2023,16:30,2065,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-J7GU98AH,25/09/2023,15:19,857,EXITOSA,España,Rita,Caparrós,Hidalgo,Senegal,X3205334P,España,08/01/1917,False,Toribio,Tejero,,Belarús,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-W6PMRS2B,25/09/2023,13:57,773,EXITOSA,España,Odalys,Marquez,Girón,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ULYVJLQR,25/10/2023,13:39,2922,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4J1MBPU7,25/10/2023,11:35,146,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U6V977HQ,25/11/2023,15:53,1128,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Purificación,Puerta,Corominas,Grecia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4GZL9C3Y,25/11/2023,21:29,1961,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9LSFE677,25/12/2023,19:41,2036,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KM5UBZZV,25/12/2023,07:32,308,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TYL5YU1C,26/02/2023,11:40,2315,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZS0ZJ7WE,26/02/2023,14:05,2105,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-2HSY30L5,26/02/2023,12:40,2892,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YW1GLAZ7,26/02/2023,15:48,2856,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HC9M71OO,26/02/2023,21:11,745,EXITOSA,España,Plácido,Olmedo,Navarrete,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9HXUFDTE,26/02/2023,13:14,563,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6OZPHNB1,26/03/2023,20:32,1418,EXITOSA,España,Casemiro,Ugarte,,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P8A75IDQ,26/03/2023,09:08,1940,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3XFWQCRB,26/04/2023,16:38,1164,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6C8XLN5K,26/04/2023,13:54,1606,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IM38GFJT,26/04/2023,19:44,2768,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R14MDADI,26/04/2023,10:04,1420,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1HA61KDA,26/04/2023,13:02,504,EXITOSA,España,Martirio,Armengol,Carrera,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JK6INI38,26/04/2023,11:27,2053,CANCELADA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G2YV1GCP,26/05/2023,16:13,310,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-06FR3BHV,26/05/2023,17:33,942,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JSJ8PSDL,26/05/2023,17:23,996,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-12BHM0Z3,26/05/2023,21:47,110,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JFKDDUOI,26/05/2023,15:53,1894,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ESS3W24A,26/05/2023,15:51,2268,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RI1E6NVZ,26/05/2023,17:47,532,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,True
+TXN-HXM9ZOH4,26/06/2023,17:16,1997,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AMZ9XSD5,26/06/2023,19:46,1676,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6TV1C16I,26/06/2023,09:52,509,EXITOSA,España,Tiburcio,Bru,,Rumania,ZZZ13673,Bangladesh,28/01/1913,False,Matías,Montoya,Palomares,Trinidad y Tabago,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QFYZTOZU,26/06/2023,21:24,58,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OSCSXOHT,26/07/2023,16:08,2144,FALLIDA,España,Jimena,Riera,,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1U2A6D8N,26/07/2023,19:51,652,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L5EOI444,26/07/2023,10:41,2378,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-JDJUR3WV,26/07/2023,15:37,456,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G5LM9H6X,26/07/2023,18:53,1403,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZPE7Q8U3,26/07/2023,12:42,2622,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-F60YSNS6,26/07/2023,10:44,477,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-IWPWQK0M,26/08/2023,13:20,1989,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OYFK3ZD6,26/08/2023,16:14,2939,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-O35XJ7ZP,26/09/2023,20:02,1448,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TOUBU2P8,26/09/2023,19:24,1002,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-229BQ6QX,26/09/2023,19:08,2036,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L0C4HE3Y,26/10/2023,12:23,50,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9NLOFB22,26/10/2023,15:57,1120,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-3K8B8C5S,26/11/2023,02:07,2363,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LU8HXWFZ,26/11/2023,20:01,269,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-37694V4U,26/11/2023,17:25,1347,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KP0W2U0H,26/11/2023,15:52,1802,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Régulo,Espejo,Ricart,Tayikistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RSHDRZRH,26/12/2023,18:42,2016,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WHE5VID9,26/12/2023,16:38,734,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S41CNDUQ,26/12/2023,16:21,1571,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S9NXQP87,26/12/2023,18:21,2774,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-VXSXD0P4,27/01/2023,18:58,434,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-95VQ0UPR,27/02/2023,09:46,572,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YL6KO4UY,27/03/2023,14:36,56,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RT99Z5YX,27/03/2023,21:38,2153,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UNBFKJEX,27/04/2023,19:53,1122,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-6FR6LJXW,27/04/2023,16:54,1753,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-1PHUY6Y7,27/04/2023,21:51,2791,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-EITRPYHG,27/04/2023,17:20,2383,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-4U6BOR70,27/04/2023,09:58,2019,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GGPUWVKD,27/05/2023,11:45,2461,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PR13870W,27/05/2023,17:30,475,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-LQFDVJFI,27/05/2023,16:16,1317,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,ZZZACB4A,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-OI2QKXI3,27/05/2023,11:19,2470,FALLIDA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-BOWNKOMO,27/05/2023,14:08,2879,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ECP7GX8T,27/05/2023,17:29,1860,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-TBS4GG7Q,27/06/2023,08:27,2338,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-7BZTKQJB,27/06/2023,11:26,1954,CANCELADA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-34MX9VV7,27/07/2023,13:06,1724,EXITOSA,España,Fulgencio,Manzanares,,Barbados,ZZZ1256D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9V438GWC,27/07/2023,10:21,455,CANCELADA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-O2ST3XWN,27/07/2023,12:25,770,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CPI83AA8,27/07/2023,16:08,409,CANCELADA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NTKYGXF0,27/07/2023,18:54,2037,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QGS8Q1KS,27/10/2023,15:20,2613,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-YR8VM943,27/10/2023,15:43,2522,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RULEGWLK,27/10/2023,17:53,2381,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-81XXCWML,27/11/2023,02:02,854,CANCELADA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-0LNXTFIQ,27/11/2023,09:15,1184,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Q1KCFW4H,27/11/2023,15:35,1505,CANCELADA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-S4YB41JG,27/12/2023,20:41,298,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ACYWXRPV,28/01/2023,08:09,1883,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-L19UKXLX,28/01/2023,15:42,2357,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-P3N2984K,28/01/2023,17:37,1979,EXITOSA,España,Daniel,Coll,Peiró,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-9O3PJZQ9,28/02/2023,19:49,457,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PZK4X4GD,28/02/2023,09:03,2594,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-USTTAEGG,28/03/2023,15:38,2889,CANCELADA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GNSVIHZ4,28/03/2023,14:20,142,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FXM69XNS,28/03/2023,20:40,1163,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZIOST6C9,28/03/2023,10:51,1433,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-43TITW00,28/04/2023,15:51,2429,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-ZXS6C105,28/04/2023,15:41,2178,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-G6LYPE6O,28/05/2023,02:08,1013,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-PSDUUMIZ,28/05/2023,14:31,1485,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WIWZWFHS,28/06/2023,18:24,2347,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U6N9SYBG,28/06/2023,18:19,741,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-XWH8GDDV,28/06/2023,11:17,1383,EXITOSA,España,Belén,Romeu,Gallego,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-KLLT5PQL,28/06/2023,17:13,2872,EXITOSA,España,Corona,Quintana,Fernández,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-AK4LPR0K,28/07/2023,13:58,282,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-SJIWO1PP,28/08/2023,11:36,471,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,ZZZ79BBD,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5C8PXN48,28/09/2023,18:03,2292,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-32A4MAER,28/09/2023,21:03,2562,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-MT36KV63,28/09/2023,19:06,1826,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-GJAO8KIS,28/09/2023,14:00,1327,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-CVGDJ2BK,28/09/2023,16:26,129,CANCELADA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-M3OTUEHM,28/09/2023,15:19,1038,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Modesto,Badía,Cabrera,Zimbabwe,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NM5IS50B,28/10/2023,17:05,2604,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-WFZ24ZOO,28/10/2023,15:18,1847,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-NEYT8SEO,28/10/2023,17:48,383,CANCELADA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-B0WFDI6Z,28/10/2023,20:11,1113,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-U7PWOYSA,28/11/2023,09:27,609,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-QSGEKI5X,28/11/2023,16:47,1149,EXITOSA,España,Eladio,Pareja,Bou,México,ZZZ6FB21,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-UEWJF0SV,28/12/2023,10:59,1389,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-RIB9KIK2,28/12/2023,20:38,164,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FHHHRMX3,28/12/2023,12:05,2987,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-Y1SKMGXT,28/12/2023,17:29,873,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-R314DD53,20/05/2023,13:58,60,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-DXEYB29H,17/02/2023,16:04,71,EXITOSA,España,Julián,Esteve,Iglesias,Islas Salomón,X4840919V,India,01/09/1960,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-I2A3I5GF,26/06/2023,01:10,66,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-5JDP6Z1F,02/10/2023,14:21,28,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-11CCC,06/11/2023,10:35,1191,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-BAC33,06/11/2023,10:35,1211,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-11C3B,06/11/2023,10:35,1084,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Central,Beneficiario,,Francia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-1221B,13/10/2023,14:02,983,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-BBA21,13/10/2023,14:02,1472,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-23CA2,13/10/2023,14:02,1498,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-2A313,21/11/2023,10:11,1436,EXITOSA,España,Luisa,Codina,Ferrando,Senegal,X3205334P,España,08/01/1917,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-C3CBB,21/12/2023,03:14,1274,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-C3BAA,21/12/2023,03:14,1168,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-22A1A,10/06/2023,21:15,1132,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-A31C2,10/06/2023,21:15,1196,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-222BC,10/06/2023,21:15,902,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-ABCB1,11/07/2023,09:45,988,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-A3BA2,11/07/2023,09:49,1403,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-1BBCB,11/07/2023,09:49,835,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-BACB2,17/01/2023,10:37,1192,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Pilar,Briones,Pellicer,Bahrein,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-11BB2,17/02/2023,15:27,1134,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-BCBC2,17/02/2023,15:27,827,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-BB21A,04/12/2023,11:48,1252,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-A2AB1,04/12/2023,11:48,1073,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-CCB2A,04/12/2023,11:48,1225,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-B1A3C,10/04/2023,18:11,824,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-1BB21,10/04/2023,15:47,1358,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-1BABC,10/04/2023,15:47,1223,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-2CCC1,26/07/2023,10:41,1489,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-13CC1,26/07/2023,08:16,996,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,ZZZFA7AF,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-FRAC-312C1,26/07/2023,08:16,1500,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,ZZZFA7AF,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-X7YZX,01/01/2023,19:49,2289,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-X9787,01/01/2023,19:49,2848,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-9989Y,01/01/2023,19:49,2511,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-9ZZ8Z,01/01/2023,19:49,2166,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-XZYZZ,01/01/2023,19:49,2473,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Zaragoza,Sujeto_Obligado12,Agente8055,True
+TXN-HIGH-7X789,23/10/2023,22:16,2654,EXITOSA,España,Joel,Fortuny,Huertas,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-89XX7,23/10/2023,22:16,2935,EXITOSA,España,Joel,Fortuny,Huertas,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-ZZZ9X,23/10/2023,22:16,2389,EXITOSA,España,Joel,Fortuny,Huertas,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-X99Y8,23/10/2023,22:16,2293,EXITOSA,España,Joel,Fortuny,Huertas,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-X8Y8X,22/04/2023,13:08,2592,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-9YYX8,22/04/2023,13:08,2637,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-XZYX7,22/04/2023,13:08,2852,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-87988,22/04/2023,13:08,2771,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Y797X,16/04/2023,19:07,2828,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-XZY97,16/04/2023,19:07,2728,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-8X9Z9,16/04/2023,19:07,2691,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-98X7X,16/04/2023,19:07,2602,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-89X7Y,07/10/2023,14:37,2893,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Y9Y9Y,07/10/2023,14:37,2250,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-X7798,07/10/2023,14:37,2706,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-99ZY7,07/10/2023,14:37,2846,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-987XZ,05/01/2023,19:18,2811,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Z8Y87,05/01/2023,19:18,2616,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Y8XX8,05/01/2023,19:18,2787,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Z7XXX,05/01/2023,19:18,2326,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-8YYZ7,15/06/2023,10:37,2023,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-88XXZ,15/06/2023,10:37,2512,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-7X8Z8,15/06/2023,10:37,2430,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-89987,15/06/2023,10:37,2301,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-8ZY99,15/06/2023,10:37,2749,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-7YX9Z,25/05/2023,20:15,2569,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-ZYY8Z,25/05/2023,20:15,2127,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Z779Z,25/05/2023,20:15,2086,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-7ZY8Z,25/05/2023,20:15,2280,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-87ZYY,25/05/2023,20:15,2366,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-97988,19/01/2023,19:21,2214,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-888YZ,19/01/2023,19:21,2803,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-YZ9X9,19/01/2023,19:21,2730,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-XX7Z9,19/01/2023,19:21,2345,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-87XZ8,15/04/2023,18:25,2069,EXITOSA,España,Juana,Jódar,,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-897ZX,15/04/2023,18:25,2221,EXITOSA,España,Juana,Jódar,,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Y79X7,15/04/2023,18:25,2796,EXITOSA,España,Juana,Jódar,,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-7898Y,15/04/2023,18:25,2382,EXITOSA,España,Juana,Jódar,,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Y8788,15/04/2023,18:25,2837,EXITOSA,España,Juana,Jódar,,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Y988Z,07/11/2023,16:53,2765,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-Z8Y9Z,07/11/2023,16:53,2953,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-7998Z,07/11/2023,16:53,2945,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False
+TXN-HIGH-89XXZ,07/11/2023,16:53,2732,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Zaragoza,Sujeto_Obligado12,Agente8055,False

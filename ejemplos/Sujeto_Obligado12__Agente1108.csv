@@ -1,0 +1,824 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-TI6T89MX,01/01/2023,11:32,1069,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JU0RWBKY,01/01/2023,12:10,1102,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IY8TB103,01/02/2023,16:16,614,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J8G33DMF,01/03/2023,09:40,340,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MEKJEAL6,01/03/2023,13:43,272,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HKW0WOHO,01/04/2023,14:16,1739,CANCELADA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QKIAX2MA,01/05/2023,14:12,258,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-323MMHRS,01/05/2023,09:47,964,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NJY69NMR,01/07/2023,10:18,1402,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XX3SWX0B,01/08/2023,09:03,139,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KSGSUN5M,01/08/2023,21:05,2792,CANCELADA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QHIH28V3,01/09/2023,19:20,719,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KXIHI5YS,01/09/2023,13:37,2302,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8EDQOR8E,01/10/2023,16:34,1730,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0XCC9JAE,01/11/2023,19:12,1015,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UPB6875J,01/11/2023,12:55,2176,FALLIDA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EHM2B9DK,01/11/2023,03:03,441,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IO53V8OR,01/11/2023,12:23,1094,EXITOSA,España,Noemí,Escamilla,Barbero,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BIE9Y5UI,01/11/2023,20:01,1643,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XKIR9FOT,01/11/2023,21:18,1095,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2DFWYQCO,01/11/2023,09:52,2748,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DQG25GPS,01/11/2023,09:31,1325,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KC2N648D,01/11/2023,16:13,1463,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VAYHHVBL,01/12/2023,08:07,2370,CANCELADA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HUWS2URV,01/12/2023,11:26,597,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0Z2ACR0G,02/01/2023,15:11,2358,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-624W6EUU,02/02/2023,16:59,1906,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YZT4PKOE,02/02/2023,13:30,310,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0RVB7QL4,02/02/2023,14:36,1767,FALLIDA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8PW07S1G,02/03/2023,11:02,2853,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XPGQSTDW,02/03/2023,09:04,2882,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-93PGEFDC,02/03/2023,11:15,2889,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U650QNFD,02/03/2023,16:46,841,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3V4D2H6K,02/03/2023,19:23,2460,EXITOSA,España,Samuel,Heredia,Donoso,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GNR4OS5A,02/04/2023,12:33,698,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J88RNNSA,02/04/2023,21:47,1361,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8BO56Z6H,02/06/2023,13:34,110,EXITOSA,España,Azahara,Armengol,Quesada,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WFXJ6V5S,02/06/2023,14:42,829,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ES9LYY0B,02/06/2023,20:10,284,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BZ0Z27QN,02/06/2023,19:33,516,FALLIDA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RUQW4PI9,02/07/2023,14:45,1259,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6TDUV7DY,02/07/2023,10:06,326,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4SPFCDDV,02/07/2023,19:57,1562,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ODC9L6EC,02/07/2023,17:32,2415,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Bárbara,Hoz,Solana,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-B8LREWAC,02/08/2023,11:17,1922,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4G9QX4BX,02/08/2023,16:25,1460,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F3YG9I8D,02/08/2023,12:50,1429,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XAMCTCLJ,02/09/2023,11:18,1678,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I14BHFHL,02/09/2023,20:18,976,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WHE2TV7O,02/09/2023,10:46,1862,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XF5USDR6,02/09/2023,15:28,2730,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-463U72ZO,02/10/2023,17:11,1263,EXITOSA,España,Natalia,Montes,Pons,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VT4ZE99N,02/10/2023,18:57,2618,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EFJ28DPI,02/11/2023,17:29,1189,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QP8T6BLF,02/11/2023,14:48,2644,CANCELADA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LYGX63WN,02/11/2023,18:46,687,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WU3WF9BS,02/12/2023,14:23,2157,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YWCV94KC,02/12/2023,16:45,2713,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NDK5D1GZ,02/12/2023,16:21,1813,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5IV19S4R,03/01/2023,10:32,2017,FALLIDA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PX7HFNGJ,03/01/2023,15:13,288,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-50PG7XOS,03/01/2023,12:14,1802,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ITR2KZ6Z,03/02/2023,16:03,1730,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Q9CVQU9I,03/02/2023,13:28,2325,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IB73VU9V,03/02/2023,16:04,835,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M583WPMO,03/03/2023,05:37,2226,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MK7KNV7W,03/04/2023,21:08,1216,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ONV3O06W,03/04/2023,20:23,2571,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CIT5H4B2,03/05/2023,11:11,1086,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-B5HI60K0,03/06/2023,09:19,728,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4RBP5AMY,03/06/2023,13:32,244,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FH3TMQWZ,03/07/2023,10:26,382,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SWGEY1WO,03/07/2023,12:02,166,FALLIDA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9F0MMFWJ,03/07/2023,13:02,1737,FALLIDA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AR8165YL,03/08/2023,19:30,111,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-A7IXMXP8,03/09/2023,10:39,2571,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OF380PKG,03/10/2023,12:55,2302,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2UWSOH2G,03/10/2023,15:49,1538,EXITOSA,España,Vidal,Núñez,,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5LY5E0EN,03/11/2023,17:29,1044,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1SSQ3CUR,03/11/2023,12:14,104,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M7850WTZ,03/11/2023,17:53,2594,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LXQD9FXL,03/11/2023,21:45,343,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VMKBBXMH,03/12/2023,16:45,1168,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WM818TRN,03/12/2023,17:41,1374,FALLIDA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RELYVJ26,04/01/2023,18:54,1643,CANCELADA,España,Arcelia,Guillen,,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F1C10MN8,04/02/2023,12:39,2032,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2JJ5U8FQ,04/02/2023,17:21,2727,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZW2TX3G0,04/03/2023,10:16,1168,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5P5GHOOH,04/03/2023,15:49,1305,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XS4USYR4,04/03/2023,17:13,2059,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y0IA11VA,04/03/2023,09:25,1350,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8FEX73EJ,04/04/2023,14:07,1064,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-US2QXO4O,04/04/2023,19:51,2824,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MV07QOS9,04/04/2023,12:31,285,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6ZD3PYQA,04/05/2023,09:15,1147,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1HDVVS0W,04/05/2023,16:16,247,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-84B7V9T0,04/05/2023,14:32,2259,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ME9NAZEV,04/05/2023,10:52,144,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SUHDK4R3,04/06/2023,12:18,204,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EKVIHW6O,04/06/2023,16:12,2056,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XBTPNUBV,04/06/2023,10:55,2387,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-55E3RMQC,04/07/2023,17:13,1837,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1JSC0H5A,04/08/2023,17:34,1215,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,ZZZ33658,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AUS969Y8,04/08/2023,19:20,2559,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KJO0SDAZ,04/08/2023,01:08,1285,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XQE0DY16,04/09/2023,20:23,2014,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RUW2DBJN,04/09/2023,11:08,1211,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OEJVZZC3,04/10/2023,18:31,340,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M370XET4,04/10/2023,20:26,283,CANCELADA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PQBBSTRT,04/10/2023,14:26,2925,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Joaquín,Ayllón,Trujillo,Colombia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-59K4TI57,04/10/2023,16:02,347,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1ACUQV5G,04/10/2023,18:16,2633,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TYFANMBV,04/11/2023,14:05,416,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-51W8Z2FR,04/11/2023,14:55,681,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M9NTA19E,04/11/2023,16:57,1892,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SJ3PDQC8,04/11/2023,21:45,2932,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4CIL3JHE,04/11/2023,19:46,2653,CANCELADA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S1MWHO2R,04/11/2023,13:18,2790,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DPLOCX37,04/12/2023,09:15,1572,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O81PBCWO,04/12/2023,20:48,1190,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,ZZZ64204,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HMB7G7QH,05/01/2023,18:58,2726,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JEUMG1RX,05/02/2023,18:41,2919,EXITOSA,España,Olegario,Figueras,Torrens,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3FIS5AZU,05/03/2023,08:18,440,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-B2AALAOF,05/04/2023,06:36,2920,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X9VDQ18P,05/05/2023,18:50,401,EXITOSA,España,Ignacio,Gascón,,Ghana,ZZZ3381C,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7LQYPN08,05/05/2023,15:07,445,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-T1Q0WNEY,05/05/2023,10:41,753,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1ME3RO0N,05/06/2023,21:45,2452,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-74U81RXN,05/06/2023,12:05,2616,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Fanny,Amorós,,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3XZAIGL6,05/07/2023,13:45,1226,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Caridad,Reig,Perez,Granada,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3L9M6G58,05/08/2023,16:45,2452,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-116VUF3Y,05/08/2023,17:28,930,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-53ZARE5D,05/09/2023,16:02,317,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DRETTGD5,05/09/2023,18:17,392,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M2PX8AJ3,05/10/2023,19:35,2702,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-05ADSD1X,05/11/2023,10:06,1286,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GOIESXIE,05/11/2023,13:54,1822,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y6I1SY4Y,05/11/2023,14:40,2345,EXITOSA,España,Vasco,Perera,Cobo,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LN712RCF,05/12/2023,10:50,1976,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UMUGW183,06/01/2023,21:19,1218,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3RYZF3CM,06/02/2023,09:20,1558,FALLIDA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QNJQDQ25,06/02/2023,04:47,1170,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3REPIML7,06/03/2023,13:47,1739,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-66AQG9TP,06/03/2023,15:03,1646,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G6TC4OM9,06/03/2023,17:27,1307,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-REVPYODE,06/04/2023,18:05,1726,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-T9QMC1PU,06/04/2023,09:53,486,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G4WAECPW,06/04/2023,18:53,1825,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OSGSVBCL,06/05/2023,16:57,2848,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6J82E8GM,06/06/2023,12:29,1109,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NBDBE5OG,06/06/2023,10:51,761,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I2GCXRXR,06/06/2023,19:13,711,CANCELADA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VQR2UQBH,06/07/2023,21:35,1058,EXITOSA,España,Humberto,Reina,Barral,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YLYKZY8V,06/07/2023,10:10,132,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X1XLL4SL,06/08/2023,13:10,996,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QA0SYPXU,06/08/2023,05:09,597,EXITOSA,España,Anabel,Delgado,Real,Myanmar,ZZZF1463,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TGP0207H,06/08/2023,11:12,1152,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AI7JWNM1,06/11/2023,12:40,591,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZL9B8ORI,06/11/2023,18:56,1600,EXITOSA,España,Blas,Juan,Corominas,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JSZ97TEK,06/11/2023,17:32,1078,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DMH970E0,06/12/2023,12:06,2460,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Marcial,Pineda,Herrera,Brunei Darussalam,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LBZZJKDC,06/12/2023,09:16,371,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-P24AKLQF,06/12/2023,21:07,1779,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3CWD94XN,07/01/2023,10:02,842,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-C2OAH6M7,07/01/2023,03:53,1402,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DUV5FT80,07/02/2023,13:19,1220,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6ZXR6TYD,07/02/2023,13:56,1513,EXITOSA,España,Fernanda,Velasco,Higueras,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-T54ZH587,07/02/2023,10:35,1550,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3NG7WPC8,07/02/2023,10:33,175,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Eric,Ramos,Paz,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3VFZPVCO,07/02/2023,12:53,1815,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UL1LPZJ8,07/02/2023,10:11,2134,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CVLGD8QW,07/03/2023,14:40,2491,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OOQNVBE8,07/03/2023,17:00,1041,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ET8N1I10,07/04/2023,12:54,808,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JMMJGST4,07/04/2023,10:25,578,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SG03N399,07/04/2023,14:40,872,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HX9URPTH,07/04/2023,12:52,1576,FALLIDA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UGKU9L4L,07/05/2023,14:26,1423,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7FTN7EIP,07/05/2023,20:19,1305,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WYMWFY3B,07/05/2023,17:11,2201,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WYROHT9D,07/06/2023,21:43,511,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OJEUEKGA,07/08/2023,15:08,1382,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2CMIV4TS,07/08/2023,13:50,1418,FALLIDA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3H6C8VYM,07/11/2023,05:52,2920,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-V1FE6ZXB,07/12/2023,19:50,2843,CANCELADA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y87LRN81,07/12/2023,17:47,2691,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DKODIGUD,08/01/2023,10:29,2896,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-53VI4KOE,08/01/2023,21:53,519,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MN1WR2F8,08/03/2023,17:14,1482,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BDG065P3,08/03/2023,20:25,1883,CANCELADA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FIA6BDNS,08/03/2023,09:44,2542,CANCELADA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Remigio,Rodrigo,Piñol,Liberia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TGIT4KVN,08/03/2023,23:06,507,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AWEWL06A,08/03/2023,09:14,2827,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4Y4RKFT6,08/04/2023,14:56,417,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-H7U3IX4Z,08/06/2023,17:57,1626,EXITOSA,España,Florentina,Vazquez,Vives,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OM121A26,08/06/2023,20:21,2185,CANCELADA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3P288Y4H,08/06/2023,14:12,1353,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X6QV6Y9D,08/07/2023,09:58,1394,CANCELADA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BJZ2N90V,08/07/2023,11:12,1509,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VQ9AK0EI,08/07/2023,18:24,461,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-64ONG8T6,08/08/2023,16:37,1905,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BZUQGPL4,08/08/2023,13:03,1624,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EK1IEWQQ,08/08/2023,18:55,592,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4NTIYB56,08/08/2023,10:25,302,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U8Y7AK57,08/09/2023,00:23,646,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GABUX13J,08/09/2023,19:28,474,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NI3FII7V,08/10/2023,01:35,2710,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UBBOWC0F,08/10/2023,14:03,2239,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G2UM3LTT,08/10/2023,16:29,1261,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ML4THKW9,08/11/2023,20:07,346,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KMFQRCK5,08/11/2023,10:39,968,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-E5DO9SP1,08/11/2023,20:09,2644,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OTNXDV1C,08/12/2023,10:29,1197,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Miguel Ángel,Castañeda,,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PMFHK940,09/02/2023,19:08,2371,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O1T1CDT9,09/03/2023,15:20,832,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WILHEMDX,09/04/2023,11:43,1982,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Edu,Merino,Aguado,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HVUSWBFJ,09/04/2023,18:14,2132,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TBWLAE3T,09/05/2023,13:56,618,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1QEQ6A9Y,09/06/2023,15:50,2621,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XYMUPGHS,09/06/2023,21:02,2161,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NWIF2QW0,09/07/2023,11:31,1738,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-D99X3V7Z,09/07/2023,15:17,1740,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CLZ90LEQ,09/07/2023,12:01,215,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S812VBGC,09/08/2023,09:13,1161,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FKPJVE9W,09/08/2023,18:36,2868,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TZFC0GVM,09/08/2023,17:05,548,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LZUFX7SC,09/09/2023,12:19,1053,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7NQKXNWE,09/09/2023,10:56,1305,CANCELADA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I62DWY5H,09/09/2023,20:59,1631,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CU7KXHYH,09/10/2023,12:06,2060,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ASWFIN8F,09/10/2023,17:52,2943,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4HO8LK1E,09/11/2023,20:41,210,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QFEZ73WW,09/11/2023,19:06,2460,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-P2MDMKSY,09/12/2023,18:57,1272,CANCELADA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DDT17RJ2,09/12/2023,18:49,522,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DJFR4357,09/12/2023,17:04,1726,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Fidel,Blazquez,Calderon,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LULQGPLJ,10/01/2023,17:05,1224,CANCELADA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Julio,Bou,Flores,Grecia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M7X3SMZT,10/02/2023,16:11,2570,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-C950OFVP,10/03/2023,15:20,596,EXITOSA,España,Matías,Navarro,Jordán,Argelia,ZZZ7F498,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UA3VUPLH,10/04/2023,21:06,2511,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-04XVLERX,10/04/2023,12:44,1458,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2IR24PXC,10/04/2023,15:55,2038,FALLIDA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-POBEDP4I,10/05/2023,15:15,621,CANCELADA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Alcides,Girón,Guillén,Arabia Saudita,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7O4V5681,10/05/2023,18:31,1918,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-74S25Q9D,10/06/2023,11:47,1427,FALLIDA,España,Manolo,Briones,Leal,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QO5VYFL7,10/07/2023,12:22,743,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ULR7ZIDE,10/07/2023,16:28,2956,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GUVYYSH1,10/08/2023,19:03,2183,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AFBB8BDS,10/08/2023,19:37,1089,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RGQB87XD,10/08/2023,18:07,1555,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8H481ES5,10/08/2023,18:05,2553,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RJ1D474Q,10/08/2023,19:43,1868,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-81UU2TXD,10/09/2023,01:40,1418,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SC419H4N,10/09/2023,09:17,468,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Q03C7GBD,10/10/2023,15:25,1632,EXITOSA,España,Evita,Giralt,,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YIPCI4AC,10/11/2023,12:28,619,FALLIDA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Victor,Cardona,Robles,Vietman,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-92YV3R73,10/12/2023,16:12,2923,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FJTT5YZP,11/02/2023,12:10,2312,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FHWJEV9O,11/03/2023,13:30,375,EXITOSA,España,Jacinto,Carlos,Carpio,Togo,Y7772907W,Bhután,22/10/1929,False,Clotilde,Guzman,Leal,Tailandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WOIOGD02,11/04/2023,21:56,363,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0RFQ1OIA,11/05/2023,21:12,634,FALLIDA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Z8BKBTNL,11/05/2023,15:10,2377,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CJVMS47B,11/05/2023,11:21,2985,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QHFXUDTA,11/06/2023,13:58,1831,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,ZZZF99B9,Bosnia y Herzegovina,17/02/2013,False,Wilfredo,Montero,Valle,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VV79JR6L,11/06/2023,12:59,1752,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PY10TYOK,11/06/2023,13:27,2161,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6BC6UK96,11/07/2023,18:50,1167,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I2428V53,11/07/2023,18:52,2070,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-N775IRMM,11/07/2023,18:57,708,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FP7YW3EB,11/08/2023,17:11,1064,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4UMX1E0U,11/08/2023,14:31,1749,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M81G8FK6,11/08/2023,21:40,708,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XR7R16PZ,11/08/2023,17:22,2653,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HURHE55N,11/08/2023,05:35,2560,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NX9HDUVN,11/08/2023,04:14,1057,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Silvia,Acedo,Sans,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MIVAXF69,11/10/2023,14:08,246,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XUR2S37A,11/11/2023,09:08,801,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VADM6YWC,11/12/2023,17:25,1652,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5H06ADUQ,11/12/2023,11:49,1718,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OXBW3RVI,11/12/2023,02:54,1258,CANCELADA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LUYNHH8Z,11/12/2023,17:47,2715,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PD13SYNC,11/12/2023,10:56,214,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TIQWZGGG,12/01/2023,11:26,2981,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1ETAHBRM,12/01/2023,16:11,1940,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J4HPC31Q,12/01/2023,12:26,2099,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KEX8UAOU,12/04/2023,10:12,1471,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CK3B2D5L,12/04/2023,20:08,283,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GH2AW5Z4,12/04/2023,19:57,2361,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WXNSEF07,12/04/2023,20:06,125,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SJX88WA4,12/05/2023,14:29,1927,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-W7EQFZ33,12/05/2023,21:34,1053,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OOD2YOUT,12/05/2023,13:06,157,EXITOSA,España,Milagros,Baquero,Gallego,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-V7KXJ0IP,12/06/2023,18:24,1195,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IBCG4F5X,12/07/2023,09:40,723,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HJ1X0D0S,12/08/2023,16:39,2293,EXITOSA,España,Lucho,Campos,Poza,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U4NN64NI,12/08/2023,10:10,1583,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EMB25HQG,12/08/2023,11:09,1472,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I0SMTPU7,12/09/2023,15:14,2235,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-81ALKGVZ,12/09/2023,19:16,810,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-B1103M1H,12/09/2023,09:01,2811,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2DRID3NG,12/09/2023,13:08,1080,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EP9FNH65,12/10/2023,20:46,2291,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3OT9EN2J,12/11/2023,10:36,2796,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-P0JX4K9W,12/12/2023,17:59,1306,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HFWN7CS3,12/12/2023,17:04,2578,CANCELADA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,True,José Antonio,Vallés,Amores,República Checa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VY0QPX26,12/12/2023,12:00,1115,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8LGBNCLZ,12/12/2023,10:43,2610,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DLAO4W9T,12/12/2023,13:17,1149,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EA5DJ4WG,13/01/2023,11:46,2187,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J2YBVGI0,13/01/2023,12:25,1790,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TNBUKID8,13/01/2023,19:36,1657,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FGDCU9UC,13/01/2023,20:14,913,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JW8PZYLW,13/01/2023,13:52,1779,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Carlos,Aller,Cabañas,Zambia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EOBU0DZE,13/02/2023,17:00,1508,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VEPYYU9S,13/02/2023,16:10,2777,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S641ZH9Y,13/02/2023,19:07,1900,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Adelardo,Toledo,Andrade,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X2B95FJJ,13/03/2023,17:49,1740,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8WF4R5L1,13/04/2023,10:03,2262,CANCELADA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NFSV59BD,13/04/2023,17:19,1335,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BJCVZ6Q3,13/05/2023,09:58,326,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GGB5CZMY,13/05/2023,17:00,2736,CANCELADA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WBQBKUOM,13/05/2023,13:38,1028,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2F6O2C9J,13/06/2023,21:20,291,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0BY8FNVW,13/07/2023,16:21,1439,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FS5JQ4FN,13/07/2023,13:11,714,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AZR26ZUE,13/07/2023,14:12,704,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5WXY3AUS,13/08/2023,11:13,690,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0LE3HADO,13/08/2023,09:15,2553,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-881CFZ6M,13/09/2023,16:23,1892,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WDF3T0JV,13/09/2023,15:37,657,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-D42K0U7Z,13/09/2023,10:36,761,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7MJ4UQ4X,13/09/2023,20:06,714,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9T7W6TTX,13/10/2023,21:29,2112,CANCELADA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IYJGTA5B,13/11/2023,08:01,1830,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-44CEAUFU,13/11/2023,10:24,1296,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BVA1AVQ1,13/12/2023,10:29,426,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U9XU7H0Q,13/12/2023,11:46,281,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M8YMGVS6,13/12/2023,13:54,508,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YV0L57IM,14/01/2023,09:33,2986,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CNB00OBI,14/01/2023,17:43,1860,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OMP0K9H8,14/02/2023,14:20,1197,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WPDTTHFV,14/02/2023,11:27,1080,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M0TR6Q7N,14/04/2023,14:09,2827,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IEJTZAGN,14/04/2023,09:16,2450,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9P6ZTKCL,14/06/2023,10:07,2393,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PRXVLKFI,14/06/2023,10:36,2138,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Cecilio,Morales,Acevedo,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0FHVF64T,14/06/2023,09:33,141,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PJEKB1YP,14/06/2023,20:33,2952,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OCQTGT4Q,14/07/2023,21:52,2085,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-42JEQY9F,14/07/2023,21:14,1794,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1I68WJGM,14/07/2023,18:10,1282,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,ZZZ56254,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KT9YMCM7,14/07/2023,11:01,2746,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GEQWDO26,14/08/2023,16:41,1106,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5V4AUFKE,14/08/2023,03:28,1076,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y9T10K5B,14/08/2023,13:35,1123,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QRKFQYZN,14/09/2023,11:53,668,FALLIDA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CN1DI04J,14/09/2023,13:50,777,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TO1XD6CO,14/10/2023,21:00,2922,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SU83139V,14/10/2023,04:22,362,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,ZZZ5A587,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6NV71W5P,14/11/2023,11:08,1518,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MSKKLJK5,14/11/2023,21:05,181,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-T8JH9K7T,14/11/2023,18:04,1141,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SGXA86YF,14/12/2023,15:03,1856,EXITOSA,España,Ariadna,Gilabert,Pou,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O5WL667S,14/12/2023,19:00,1095,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Ramón,Bayón,,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OTROGO6P,14/12/2023,12:32,1903,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IPDAI7WG,14/12/2023,18:26,602,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BC8GGCXX,14/12/2023,07:53,1667,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VVCOO1LJ,15/01/2023,13:23,132,EXITOSA,España,Lina,Canales,Coronado,Gabón,X4728854P,Georgia,22/08/1953,False,Esther,Poza,Jara,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-567DD4KK,15/01/2023,13:15,993,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RNVHSASA,15/01/2023,16:00,2231,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3ZRH947F,15/02/2023,10:00,1986,EXITOSA,España,Leandro,Tamarit,Pla,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4TND6N03,15/03/2023,23:13,1792,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Ermua,Sujeto_Obligado12,Agente1108,True
+TXN-699AMFAK,15/04/2023,10:10,1830,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U8SNQ6I3,15/04/2023,10:15,1032,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,ZZZB5460,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-H1S97NF9,15/04/2023,12:51,1360,EXITOSA,España,Enrique,Borrell,Olivera,Chad,ZZZFF253,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TQK5P072,15/04/2023,20:04,887,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-34T0C8V9,15/04/2023,20:43,1614,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X16I5IMA,15/04/2023,18:15,958,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-69H681P0,15/04/2023,09:58,1848,CANCELADA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AAZER1KL,15/05/2023,01:34,940,FALLIDA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JYNXG7HG,15/05/2023,19:08,175,FALLIDA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M1UUB9Q0,15/05/2023,18:29,892,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DIHT543N,15/06/2023,10:32,208,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6XQV2PH4,15/07/2023,12:13,2052,EXITOSA,España,Tiburcio,Benavent,Tamayo,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6J9EVG1J,15/07/2023,18:38,1420,CANCELADA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KMCTZD9S,15/07/2023,18:05,531,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6HXVGGJ1,15/08/2023,20:12,1459,EXITOSA,España,Vanesa,Beltran,,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-K6J51UNQ,15/08/2023,11:32,96,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U2JF535R,15/09/2023,19:11,291,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-514D1Z79,15/11/2023,18:12,1087,CANCELADA,España,Marino,Bermejo,Borrego,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Gil,Vaquero,,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JWLJWW07,15/11/2023,19:47,1822,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6EWT287N,15/11/2023,10:44,296,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QFKZBFWB,15/11/2023,18:25,1140,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XQ9RHMB5,15/11/2023,14:43,684,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TGE0Z9EA,15/12/2023,19:47,459,EXITOSA,España,Corona,Rebollo,Segura,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Samu,Jiménez,Salas,Benin,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VAUWMKGY,15/12/2023,11:16,2355,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WQA32EAS,16/01/2023,15:13,1767,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SPEKMNGB,16/01/2023,19:32,1363,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XBJW265L,16/02/2023,20:28,1639,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-W25LGDJS,16/02/2023,18:37,2765,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-18HFS6P3,16/03/2023,04:20,2385,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XGP6GKQN,16/03/2023,15:03,1775,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O2W9Y7TB,16/03/2023,13:29,2875,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-W60G30VT,16/03/2023,02:40,1685,EXITOSA,España,Nacio,Corral,Novoa,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-83X70UJS,16/03/2023,10:53,479,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OOQO54P0,16/03/2023,13:04,451,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-E5TDI2NM,16/04/2023,10:44,1260,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DGEN7YZR,16/04/2023,11:04,2592,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MFW42OP0,16/04/2023,20:54,2447,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YU3JNBTU,16/05/2023,11:32,1366,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HUEVEG1I,16/05/2023,12:06,2027,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8D7PEGAQ,16/06/2023,12:49,2748,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Purificación,Puerta,Corominas,Grecia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8817DE26,16/08/2023,22:10,2942,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VWPNP63Z,16/09/2023,19:17,2850,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3W376OSM,16/09/2023,09:26,141,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9A5J2TGY,16/09/2023,11:14,2933,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-46EIR6K4,16/10/2023,10:49,846,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Fanny,Amorós,,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0U5CEC4U,16/11/2023,10:04,1526,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AMX638L4,16/11/2023,18:10,2631,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3UM2QRYL,17/01/2023,21:36,733,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F1TVWOK0,17/01/2023,14:18,1681,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GTCLI2AH,17/03/2023,21:35,2988,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZV4AXUR2,17/03/2023,20:35,2481,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,True,José Antonio,Vallés,Amores,República Checa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CX3V2MMR,17/05/2023,19:35,2723,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZXZ9U0MU,17/05/2023,20:28,1432,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CQI076SY,17/05/2023,14:57,2579,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6Q272U9J,17/05/2023,17:11,2712,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Rosario,Carrillo,,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-K3IMZBHQ,17/05/2023,19:24,2013,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZQXRCAFJ,17/06/2023,11:16,1862,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Edelmira,Jordá,Cervantes,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1R0R0NTZ,17/06/2023,11:03,1168,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CF55QO0O,17/07/2023,21:15,296,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8FCY434D,17/07/2023,17:14,104,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U2MG9KQ9,17/07/2023,21:24,2152,EXITOSA,España,Andrés,Perez,Monreal,Malta,ZZZ5762C,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LRQEJ2UT,17/07/2023,17:17,712,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-21T2JJRC,17/08/2023,21:21,1489,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GVZAR7VD,17/08/2023,13:48,802,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Dan,Ramírez,,Eslovenia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LWCU96SE,17/09/2023,09:50,1165,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VR9TV4DT,17/09/2023,15:42,2712,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NJOP8HZ4,17/11/2023,21:21,2289,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-83HLWN53,17/11/2023,12:20,1727,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3CBWT5U8,17/11/2023,14:56,1835,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Q021YEQD,17/12/2023,16:36,436,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PDOZGG6S,18/01/2023,09:19,2936,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-P0NHZEY5,18/01/2023,19:00,2466,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PEOHDVT7,18/02/2023,15:55,455,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZXO0T8XB,18/02/2023,20:19,2209,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F8B0RXX2,18/02/2023,16:00,349,FALLIDA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2LXBEH1K,18/02/2023,14:38,2654,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LZK7PXA4,18/02/2023,18:41,826,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EYNJE4UQ,18/02/2023,23:11,1974,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-E1YI6H9E,18/03/2023,01:40,2825,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-H10ZMWTJ,18/03/2023,15:59,534,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SET6Q7DF,18/03/2023,18:12,2825,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YEBMFUX3,18/03/2023,10:46,2255,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2XL3KCY9,18/03/2023,19:36,662,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VQMUX220,18/04/2023,18:29,2170,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Rosa,Murillo,Ramirez,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZU5JWLTW,18/05/2023,20:03,2424,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1UCZI36T,18/05/2023,21:41,827,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OCQU9GPJ,18/05/2023,12:18,659,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-E4TI4R1V,18/06/2023,15:03,2255,CANCELADA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WXE7QCD3,18/06/2023,11:28,2484,EXITOSA,España,Modesto,Morera,Macías,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-C0K3YZRS,18/06/2023,20:48,1043,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CHT6VOKS,18/06/2023,15:09,2673,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UGC0VT75,18/06/2023,16:29,1050,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NSLB7SIA,18/07/2023,16:00,2382,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-58WOW3JX,18/08/2023,13:45,2602,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y24KFKCI,18/08/2023,12:06,278,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IZ0LJYTE,18/09/2023,19:10,2816,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QTB01ZY1,18/09/2023,21:06,2719,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O985UBNH,18/10/2023,13:06,1930,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EVEGA7KX,18/10/2023,13:30,1786,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UUOX6WRP,18/10/2023,20:40,251,CANCELADA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5BE055LI,18/10/2023,02:12,2782,FALLIDA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Rosaura,Villanueva,Coloma,Brasil,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BV4Y9OYH,18/10/2023,18:20,1794,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AVHXDMH3,18/10/2023,10:47,2507,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZPLDNWBL,18/10/2023,18:59,2848,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G1ZE9D23,18/11/2023,20:36,1363,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EGY0ZXKM,18/12/2023,10:27,1927,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QI4O85IR,18/12/2023,09:55,1374,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CXEHVT9B,18/12/2023,19:38,2884,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S1IUP3LX,18/12/2023,20:15,2709,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MDWRUYPU,19/02/2023,18:08,2301,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GC603YQY,19/03/2023,10:13,405,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0IO8CHAT,19/04/2023,09:35,1396,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F0265O0H,19/04/2023,14:27,1731,CANCELADA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OZLK2F0P,19/04/2023,10:16,2129,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9LMVQVU7,19/04/2023,10:50,2023,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XR1362ZE,19/05/2023,21:23,2066,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-H7JP77AZ,19/05/2023,13:30,2804,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2NP4JTHK,19/05/2023,11:53,2720,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6QYL9WFC,19/05/2023,17:19,394,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QM1R2UR3,19/05/2023,14:43,2195,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G8XJKD33,19/06/2023,17:17,1811,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-64DZLXZH,19/06/2023,15:45,2325,EXITOSA,España,Olalla,Albero,,Chipre,Z9326552B,Uganda,16/04/1918,False,Manuelita,Bauzà,Cases,Alemania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4VGT8IO1,19/06/2023,15:39,2593,EXITOSA,España,Ileana,Carrera,Talavera,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Wilfredo,Montero,Valle,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IBYQNE2I,19/06/2023,10:21,2819,CANCELADA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-C3X3WP0Z,19/07/2023,10:12,2003,EXITOSA,España,Camila,Bou,Arco,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-W0WKRMBJ,19/07/2023,16:06,1958,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RTXJQBVJ,19/07/2023,19:03,2610,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XHWHFOZ1,19/07/2023,00:32,454,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CDW42FVE,19/08/2023,13:20,469,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9N80E0MN,19/08/2023,01:40,449,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J5SQN868,19/09/2023,14:52,1794,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KOF6ES7U,19/09/2023,07:03,818,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Josep,Lucas,Beltrán,República Checa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OA3011Z9,19/09/2023,15:54,2794,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-25XVSA5T,19/09/2023,14:16,1961,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J25QOIU9,19/10/2023,10:15,1981,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-L8H7ZWZV,19/11/2023,10:52,1865,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4JNR3QUS,19/12/2023,00:34,830,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AMK6B85K,20/01/2023,19:53,762,CANCELADA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7FUO1TN6,20/01/2023,17:12,841,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YE846RQO,20/02/2023,19:39,1302,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G7F7O4KX,20/02/2023,12:19,2420,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8G55BYX4,20/02/2023,10:05,1285,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-USKXO7ON,20/02/2023,20:51,286,EXITOSA,España,Marco,Santos,Santana,Finlandia,ZZZA706D,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PY3JVEK7,20/03/2023,20:40,824,EXITOSA,España,Leandra,Quiroga,Jara,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Z69DGWHE,20/03/2023,19:50,1864,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4YL993YW,20/03/2023,09:26,1063,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EJ0UYXCD,20/03/2023,16:08,1788,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-V95HSDIB,20/03/2023,10:00,2568,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-D5JNFYL0,20/04/2023,16:26,508,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J0MPKI0T,20/04/2023,15:42,540,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8C2V7YP6,20/04/2023,17:06,2897,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TWNIBCZ1,20/05/2023,15:01,1637,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CP515OS1,20/05/2023,17:52,2825,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XYAA200Y,20/06/2023,17:07,2008,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Z2GKGP02,20/06/2023,19:32,2703,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KY7OF7VN,20/06/2023,10:44,2324,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AMNXQPL5,20/07/2023,11:40,2588,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XN9NSY7F,20/07/2023,11:02,343,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IB21S6F1,20/07/2023,09:54,2581,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TH4VH3V3,20/08/2023,12:24,515,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KIIATTIH,20/09/2023,12:27,2173,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-792DW9MU,20/09/2023,12:45,311,EXITOSA,España,Paulina,Manzanares,Yuste,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VNM2FLG5,20/10/2023,19:08,1591,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YYJU1HXF,20/11/2023,21:41,1863,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7M9J3LKY,20/11/2023,09:10,2334,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0KPNXYWN,20/11/2023,20:35,1468,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8M76DMKL,20/11/2023,07:20,1135,EXITOSA,España,Humberto,Carlos,Guerrero,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UOVFS9K8,20/11/2023,11:22,2753,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1I3EHOHA,20/11/2023,13:19,466,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZIZEX2J4,20/12/2023,18:29,2332,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3KZSZDDS,21/01/2023,12:03,2657,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5MSCC295,21/01/2023,09:18,1850,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Q8V5WL6U,21/01/2023,09:14,2208,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-R7LTZ902,21/01/2023,14:21,141,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,ZZZ8D891,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-L2ZTM2PX,21/02/2023,13:14,2808,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LWD864KL,21/02/2023,11:36,2048,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Pili,Río,Tomas,Uganda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GZ7PWNMA,21/02/2023,17:39,1444,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LESJY2IT,21/03/2023,09:03,1125,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3IGMLHTC,21/03/2023,19:03,1316,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-V3J9N7YN,21/04/2023,19:01,2724,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S59ZFQCL,21/05/2023,13:45,2109,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NN7XQN8V,21/06/2023,10:46,2388,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X7XOALTX,21/06/2023,10:41,1073,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Ermua,Sujeto_Obligado12,Agente1108,True
+TXN-QQJ1YKG4,21/06/2023,19:40,263,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KGGJSSUH,21/06/2023,17:29,473,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NKH0FTSR,21/07/2023,02:20,1775,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BKO65R0V,21/07/2023,17:04,1025,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-74NZKGJ2,21/07/2023,20:36,243,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-1625IEQ6,21/09/2023,13:21,1406,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KC54MGDS,21/09/2023,13:02,607,CANCELADA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-V51DZIOJ,21/10/2023,14:33,2513,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Teófilo,Llamas,Bonilla,Suiza,Ermua,Sujeto_Obligado12,Agente1108,True
+TXN-QD2UXOUV,21/10/2023,16:52,543,CANCELADA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ASX1QYZV,21/10/2023,17:47,1892,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TPNTLOT5,21/10/2023,12:41,1770,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GYS0D7PB,21/10/2023,20:15,2097,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9TBLIA68,21/11/2023,21:08,1075,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8LIJ2XR6,21/11/2023,14:18,1253,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MG62SFT4,21/11/2023,13:12,1880,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3S78ZTEJ,21/12/2023,20:11,79,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JDVHGGYC,22/01/2023,09:32,1640,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IKLFV3S4,22/01/2023,14:00,520,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-16BUNBQW,22/02/2023,16:23,2465,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0YH2IIP7,22/03/2023,14:16,1567,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WF1LBJ47,22/05/2023,18:52,361,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZMT6R4ZR,22/05/2023,13:42,935,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CAFAZDOS,22/05/2023,20:06,1450,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XP2GYZ74,22/06/2023,16:24,2517,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZI34N6TU,22/06/2023,13:38,2557,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZQFT5H92,22/08/2023,19:39,1246,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Gaspar,Costa,Cuéllar,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QJ5ESW5F,22/08/2023,04:29,352,FALLIDA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Z7Y7RCD7,22/09/2023,15:11,2665,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,ZZZ6C20C,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I0EDB419,22/09/2023,13:06,2031,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9JPN4FET,22/09/2023,18:54,2537,FALLIDA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IPVPM9K3,22/10/2023,11:22,2940,EXITOSA,España,Hernando,Molins,,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O5CVK0TQ,22/11/2023,08:03,1049,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3LO7P2AB,22/11/2023,18:53,214,EXITOSA,España,Benito,Valbuena,Morales,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-876ARMLQ,22/11/2023,10:56,2146,CANCELADA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KQ6LK51U,22/11/2023,15:01,2572,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-70XRQFPG,22/12/2023,09:00,869,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MMUVP7TQ,22/12/2023,18:28,2749,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G36Q23XT,23/01/2023,09:11,2189,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-H7WS6M4K,23/01/2023,12:46,842,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GFRTXIXX,23/02/2023,01:13,141,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-PV6IYW68,23/03/2023,15:19,1999,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-O7LMZB3B,23/03/2023,06:45,2491,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BI1MH68P,23/03/2023,20:42,2964,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y65HJKZM,23/03/2023,12:43,1070,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9BWJ85EJ,23/03/2023,15:08,666,EXITOSA,España,Régulo,Sáenz,,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X3UOHPV1,23/05/2023,12:15,1543,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KPH1OPWG,23/05/2023,17:44,486,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-106HOYNN,23/05/2023,14:21,131,CANCELADA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7KN08YFA,23/05/2023,14:17,630,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U6Z8HCX2,23/06/2023,08:33,2823,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QPZFACIP,23/06/2023,16:57,2930,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4IIF1BRT,23/06/2023,09:09,1414,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-48QRCJ4Y,23/06/2023,19:54,1132,FALLIDA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6S51BSV5,23/07/2023,12:30,1357,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KOHIUE6T,23/08/2023,16:06,1292,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FXTIRKJF,23/08/2023,10:26,2775,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EB46PCK1,23/09/2023,13:44,1996,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WKJMDXIZ,23/09/2023,11:53,2112,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XBPY7JFW,23/10/2023,15:25,981,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HWPY9PIU,23/11/2023,20:44,2157,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VFW0E3TC,23/12/2023,20:11,1972,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S1406WCH,24/01/2023,11:19,2861,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CKG5JXXM,24/01/2023,15:20,2413,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6MQ5QMY8,24/01/2023,12:13,1744,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JVP6YK3F,24/01/2023,11:41,1461,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OZ9OLRCT,24/01/2023,10:10,1592,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-09HMRD3W,24/02/2023,20:53,1390,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-TTAV7ZY4,24/02/2023,11:35,728,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-R5XQYE1W,24/02/2023,13:27,1759,EXITOSA,España,Yago,Moll,,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FJ2ZPS3C,24/03/2023,15:56,55,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Óscar,Ríos,Villa,Filipinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0WAM0AH2,24/04/2023,15:32,2169,CANCELADA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F5HZXNF2,24/04/2023,20:31,2900,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XA51TR2V,24/04/2023,11:46,1796,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NT70O9TR,24/05/2023,09:38,1453,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RFPFTDT2,24/05/2023,13:02,2946,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7RTGRWC9,24/05/2023,11:59,2933,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KLD3VV1G,24/05/2023,16:11,562,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LPQ1AKT9,24/05/2023,11:20,93,CANCELADA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KCKW97KF,24/06/2023,01:13,1290,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IWQHPMRP,24/07/2023,16:03,2992,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KWDD7M0P,24/07/2023,14:41,373,EXITOSA,España,Pepe,Busquets,Ayala,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-M1PIX5UJ,24/08/2023,14:35,1978,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-R2ZSHQ14,24/09/2023,12:03,393,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XAZ604TP,24/09/2023,13:13,869,FALLIDA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OOE4MEUN,24/10/2023,18:17,2070,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DVJ32Z17,24/10/2023,09:55,1501,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NEJ519VB,24/10/2023,10:03,1872,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Humberto,Anguita,Varela,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VB643XE6,24/10/2023,10:58,2714,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-U59D6SPF,24/10/2023,21:06,802,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FMPJ723E,24/11/2023,04:23,2905,CANCELADA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EAJENOGM,24/12/2023,10:25,1636,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NFASXRYA,25/01/2023,10:58,1731,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-5JOI9BQ5,25/01/2023,19:52,2421,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OV5LTR6J,25/01/2023,10:53,547,FALLIDA,España,Nando,Peralta,Galvez,Palau,ZZZC948F,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UTI58MMW,25/01/2023,17:19,1825,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6UH0Q1KY,25/01/2023,21:47,2118,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9IRI9TD2,25/02/2023,10:26,2639,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YOGST116,25/03/2023,10:15,2998,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-40Z6TUYX,25/03/2023,19:03,1600,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RZ82PQT7,25/03/2023,14:44,661,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZXMPBL6Q,25/03/2023,20:19,1149,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OZJWPYDB,25/04/2023,16:01,2682,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-55UNCYS5,25/04/2023,18:35,2362,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S0RT4FIO,25/04/2023,10:48,1362,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JZG9Z5MY,25/05/2023,13:52,784,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J38VN5VX,25/05/2023,09:38,2607,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GSP0Z75E,25/05/2023,13:04,1875,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0ZNFQO9V,25/05/2023,16:15,2005,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DLMJI45U,25/06/2023,09:16,169,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6R98ZL61,25/06/2023,19:06,2831,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MI68OXGM,25/06/2023,14:39,613,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VGDLUM06,25/07/2023,09:48,974,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3LVJ0C72,25/08/2023,11:03,1420,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-11IZHY03,25/08/2023,09:56,887,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-OF4N9BFY,25/09/2023,19:34,1916,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-JZ6721YQ,25/09/2023,15:08,977,CANCELADA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3SILMT92,25/10/2023,10:14,2948,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EAMI0TYB,25/10/2023,10:10,1794,EXITOSA,España,Leticia,Peralta,Cabañas,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AQ1DDN7Y,25/11/2023,10:15,1295,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KKKKD7BY,25/11/2023,21:43,503,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6AX377Q4,25/12/2023,03:21,679,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SXCKMPOE,25/12/2023,09:59,1675,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SBY75ZGO,25/12/2023,17:14,501,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y4S6AI0N,25/12/2023,13:43,911,FALLIDA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KMJOY538,25/12/2023,20:13,2442,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-ZBN1K90K,26/01/2023,12:02,2547,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,True,José Antonio,Vallés,Amores,República Checa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-C9H8BMPC,26/01/2023,14:01,577,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AUN6R71Z,26/02/2023,01:39,1024,FALLIDA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WQMGC8JF,26/02/2023,09:27,1518,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QQAP4FOG,26/02/2023,16:57,2143,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Nerea,Lago,Vazquez,Israel,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HJTYR8BB,26/03/2023,16:20,2036,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-I5N4F7Q4,26/04/2023,16:49,1897,EXITOSA,España,Aurelio,Reyes,Feijoo,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VUF7L1I8,26/04/2023,14:20,1865,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-0XM7ZNU0,26/04/2023,16:38,2110,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F8BFJTNL,26/05/2023,10:55,1489,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Jeremías,Pino,Gámez,Swazilandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9NTYLUVZ,26/05/2023,18:06,2734,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-V17DKOOH,26/05/2023,21:12,1700,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9TL57EBZ,26/06/2023,17:51,908,EXITOSA,España,Maura,Madrigal,Galán,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-N36S3509,26/06/2023,13:19,1723,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XMGJB939,26/06/2023,21:52,816,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XI8QFGEC,26/07/2023,09:34,1621,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-G97YDSJL,26/07/2023,09:25,2071,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-7TQHALIW,26/07/2023,14:31,2150,CANCELADA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3TRZCQUS,26/07/2023,11:54,1862,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Z2V0E1UA,26/08/2023,09:51,155,FALLIDA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-IVE2BIW2,26/09/2023,11:19,2317,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YX7WN987,26/09/2023,09:31,267,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CKRFATTE,26/09/2023,17:00,189,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Q8DYMBRC,26/09/2023,20:24,838,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-F013CYJK,26/10/2023,17:30,2333,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HHNI6QSR,26/11/2023,17:27,464,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9ROK4OA6,27/01/2023,05:36,2131,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3I05GUQO,27/02/2023,09:26,734,CANCELADA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UKKDMJRC,27/02/2023,11:54,2459,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8OUQQ0TJ,27/04/2023,19:25,1060,CANCELADA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RGITT73T,27/04/2023,19:40,2884,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MLK7CB70,27/04/2023,09:38,684,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-GROJMUNM,27/06/2023,14:31,2429,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-D3PKZMOU,27/06/2023,18:38,2057,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-9LBI7FQX,27/06/2023,16:35,2471,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-EWBSWII6,27/06/2023,10:38,877,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-59977GZ0,27/07/2023,16:55,2235,EXITOSA,España,Nilo,Olivera,Grau,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-82CCC6Y3,27/07/2023,18:49,1141,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SQ4WNTH5,27/08/2023,17:38,2981,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8GVSBVZ9,27/08/2023,18:35,770,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4OWLEZ6Z,27/10/2023,14:06,337,EXITOSA,España,Gil,Cantero,Sarmiento,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-NTB0DQ81,27/11/2023,17:24,1578,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,True,José Antonio,Vallés,Amores,República Checa,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-689R4TEI,27/12/2023,13:14,1065,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-3PUJCNS6,28/01/2023,17:28,555,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-DHI0SWNV,28/01/2023,15:29,295,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-2QQKZWSA,28/02/2023,12:54,273,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-UT2CXBRO,28/02/2023,18:15,1493,CANCELADA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BDFXQ4CW,28/03/2023,16:01,1911,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-AQ31XHDC,28/03/2023,18:13,805,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6V35O8R2,28/03/2023,20:34,59,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-A0LBC3II,28/03/2023,15:17,1147,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-4JXMSFGY,28/03/2023,22:22,1330,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-S6HBJE8A,28/03/2023,09:23,2036,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SONWSJT0,28/03/2023,15:13,2148,CANCELADA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-QFI7M8BI,28/04/2023,09:52,1317,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-8D9EDKFD,28/04/2023,11:30,2964,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RAW87U4U,28/04/2023,14:24,110,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-CQ88EA39,28/05/2023,13:52,634,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MJBMSJCJ,28/05/2023,21:57,2311,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VQ6J6U6B,28/06/2023,14:38,1310,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6V9UYMZL,28/06/2023,12:40,1092,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-71WYEHPS,28/06/2023,15:36,2184,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-X0X9LG50,28/06/2023,14:08,1702,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XQG2MZIK,28/06/2023,20:46,1405,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-WJAUFUQ3,28/07/2023,16:31,2078,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FGT9TGQ8,28/07/2023,19:27,2476,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-XQU7RBQZ,28/08/2023,20:05,487,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Y27CAEPR,28/08/2023,10:07,1311,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-KCKNSW2L,28/08/2023,13:56,2505,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-SZUV6P29,28/09/2023,09:51,1920,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-RLHA53GE,28/09/2023,01:36,2540,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-Q0WS5QD0,28/09/2023,15:01,2428,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-YRBQLXXI,28/10/2023,12:37,430,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-MMKG8WMJ,28/11/2023,11:18,2470,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-C3Z1DYDG,28/11/2023,20:17,405,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-LJEURC19,28/11/2023,12:10,1987,CANCELADA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HC2M2RX0,28/12/2023,17:47,2363,EXITOSA,España,Macarena,Rico,,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VL8KIMWS,28/12/2023,15:55,948,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-6BKX81US,03/04/2023,13:38,190,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Central,Beneficiario,,Italia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-J6UFU2GO,13/08/2023,18:35,112,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Central,Beneficiario,,Italia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BRBXVIWL,12/04/2023,09:33,39,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Central,Beneficiario,,Italia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-VP9QEOV9,12/05/2023,19:36,137,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Central,Beneficiario,,Italia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-BM4HVG23,12/04/2023,17:29,178,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Central,Beneficiario,,Italia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-21C12,18/06/2023,18:29,895,FALLIDA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-1CA2B,18/06/2023,18:29,995,FALLIDA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-ABB3B,18/06/2023,18:29,1111,FALLIDA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-22C1A,26/09/2023,11:19,890,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-3CBC3,26/09/2023,23:12,1414,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-CA2B1,26/09/2023,23:12,1317,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-BC1A1,14/05/2023,09:16,1430,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-CBBCC,14/05/2023,09:16,993,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-CB2CC,14/05/2023,09:16,1034,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-A12AA,01/05/2023,10:04,1481,EXITOSA,España,Eliana,Viana,Cobos,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-3BCCC,01/05/2023,10:04,1353,EXITOSA,España,Eliana,Viana,Cobos,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-A211B,01/05/2023,10:04,933,EXITOSA,España,Eliana,Viana,Cobos,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-A3BAB,08/01/2023,21:53,1069,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-B32A3,08/02/2023,17:03,1419,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Albina,Pont,,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-BCAAA,08/02/2023,17:03,1354,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Albina,Pont,,Bhután,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-BA2B3,25/09/2023,15:08,803,CANCELADA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-31A11,25/09/2023,20:07,1378,EXITOSA,España,Guiomar,Ricart,Sacristán,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-A21CB,25/09/2023,20:07,1216,EXITOSA,España,Guiomar,Ricart,Sacristán,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-AAB13,15/10/2023,21:11,1394,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-13AAC,15/10/2023,21:11,1234,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-FRAC-AA111,15/10/2023,21:11,828,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Ermua,Sujeto_Obligado12,Agente1108,True
+TXN-HIGH-989YX,26/04/2023,20:57,2393,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-ZXX9Y,26/04/2023,20:57,2481,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-Y7XX7,26/04/2023,20:57,2918,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-7YZ8X,17/08/2023,13:33,2649,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-Y89X8,17/08/2023,13:33,2798,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-77Y8Y,17/08/2023,13:33,2822,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-89YZX,17/08/2023,13:33,2138,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-98ZY9,01/10/2023,10:40,2448,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-998XZ,01/10/2023,10:40,2730,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-99789,01/10/2023,10:40,2176,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-7X999,01/10/2023,10:40,2608,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-9X798,01/10/2023,10:40,2969,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-889ZX,27/08/2023,19:25,2131,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-9877X,27/08/2023,19:25,2903,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-7YX79,27/08/2023,19:25,2350,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-YY9X8,27/08/2023,19:25,2087,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-ZY8X9,27/08/2023,19:25,2394,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-98X9X,13/09/2023,20:34,2998,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-79ZZ8,13/09/2023,20:34,2539,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-77798,13/09/2023,20:34,2465,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-XZ99Z,13/09/2023,20:34,2779,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-ZY889,21/09/2023,15:32,2625,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-Z8XXZ,21/09/2023,15:32,2668,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-XX7X9,21/09/2023,15:32,2836,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-99988,21/09/2023,15:32,2131,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-97YY7,16/07/2023,20:01,2187,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-ZZ8XY,16/07/2023,20:01,2187,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-YZ97X,16/07/2023,20:01,2820,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-X978X,16/07/2023,20:01,2121,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-987ZX,16/07/2023,20:01,2864,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-Z97Z8,10/06/2023,20:57,2543,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-87897,10/06/2023,20:57,2731,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-8ZX8X,10/06/2023,20:57,2886,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-Y987X,10/06/2023,20:57,2905,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-X99YZ,08/08/2023,14:19,2418,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-9Y8Y8,08/08/2023,14:19,2331,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-78Z88,08/08/2023,14:19,2163,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-XYYYZ,08/08/2023,14:19,2319,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False
+TXN-HIGH-XYY8X,08/08/2023,14:19,2061,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Ermua,Sujeto_Obligado12,Agente1108,False

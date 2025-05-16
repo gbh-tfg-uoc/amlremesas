@@ -1,0 +1,994 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-31US56WJ,01/01/2023,12:38,1904,EXITOSA,España,Petrona,Larrea,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BJDQV5QJ,01/02/2023,15:51,2584,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TIZQTP5D,01/02/2023,11:00,2857,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LGIPABKA,01/02/2023,16:24,2004,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Édgar,Castells,Portero,Nauru,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NT3CONJ0,01/02/2023,12:28,2174,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WIRES3Q2,01/03/2023,16:43,1865,EXITOSA,España,Noemí,Caro,,Egipto,ZZZ34668,Guinea,07/01/1993,False,Armida,Casares,Elorza,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G72NWOQP,01/03/2023,12:53,1104,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A3Y43VJF,01/04/2023,20:22,268,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KIULJIIJ,01/04/2023,18:31,1841,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CSUEFYHS,01/04/2023,13:12,2367,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D138N3A9,01/04/2023,15:31,2975,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TRTBUNQS,01/04/2023,16:52,567,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NAUP78Y5,01/05/2023,14:48,2517,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F1FKBTPV,01/05/2023,15:53,1098,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Noa,Ramírez,Gascón,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DXATGXWG,01/06/2023,22:39,1284,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ILKFQ3WF,01/06/2023,17:04,2318,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UA5FUIVG,01/06/2023,16:26,203,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9FQGAVC3,01/06/2023,09:35,1818,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0PG7BNVN,01/06/2023,17:47,2898,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-REKX2HI8,01/07/2023,10:52,312,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DG59ALNN,01/07/2023,10:53,2723,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C3JA02UL,01/07/2023,11:32,1550,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RS9CFLWH,01/07/2023,19:35,86,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SOSCMYW6,01/07/2023,16:15,2869,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C4B5BBCF,01/08/2023,17:27,1409,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G9AWU952,01/08/2023,16:29,836,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M52ISUM8,01/09/2023,09:56,2714,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CXZPEVZA,01/09/2023,17:46,1271,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KYQQMIIA,01/11/2023,09:36,2779,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OIXS0RPE,01/11/2023,19:12,2778,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6ZDHJ4CT,01/12/2023,20:16,1127,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HFY7WJ9Q,01/12/2023,10:09,2352,CANCELADA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CLJ7895T,02/01/2023,09:26,895,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YT7Q6Z85,02/01/2023,13:52,1588,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VY3URNJU,02/02/2023,09:44,2520,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1I7358L4,02/02/2023,18:06,2527,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PXGWGB8S,02/02/2023,18:27,1987,FALLIDA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5N6CVBD9,02/02/2023,16:17,1067,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XJL52ZXK,02/03/2023,21:09,2639,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CA6AQ3KL,02/03/2023,12:50,886,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MLVCMJOG,02/03/2023,19:15,632,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UKVZ47N6,02/03/2023,21:01,2754,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Martin,Guillen,,República Federal Democrática de Nepal,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BAD2NU0L,02/04/2023,16:09,2597,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IJV1IUG2,02/05/2023,21:56,2409,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Pilar,Briones,Pellicer,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CHB9HD3I,02/05/2023,12:40,656,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9LI5J0JR,02/05/2023,20:10,1054,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A1DJYKI8,02/05/2023,09:28,1233,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4UGXYK35,02/07/2023,12:22,1081,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EEBX0XHJ,02/07/2023,12:18,2491,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6RJUNTT8,02/07/2023,12:18,1347,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RAV6WZ06,02/07/2023,16:42,2700,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5HXOI2HM,02/08/2023,19:29,888,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QUQC20PX,02/08/2023,17:44,982,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ILZ1EP73,02/08/2023,15:42,1481,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FDNSFMZP,02/09/2023,17:39,2399,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AVEFY3QU,02/09/2023,07:42,2996,CANCELADA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9VPHY2GA,02/09/2023,15:20,2706,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OEXYLW95,02/10/2023,13:38,62,CANCELADA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZJMUG9SB,02/10/2023,10:33,1139,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Celestino,Diego,Mayoral,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6JQN9Q1Q,02/10/2023,09:31,538,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-74EN00PP,02/10/2023,20:01,1185,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IRAL2IMT,02/10/2023,14:45,2259,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KCA7P8SL,02/11/2023,15:32,2478,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JY5JSPV7,02/11/2023,16:01,1263,CANCELADA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-P30ZHXO9,02/11/2023,12:19,1515,EXITOSA,España,Sabina,Cámara,Ávila,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HU8JI7LJ,02/12/2023,19:08,2079,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GPKQVYUC,02/12/2023,14:51,2030,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-P74TPHBD,02/12/2023,12:33,643,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X3O5VB9O,03/02/2023,10:27,1229,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DKSYPQ50,03/02/2023,15:48,2488,EXITOSA,España,Daniel,Murillo,Viña,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3NM2O4WF,03/03/2023,17:38,987,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AVL2VU9O,03/03/2023,09:04,495,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G3FSLAGO,03/03/2023,21:36,2921,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Ciríaco,Pino,Girón,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2VWHCL9B,03/04/2023,09:35,609,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PYXTBFD8,03/05/2023,20:30,427,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RTI8TR6J,03/05/2023,14:11,882,CANCELADA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8W9QR57O,03/05/2023,21:47,2346,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Lázaro,Ramírez,Real,Eslovaquia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-113DG12M,03/06/2023,09:24,2891,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-160XJIIA,03/06/2023,05:37,1359,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H5M3J06J,03/06/2023,18:54,1968,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YAU419SM,03/06/2023,16:08,697,CANCELADA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3A5Q3P0Z,03/06/2023,11:03,1630,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L933740O,03/06/2023,11:27,2154,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z9NMSD19,03/06/2023,06:39,1193,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4M5I7J6Y,03/07/2023,17:34,1059,EXITOSA,España,Víctor,Garzón,Novoa,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FDBD5MY6,03/07/2023,09:36,2455,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FSD9L3EV,03/08/2023,09:25,1221,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CUZMN3YT,03/08/2023,10:46,1715,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QKLJC1CB,03/09/2023,09:36,1120,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JSPXV9UW,03/09/2023,15:26,999,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T08NKEA8,03/09/2023,10:36,174,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A4GNJQ7V,03/10/2023,11:56,1487,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AYBY2R5Z,03/10/2023,19:03,1930,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SH1AOMPW,03/11/2023,20:32,1516,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8XEI6K9M,03/11/2023,10:11,886,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8UXU9JKZ,03/11/2023,18:51,1152,CANCELADA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XTLZRKKL,03/11/2023,21:41,435,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RI01FQ8W,03/12/2023,14:30,1955,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XTZ77N03,03/12/2023,11:31,2159,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1OWHSORS,03/12/2023,18:01,1737,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T9Y7B4XG,04/01/2023,10:35,1844,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-W5DOMSQJ,04/01/2023,11:50,499,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0KR03CH1,04/01/2023,14:11,653,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Cristian,Benavent,Beltran,Fiji,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FIZN99BC,04/01/2023,17:39,1829,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GVD7XV8M,04/01/2023,09:57,81,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MV44FC58,04/03/2023,17:05,2614,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PKADSFJ0,04/03/2023,18:31,2829,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NKAKSTB9,04/04/2023,19:41,1421,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Tere,Canales,Agullo,Marruecos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R8QREVR7,04/04/2023,13:46,1754,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Q8WUMT1G,04/04/2023,17:48,858,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GNYJPAUU,04/04/2023,19:51,2804,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T48SHPRN,04/05/2023,19:25,2678,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WYH8R6EL,04/05/2023,12:43,2621,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VG3WT6SR,04/05/2023,20:39,2142,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YMQ34ZZO,04/05/2023,21:00,946,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Nando,Conde,Campo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D8HS7JU9,04/06/2023,13:39,1881,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DKKK2FS1,04/06/2023,19:37,1325,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S3ECZ3J6,04/07/2023,16:52,175,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9PP74K70,04/07/2023,12:45,986,EXITOSA,España,Calista,Bravo,Barragán,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-41URO2MR,04/07/2023,04:31,1349,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KBK7BWAX,04/07/2023,16:03,568,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GBZPQ4UH,04/07/2023,18:15,805,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SIUAQJR2,04/07/2023,19:58,412,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SJLDS3ZP,04/07/2023,18:26,183,EXITOSA,España,Quique,Figuerola,,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OHIFWLCX,04/08/2023,16:46,1585,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WFD9JCBJ,04/09/2023,16:26,1420,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-U3ZXUHG2,04/09/2023,11:54,1152,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y6PJYZ69,04/10/2023,19:23,1991,EXITOSA,España,Bernardo,Palomares,Cabello,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M0O3MOV6,04/10/2023,10:48,852,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FZXJ1HSB,04/10/2023,19:26,101,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-E1YPDIMG,04/11/2023,18:08,1577,CANCELADA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4DFM2Q6A,04/11/2023,12:52,688,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-04NCE7XQ,04/11/2023,14:18,1162,FALLIDA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Maricela,Belda,,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GIRD7LAN,04/12/2023,14:32,425,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1FU66EBQ,04/12/2023,21:07,178,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YKIQ4AGZ,04/12/2023,12:52,522,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WUCQ0ITN,05/01/2023,12:50,2599,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TRQDR8P4,05/01/2023,14:50,1284,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0JXIWCYC,05/01/2023,13:43,2487,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZA8AD24Q,05/01/2023,14:45,932,CANCELADA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GIAU8Z9F,05/01/2023,17:49,835,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ROL0T8LM,05/01/2023,16:57,1580,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IKO0MWTU,05/01/2023,14:10,363,FALLIDA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RKNIBMLB,05/01/2023,13:42,1661,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-60X1LZGF,05/01/2023,18:14,336,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FOFVAJTC,05/01/2023,10:01,1769,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ES4ONIN6,05/02/2023,10:49,1149,FALLIDA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SMYW3HB7,05/04/2023,14:27,873,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9MT16PAK,05/05/2023,16:03,2882,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VH5BXULP,05/06/2023,21:27,2013,EXITOSA,España,Seve,Amat,Boada,Samoa,ZZZE910A,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JZVXVG3J,05/06/2023,17:58,825,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S8LC1X5L,05/09/2023,15:27,2679,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VHHAT5PT,05/09/2023,17:47,355,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X6CJQ5CR,05/09/2023,09:44,2275,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EZ554YUE,05/09/2023,12:09,1797,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OJKKMWIK,05/10/2023,13:02,1994,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NDURXGWU,05/10/2023,16:28,2574,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VYPG8P2Z,05/10/2023,09:28,2919,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MDQASY9P,05/11/2023,16:23,2451,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DKY9RGDI,05/11/2023,09:38,1125,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8NMGC3GH,05/11/2023,12:07,1311,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YTW2L7NB,05/11/2023,20:56,1074,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Luna,Acevedo,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K5IV6LXS,05/11/2023,10:24,2663,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RMUEZ4VM,05/11/2023,16:49,118,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NCRVRGPS,05/12/2023,14:38,890,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-V12J5R70,05/12/2023,15:40,2187,CANCELADA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D0XB3J9H,05/12/2023,21:28,1418,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZBQH15I1,05/12/2023,10:34,106,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9UOT5MXK,06/02/2023,16:06,1062,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-160MAA7J,06/02/2023,14:08,1682,CANCELADA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IC951ZOB,06/02/2023,15:02,502,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BIIPWZK2,06/02/2023,14:34,53,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A54G2YLR,06/03/2023,09:10,2986,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5OWK7N0W,06/04/2023,11:56,226,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ICRMP8CN,06/04/2023,20:06,1216,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6SQHG463,06/04/2023,21:19,722,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LGPUY3PH,06/05/2023,18:25,1806,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GAWRB8H8,06/05/2023,11:32,1677,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TZAGUNGO,06/05/2023,09:54,899,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JLEUGG5L,06/06/2023,11:30,1697,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N90NISYS,06/06/2023,12:28,2148,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UBV9B9ED,06/07/2023,11:21,433,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UNA9K52N,06/07/2023,20:53,2415,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZBMYI9LL,06/08/2023,21:33,936,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NWVN7ABP,06/08/2023,17:07,1083,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6WEGMUTS,06/10/2023,13:25,440,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HX82A8RD,06/10/2023,18:55,975,FALLIDA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-84U9DUYH,06/10/2023,21:54,939,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XVFW4DOE,06/11/2023,14:27,1199,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KVK5W8UJ,06/11/2023,21:35,1938,CANCELADA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-33OJ95FN,06/12/2023,12:09,2139,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H5PUWBBO,06/12/2023,10:15,617,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AB8DC8H7,07/01/2023,13:59,542,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FXI2MARE,07/01/2023,20:30,2742,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R6A5C64Y,07/01/2023,10:13,403,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YOF2KQVO,07/01/2023,20:25,1966,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KIEAI13X,07/01/2023,17:07,1222,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-818VJCOV,07/02/2023,09:57,2549,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,ZZZ6A4D9,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZKFPF3VR,07/02/2023,19:28,246,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OR8I7LPW,07/03/2023,10:10,1615,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1DXPQ5XQ,07/03/2023,11:29,1235,FALLIDA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GVO0D93L,07/04/2023,20:15,2947,FALLIDA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JX1QS4ZJ,07/04/2023,18:35,1149,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BSUMILUQ,07/06/2023,18:56,1508,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HBVE54HX,07/06/2023,13:41,1681,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0X28W87F,07/07/2023,12:38,634,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UFC9VDV3,07/07/2023,11:45,1158,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8I4JVXSU,07/07/2023,19:35,1881,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RECL7I16,07/07/2023,20:49,536,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-94LZON3N,07/08/2023,15:12,2601,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Adelardo,Toledo,Andrade,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-61DUKAKT,07/08/2023,09:55,2004,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IA884OK3,07/09/2023,13:34,2030,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MASH7ER1,07/10/2023,10:08,868,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Isidora,Portero,,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-B1D0B0EA,07/10/2023,17:40,857,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-72TUA8IX,07/11/2023,15:33,837,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7WZZIIQX,07/11/2023,19:11,2860,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5DF5B2CJ,07/11/2023,09:59,2480,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Severino,Robledo,Piña,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7EGHHCBP,07/12/2023,17:53,1142,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,ZZZBBC2A,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HP6WAREJ,07/12/2023,14:09,1318,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HHA6W0P2,08/01/2023,16:46,577,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OZZYKBYJ,08/01/2023,19:30,1200,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4HAWYZ5C,08/01/2023,11:56,1407,FALLIDA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6XEK0GIM,08/01/2023,17:31,1032,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UWDEMVDY,08/01/2023,09:49,1631,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K08Y0YB8,08/02/2023,09:40,1173,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UFBMY440,08/02/2023,21:26,558,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3C0CCPSM,08/03/2023,10:09,2986,EXITOSA,España,Nando,Peralta,Galvez,Palau,ZZZ8FE37,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ADO97QTN,08/03/2023,11:55,1507,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8EH8HMFL,08/04/2023,15:41,1325,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OYGUY3YC,08/04/2023,18:43,2922,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-V7KELB42,08/04/2023,15:40,1225,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-42B0WVVW,08/04/2023,21:16,2022,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IVWAJ0JE,08/05/2023,20:00,919,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M6OQ0KTX,08/05/2023,12:59,1409,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OQQ4J5I1,08/05/2023,13:24,1967,CANCELADA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UHJADX3Q,08/05/2023,09:54,852,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TLGJQM0U,08/05/2023,12:24,1987,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GIBZDHSG,08/06/2023,20:14,1632,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M7E3ASLO,08/06/2023,09:56,1766,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D8J85L2J,08/07/2023,09:36,2132,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Teófilo,Riera,Garcés,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZI8HYVOJ,08/07/2023,10:25,1161,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,ZZZ4BE70,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SH0GLYPP,08/08/2023,13:08,2284,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R52ZSXAE,08/08/2023,21:53,734,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9INYKRD5,08/09/2023,10:27,2873,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-51HQHY1G,08/09/2023,09:25,2892,FALLIDA,España,Tristán,Galan,,Papua Nueva Guinea,ZZZBD5A0,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-490SQWR9,08/09/2023,00:38,2768,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TO3YA68Q,08/09/2023,18:06,348,EXITOSA,España,Encarna,Diego,,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H7YLF569,08/09/2023,16:07,2230,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FCW2QVNW,08/09/2023,19:10,1107,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SS52AY4R,08/10/2023,18:12,139,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BKKHB73M,08/10/2023,10:38,1315,EXITOSA,España,Tatiana,Sanjuan,,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M6OQUH5F,08/10/2023,12:21,176,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,True,Vera,Viña,Gras,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VLMHXJAG,08/10/2023,18:05,2819,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K5XKU8BY,08/10/2023,14:38,1850,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RGH2M6DZ,08/12/2023,22:15,346,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S3FWRA4N,08/12/2023,20:11,148,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OCWYE0XF,09/01/2023,19:52,2602,FALLIDA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z9YP3JZF,09/02/2023,19:00,1907,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SSR9APJH,09/02/2023,16:57,951,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-E4K8ISCC,09/02/2023,21:44,2082,CANCELADA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XF2UT4B6,09/02/2023,13:27,784,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-P5A4Q2QI,09/02/2023,12:49,1271,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DX4F69M4,09/02/2023,20:50,323,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NZN3M9PO,09/02/2023,18:25,2278,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X60E0IU3,09/03/2023,21:59,2277,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9SZ5EM2Q,09/03/2023,12:03,716,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WMN0HQ6Z,09/04/2023,12:58,424,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-69LEE5SA,09/05/2023,15:57,2560,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UWS25AX2,09/05/2023,13:05,400,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JXJ7V9V5,09/05/2023,15:07,1391,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FHPGUHC5,09/05/2023,11:18,2623,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ED4O0BF4,09/05/2023,20:20,2332,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-12PN5F4Z,09/06/2023,15:48,1343,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HNUL4DG9,09/06/2023,09:06,1572,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D5YKCO4I,09/06/2023,15:27,2730,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DISQN94A,09/06/2023,18:08,526,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M31ZB73B,09/06/2023,14:40,2877,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TDX96CHZ,09/06/2023,10:22,323,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FNLPALTQ,09/07/2023,20:15,850,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NQMYFD94,09/07/2023,18:15,435,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DSFIO2P5,09/07/2023,12:07,1263,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1XVNX3JR,09/08/2023,11:31,1140,CANCELADA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VOQDS2CF,09/08/2023,18:38,1861,EXITOSA,España,Raúl,Villalonga,Palomo,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XAVRB6R1,09/08/2023,13:14,2816,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TE68VUS9,09/08/2023,15:25,2355,EXITOSA,España,Fidela,Sola,Costa,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WKOAXXDS,09/09/2023,17:13,1640,CANCELADA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I5T1OLI3,09/09/2023,11:36,1782,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WCHLRCRS,09/09/2023,09:32,301,CANCELADA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X04VHNP1,09/09/2023,12:02,873,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TTJQ1GIG,09/10/2023,09:42,211,EXITOSA,España,Anastasia,Ropero,,Croacia,ZZZ2A7A9,Haití,14/10/1976,False,Alfonso,Arce,Linares,Eslovenia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F28XMOOC,09/11/2023,09:15,464,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TNIEFZHE,09/11/2023,18:50,2931,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3CAGG0HQ,09/11/2023,21:53,115,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DZ6JPQ1I,09/12/2023,11:01,795,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L4F59AUV,10/01/2023,12:13,271,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VEZZJ8CC,10/01/2023,13:26,1796,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Genoveva,Higueras,Montero,Tonga,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Q2SH3VEV,10/01/2023,12:29,2248,FALLIDA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-98X98O95,10/03/2023,11:23,1445,EXITOSA,España,Yésica,Llamas,Amorós,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZR6DNZDH,10/04/2023,16:28,997,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K6XY0OFR,10/04/2023,10:33,1415,EXITOSA,España,Silvia,Iglesias,,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S2QWFQ7P,10/04/2023,11:37,979,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LYH3PTQX,10/05/2023,13:49,248,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K45GDMDN,10/05/2023,19:48,2729,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S4A5JHH2,10/06/2023,14:00,889,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JYBU4BTC,10/06/2023,19:49,1905,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PB30TOSC,10/06/2023,01:00,1521,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NGN2RAYR,10/06/2023,05:27,1864,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JIRQA0DX,10/06/2023,17:37,1565,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QO2T6QJH,10/06/2023,13:18,1428,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A0XDSSGJ,10/07/2023,03:14,1024,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XOM8VY9J,10/07/2023,18:28,1669,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2BY4BJ7U,10/07/2023,20:14,820,FALLIDA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FPTMXWQV,10/08/2023,14:00,874,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UNYM63R0,10/08/2023,18:27,1093,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EE0XH87I,10/09/2023,11:09,529,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S8RX30RP,10/10/2023,11:18,432,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0YWMVN1P,10/10/2023,19:43,2543,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-91TY4X6B,10/10/2023,20:38,2339,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2MO0CV1C,10/10/2023,09:59,1801,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-33D5YGFL,10/10/2023,17:43,2245,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9WAAR62Y,10/10/2023,10:28,2287,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0ZHHJCIM,10/10/2023,17:35,1482,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CM9F25QD,10/10/2023,19:01,2036,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JP08I3LE,10/10/2023,01:46,1211,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A89821VZ,10/11/2023,16:31,2494,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T7JPCD5U,10/11/2023,20:15,1263,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2GXDD3ZZ,10/11/2023,18:57,2023,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5V7DFMIP,10/12/2023,19:43,2444,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NHHIWPDS,10/12/2023,17:09,1221,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H05R5TGI,10/12/2023,10:05,104,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UFEASJ00,10/12/2023,15:25,1966,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CMMQVDPP,11/01/2023,13:15,2045,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I6NGQGTW,11/01/2023,18:04,1581,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XJ3KZQD1,11/02/2023,17:56,1342,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GQHTWTPM,11/03/2023,11:55,851,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Fermín,Carreras,,Perú,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OOIZJH4M,11/03/2023,18:20,202,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C0NCRWE7,11/03/2023,15:38,979,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FWT8IUSG,11/05/2023,10:33,116,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GJ5VSPBE,11/05/2023,18:22,836,EXITOSA,España,Víctor,Roman,Acuña,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8BHHV9QP,11/05/2023,20:19,2217,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HR1CKYFF,11/06/2023,15:27,717,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CVEH3L1G,11/08/2023,16:43,686,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9GX7YOIH,11/09/2023,09:24,2335,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z4JVISJR,11/09/2023,19:43,421,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EIFX64VW,11/09/2023,23:19,449,EXITOSA,España,Felix,Moya,,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AIOOVE8C,11/09/2023,21:45,566,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8MORRT0I,11/10/2023,20:38,2410,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-V0VUR8VI,11/10/2023,17:46,67,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BOAVHOXQ,11/10/2023,10:00,1523,CANCELADA,España,Almudena,Guitart,Escobar,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IQT8HR90,11/10/2023,05:56,723,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XZGGMSTX,11/10/2023,16:49,2101,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S5H43GRO,11/11/2023,12:43,1974,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Ismael,Isern,,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-71A5FNUL,11/11/2023,14:07,2281,CANCELADA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I03H6GMP,11/12/2023,21:42,1123,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-74ZECOXL,11/12/2023,11:46,1312,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M5LW4QSV,12/01/2023,17:43,1996,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9QYEPOBT,12/02/2023,12:22,1136,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4S1CB7TU,12/02/2023,22:04,279,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BEG0VON5,12/03/2023,17:55,822,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2H5EE5ZE,12/03/2023,18:31,2368,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DTNVCHBG,12/03/2023,17:15,1104,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K9PLP3R9,12/03/2023,19:07,2605,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-J1HX21C2,12/04/2023,16:54,2263,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LMZSBAVL,12/04/2023,12:48,1561,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FSUS2JYF,12/04/2023,11:48,1938,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WPTR4NE5,12/04/2023,10:56,1463,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G6L4F0MU,12/05/2023,11:23,2728,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4LA8REI3,12/05/2023,05:31,667,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8LS631C0,12/05/2023,03:59,2125,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,ZZZA6975,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CHAVY9WX,12/06/2023,17:09,2219,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D4Q8LUPR,12/06/2023,11:30,964,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8U186CQV,12/06/2023,15:31,1781,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SKXBZH2H,12/06/2023,21:19,224,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TBWL9FFQ,12/06/2023,15:34,2058,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KCV7ZGTW,12/06/2023,15:05,2291,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KXTRQZVI,12/07/2023,17:12,1345,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2OZDEP7N,12/07/2023,18:23,523,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5Y1HE96F,12/07/2023,15:14,181,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C7UEH6HC,12/07/2023,19:02,1475,CANCELADA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2QWGXC2N,12/08/2023,17:27,65,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9ULOZLSS,12/08/2023,19:15,148,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZB2N71YK,12/08/2023,06:33,2116,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2HE3JY4U,12/08/2023,20:19,229,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UOIXL3P2,12/08/2023,17:40,2105,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ELCANFL4,12/08/2023,17:10,1376,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SPPVKJF5,12/09/2023,20:19,1754,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NF3JUE4M,12/09/2023,18:07,1465,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XHHOJ2U7,12/09/2023,18:08,2686,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DN9N7EWX,12/09/2023,11:44,2062,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KV6DSMQR,12/09/2023,01:48,910,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L261ED7W,12/09/2023,09:11,296,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-E4STK8IN,12/10/2023,15:40,2652,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Ulises,Escamilla,Barragán,Panamá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-E8GMCY0N,12/11/2023,18:09,2682,FALLIDA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7BO1UEJB,12/11/2023,11:54,2600,FALLIDA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F2ACQZGY,12/11/2023,13:18,498,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GI4BX27U,13/01/2023,18:10,721,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SIFVWAHW,13/01/2023,20:45,1766,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BB75GY8U,13/02/2023,11:17,813,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RIUHM57A,13/02/2023,14:16,1780,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LR02IXEY,13/02/2023,18:20,2727,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RI2TNYMU,13/02/2023,19:05,2727,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Prudencio,Pedrosa,Planas,Sudán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RWRCBWA5,13/02/2023,18:33,1681,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M6DBFKU6,13/03/2023,09:57,1614,FALLIDA,España,José Mari,Núñez,Sanmartín,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R9S1PBM1,13/03/2023,12:46,699,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F8YR7CRM,13/03/2023,01:22,2334,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KCS1XMOX,13/03/2023,19:56,1044,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UOLTE5J4,13/04/2023,16:17,477,CANCELADA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VHXS8H86,13/04/2023,21:11,1354,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I0W1W1OP,13/04/2023,13:03,856,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GM3ZRMPE,13/05/2023,10:36,848,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Valladolid,Sujeto_Obligado12,Agente2264,True
+TXN-CXQK2ZKH,13/06/2023,19:38,150,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9CSYIH86,13/06/2023,19:42,1492,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-O4ZUB0RJ,13/06/2023,20:41,1560,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-O91S1G2V,13/06/2023,10:20,843,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X0AM959R,13/07/2023,14:27,2129,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IWOJPVB1,13/07/2023,19:43,292,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JZSPD1YZ,13/07/2023,16:24,1599,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NQR30YRN,13/08/2023,16:48,263,CANCELADA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7QJQOAUI,13/08/2023,21:45,1152,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MGNF7PX3,13/08/2023,16:32,2320,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C188JOV7,13/08/2023,17:25,2570,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LT48PZR8,13/08/2023,13:47,547,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9ZCMKN8C,13/08/2023,13:48,1658,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T5WMRKCI,13/09/2023,18:19,465,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XVDAZH9H,13/09/2023,15:35,1879,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JKD5LNKM,13/09/2023,10:58,2751,CANCELADA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UWKVOS3J,13/09/2023,07:51,1344,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZEYVQKWM,13/10/2023,21:24,2395,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MPOO6QWQ,13/10/2023,09:14,1070,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R7SG13DB,13/10/2023,16:51,1606,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NYP8J73X,13/10/2023,10:52,1863,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-W6RIUTX1,13/10/2023,18:51,994,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RR1PCBD9,13/10/2023,20:14,625,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y7BBTF6P,13/11/2023,16:51,1445,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N9US04DY,13/11/2023,20:36,941,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VBBSOOER,13/11/2023,20:52,1157,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T9JG2X2C,13/12/2023,21:34,1944,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9T6VQFKO,14/01/2023,13:56,2123,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UJTSYS2C,14/01/2023,01:15,1029,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C1S5ERVF,14/02/2023,12:38,2295,FALLIDA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QMA0KA8G,14/02/2023,11:35,1571,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z2C27ILT,14/02/2023,21:25,65,CANCELADA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UIBLFS0L,14/03/2023,10:46,2259,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2UYQXXOU,14/03/2023,14:42,1479,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0HHSSATA,14/03/2023,20:07,1380,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GE6N55O7,14/04/2023,17:17,2436,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2BEYJGTK,14/04/2023,17:10,2555,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G9DB7VV7,14/07/2023,15:38,882,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XGPSLH2O,14/07/2023,20:00,2966,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EH8IIQVA,14/07/2023,09:04,369,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MHKP0LBH,14/08/2023,19:39,2671,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9VRKHADV,14/08/2023,10:13,951,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CMRPRFM7,14/08/2023,15:42,1688,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TCBA0MPR,14/09/2023,21:30,1748,CANCELADA,España,Lilia,Anglada,Pizarro,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7YY8AQAT,14/09/2023,18:00,1023,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8LRQH25U,14/09/2023,12:47,2527,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PL5KQSLN,14/10/2023,20:08,2984,EXITOSA,España,Plinio,Martinez,Bernad,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X0B312U2,14/11/2023,15:52,1430,EXITOSA,España,Alma,Rivas,,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VCDHRFD6,14/11/2023,14:59,1179,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2XL79061,14/12/2023,10:12,1225,CANCELADA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BZWKBQNR,14/12/2023,15:03,1166,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HFMUPG29,15/01/2023,16:03,2115,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7WL94YVN,15/02/2023,12:28,1420,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FYNY1BCB,15/02/2023,13:31,2699,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WF8KYO0Z,15/02/2023,01:59,1786,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BJTNBC7I,15/03/2023,17:59,2203,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QLVYGN0R,15/03/2023,18:03,2432,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-515MPBES,15/03/2023,14:53,2107,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N30QMY7E,15/04/2023,16:16,771,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LBQ4QFPK,15/04/2023,16:31,2320,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HL9010LB,15/04/2023,18:57,768,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RXFYSWS3,15/04/2023,14:50,466,CANCELADA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MYFQMJMZ,15/04/2023,15:35,447,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UV1LV8TE,15/05/2023,11:58,2755,CANCELADA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XFOFPW5I,15/06/2023,11:11,2025,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2GPSB03A,15/06/2023,12:07,359,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Constanza,Prats,Peláez,Myanmar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S61S9TSP,15/07/2023,21:25,2511,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GDJOVDGK,15/07/2023,13:24,456,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7FYVO8AM,15/07/2023,14:22,762,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RYX88VR2,15/07/2023,16:14,1989,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1J4RJFO6,15/07/2023,15:27,2755,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2VZED1CV,15/08/2023,10:41,2430,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L46XV1M2,15/08/2023,15:49,1035,CANCELADA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QKHWG2OB,15/08/2023,06:05,1782,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0SVJG68W,15/09/2023,19:52,1566,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZJ9Y9NOR,15/10/2023,10:58,1671,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VL7GQKFF,15/11/2023,10:49,1326,EXITOSA,España,Isaías,Tejedor,Agudo,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OYEP5TY6,15/11/2023,10:45,2045,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Eusebia,Rico,Gilabert,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GW2R3GXX,15/12/2023,18:31,806,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-83BT9Z9D,15/12/2023,10:32,2626,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PE1FPTN6,15/12/2023,17:29,1397,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4WAZGDHE,15/12/2023,18:19,1666,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LA80QKMS,15/12/2023,20:26,1924,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BI7W38AN,15/12/2023,21:20,2736,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ROLMYYWP,16/01/2023,20:24,2763,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HXB2TT40,16/02/2023,11:01,2866,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-STNVXUI9,16/02/2023,18:42,1005,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2JIZ4VYF,16/03/2023,11:54,2586,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-89VS75VI,16/03/2023,20:20,2916,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6443DUB0,16/03/2023,13:29,2065,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2Q95IIFY,16/05/2023,19:16,2208,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3MCWWHYK,16/05/2023,13:43,2760,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0XUSZ5UJ,16/05/2023,19:52,1132,CANCELADA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,True,Vera,Viña,Gras,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GAW6SAO4,16/05/2023,20:51,751,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-J3G7K5LH,16/06/2023,11:35,2131,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FX0IQV21,16/06/2023,13:44,2847,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZZBMSNQC,16/07/2023,10:05,177,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HA66N86H,16/07/2023,21:02,443,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-THP44DZX,16/08/2023,00:20,1505,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PC32LZ4O,16/08/2023,12:49,1981,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OAJG3H28,16/08/2023,15:41,2065,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YRH2S8RS,16/09/2023,14:41,2421,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N6P2DEO0,16/09/2023,14:54,2635,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3DTOYBI8,16/09/2023,19:47,2998,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MMVUYNRX,16/10/2023,12:31,1243,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RGZKK4M8,16/10/2023,21:57,1778,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QMLQ5XWC,16/10/2023,09:36,2602,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UMRXBPRJ,16/11/2023,17:59,2941,EXITOSA,España,Haydée,Lumbreras,Olmedo,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-37SW76KC,16/11/2023,17:35,2880,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1EQ4XK91,16/11/2023,12:30,2885,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZRXJVCI8,16/11/2023,21:40,2205,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1RDK0PSB,16/12/2023,09:23,1512,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5BQDXDHW,16/12/2023,11:25,82,CANCELADA,España,Serafina,Sobrino,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5IS280WM,16/12/2023,14:48,1321,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DDOC06DL,17/01/2023,12:02,1492,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2VMFLN6U,17/02/2023,15:13,1198,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-U754H3V4,17/02/2023,14:54,1164,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6MQJ7L09,17/03/2023,16:44,2636,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K0RGUWM1,17/03/2023,21:47,1921,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GEQ8KZ3A,17/03/2023,16:38,392,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CERERWFK,17/03/2023,13:39,706,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LR0EH2OW,17/04/2023,18:00,2078,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TCYODJFE,17/04/2023,15:05,1345,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KPAH3TNW,17/04/2023,10:09,973,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MQ36CEZ7,17/04/2023,11:37,2954,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3VURDP84,17/05/2023,10:21,2803,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WMRKSLIA,17/05/2023,13:00,2654,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Noé,Acero,Mascaró,Venezuela,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HM5ERCN1,17/05/2023,10:29,2075,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N3LK16VM,17/06/2023,20:53,495,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RW9FIQMX,17/06/2023,09:27,1981,CANCELADA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-480VFWGJ,17/06/2023,11:47,2055,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M3DGPGLC,17/07/2023,21:59,2370,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Q2DT6EEG,17/07/2023,14:02,1918,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-B4DGANRM,17/08/2023,11:16,2062,EXITOSA,España,Sara,Montoya,Lerma,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ESNU4L35,17/08/2023,10:11,531,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8OW8GORE,17/09/2023,21:26,124,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZQ4KF3UO,17/09/2023,11:29,2770,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SW59XLXP,17/09/2023,10:52,397,CANCELADA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y9FP7I0H,17/09/2023,10:48,1622,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-P0T6JWEZ,17/09/2023,12:40,737,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-57OF8MZK,17/10/2023,17:27,949,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KTFJ43M4,17/10/2023,17:03,2791,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7UE4F09F,17/10/2023,09:56,358,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I706NAOS,17/11/2023,20:37,1098,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-S0G6M9NE,17/12/2023,15:29,849,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9OKKFE5A,17/12/2023,19:51,1998,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DCQFYBGX,18/01/2023,11:02,1507,EXITOSA,España,Aureliano,Gabaldón,,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Ester,Quirós,Aragón,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2ZXK1QQ0,18/01/2023,19:42,2014,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KSZKFX6I,18/01/2023,13:48,2219,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Ester,Quirós,Aragón,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HRSU1MHY,18/01/2023,09:35,687,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JUCWYSDQ,18/02/2023,10:03,434,CANCELADA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EE9YQTIL,18/02/2023,16:16,723,EXITOSA,España,Alma,Bello,Espejo,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1EKH8305,18/03/2023,09:13,1143,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4IWGA80C,18/03/2023,13:48,550,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EM8P8X9T,18/03/2023,19:07,2102,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2NWEPY54,18/04/2023,15:12,2022,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0KKARQMH,18/04/2023,10:52,837,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y07RRTXA,18/04/2023,13:59,2937,CANCELADA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RGOLDZVK,18/04/2023,03:14,2013,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G7OGNEBT,18/05/2023,13:09,320,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3E3QNY0Y,18/05/2023,13:45,586,EXITOSA,España,Juan Luis,Navarro,,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-J5LX90OU,18/05/2023,20:54,2465,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GTCOUUNX,18/05/2023,20:45,1836,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ACW76E7G,18/05/2023,10:20,1774,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LECTXSQL,18/06/2023,12:46,387,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QJY60VIW,18/06/2023,21:32,2154,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZSVWMABE,18/06/2023,09:43,1064,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OB5X5IRV,18/06/2023,16:42,2907,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H5YZX0QA,18/07/2023,21:28,431,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4H4VJ4C9,18/07/2023,17:58,632,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Vicente,Solera,Roman,Mauritania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-18R10EPA,18/07/2023,19:42,2817,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4FISWJ2Q,18/08/2023,14:52,1912,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-35B0JFA9,18/08/2023,09:22,2246,FALLIDA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EDXQ53AO,18/09/2023,16:30,1343,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VZAH3L9E,18/09/2023,15:17,1936,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VBRP6AOY,18/09/2023,21:04,781,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z885VOD0,18/10/2023,13:38,2150,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0FPO9CD1,18/10/2023,10:46,890,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Manuela,Redondo,Bárcena,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-U14E8NLF,18/10/2023,13:33,2641,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-POLXC0TZ,18/11/2023,10:03,1829,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BYTDVI3J,18/12/2023,06:09,570,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K2DUN5HT,18/12/2023,11:19,2394,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AEC0Q2GH,18/12/2023,17:33,2748,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M3JWYBM6,19/01/2023,13:51,740,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-U5Q3A9CH,19/01/2023,09:25,887,EXITOSA,España,Jeremías,Aguiló,,Botswana,ZZZBAA8A,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VM4WFVUN,19/02/2023,20:47,2081,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YOYU8DY0,19/02/2023,15:59,981,CANCELADA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QPVZIPG3,19/02/2023,11:40,441,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Benjamín,Patiño,Matas,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AOJH7LQM,19/02/2023,09:24,1265,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LB4891ZD,19/02/2023,09:01,1844,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NCG195V5,19/03/2023,19:32,109,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M5V82GSG,19/03/2023,16:51,316,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Roxana,Busquets,Zurita,Maldivas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y9ZJ2F5F,19/03/2023,22:00,1121,CANCELADA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R65PDS8I,19/03/2023,09:27,2043,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X9G1Q71F,19/04/2023,21:11,1441,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YM142L40,19/05/2023,19:24,755,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-G4YVMLHE,19/05/2023,16:12,1369,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OCVUXFMN,19/06/2023,19:28,691,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2E9UR84Y,19/06/2023,14:35,768,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NXXIR7M8,19/06/2023,20:54,738,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UG7ZIHM2,19/06/2023,18:25,673,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HMPRY1EV,19/06/2023,15:38,885,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NYHTONJP,19/06/2023,21:14,229,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-X563UF1D,19/06/2023,10:54,2201,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6XRC95H6,19/06/2023,17:55,1635,CANCELADA,España,Alexandra,Navarro,Anaya,Belice,ZZZ9D6BF,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IL7IT7FY,19/07/2023,19:10,1116,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MK4ZWNIJ,19/08/2023,18:43,2426,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D0SLHCEK,19/09/2023,10:50,1642,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6XUXAMFM,19/09/2023,05:12,2255,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-V14R62QP,19/09/2023,14:12,577,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UPC84J0F,19/10/2023,18:09,2317,FALLIDA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IVF6UHIA,19/11/2023,14:14,1178,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2YS6VQCX,19/11/2023,11:05,2964,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SQNDPPX8,19/12/2023,11:21,384,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KZEFJRV8,19/12/2023,14:54,2293,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZUB2Z88J,19/12/2023,13:43,1327,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JQSZU7U9,20/01/2023,08:35,2410,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TI4YW0E0,20/01/2023,15:57,1336,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4700PBP9,20/01/2023,15:11,1558,CANCELADA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SMR1TTY0,20/03/2023,12:45,2429,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SZTMUJWH,20/04/2023,17:13,1342,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XQ2G3J9U,20/04/2023,09:53,1893,EXITOSA,España,Timoteo,Falcón,,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,True
+TXN-TSNO94UZ,20/04/2023,17:02,1390,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PQE4AW9T,20/04/2023,09:46,2074,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7KYMIKRE,20/04/2023,14:04,2789,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XYAFW0W3,20/05/2023,21:59,516,FALLIDA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6TMYSPXY,20/05/2023,17:10,2300,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6JARKGTL,20/06/2023,09:37,181,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I9O5GUCA,20/07/2023,19:35,2277,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C953Y1LS,20/07/2023,15:22,2899,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ASVLSC11,20/07/2023,10:34,2150,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9FN085L0,20/08/2023,13:55,1620,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NO5YRUT2,20/08/2023,14:55,1404,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-29HRDHYE,20/08/2023,10:29,349,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DSU3HWWA,20/08/2023,20:01,2082,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5A8NAO1F,20/09/2023,17:34,2460,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RW9QUJ20,20/09/2023,20:30,233,CANCELADA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4CU0Y72Q,20/09/2023,13:17,2144,FALLIDA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R04YT9BZ,20/10/2023,15:58,2196,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QBFQYMJ6,20/10/2023,14:32,866,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-20OOXIXB,20/10/2023,13:58,2526,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BIRR3PZ2,20/10/2023,21:41,2685,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IWF9Y5C1,20/11/2023,10:02,1741,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F3I3ETDZ,20/11/2023,10:45,2331,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IIL1XSCW,20/12/2023,17:19,2594,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5XSGYVKM,20/12/2023,20:33,143,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-B3GLKO8Q,20/12/2023,15:47,604,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SQX0U8D1,20/12/2023,12:27,1616,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F1ZUUVTB,21/01/2023,16:48,1216,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZKQ96FT4,21/01/2023,11:24,1923,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5I8FHL4Z,21/02/2023,13:32,364,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-W4SDHZJY,21/02/2023,19:30,562,FALLIDA,España,Leonor,Costa,Rivero,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1125GWP1,21/02/2023,12:06,2280,CANCELADA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1TXJ9ZZ2,21/02/2023,18:07,1278,EXITOSA,España,Álvaro,Marqués,Reguera,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NHZ5SRJE,21/03/2023,19:59,2056,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GILZ83PM,21/03/2023,13:33,88,CANCELADA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AKPEI1IY,21/03/2023,17:23,1537,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-48X0J1BR,21/03/2023,18:32,1846,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-J54KEH5P,21/03/2023,20:56,627,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C03L1VLF,21/04/2023,14:05,2072,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BW3WR13I,21/04/2023,17:16,734,CANCELADA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WXN8KZAX,21/04/2023,09:59,2037,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y7AGNVOX,21/04/2023,13:47,1962,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SEU1XAAT,21/06/2023,15:54,1598,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIM3JT7E,21/06/2023,15:26,1992,FALLIDA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Constanza,Prats,Peláez,Myanmar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XHYN07ZJ,21/06/2023,02:05,226,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PXWQWIXC,21/07/2023,20:49,411,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-67JJQFOI,21/07/2023,16:28,953,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YHPUXGAZ,21/08/2023,09:13,2737,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UJ6QODW9,21/08/2023,12:14,1634,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-W2P3EOEG,21/08/2023,20:38,2843,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-32B1336N,21/08/2023,18:53,2133,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F48VWH3Y,21/09/2023,15:34,1013,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IY2UL26Q,21/09/2023,09:51,2580,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZWNFLSR7,21/09/2023,14:44,1294,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-51O3WUSX,21/10/2023,16:30,1848,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K986RW7W,21/10/2023,16:29,551,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WX7J3ORW,21/10/2023,16:59,1255,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AY0EG0HP,21/10/2023,17:09,1294,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PSLJ47N9,21/12/2023,09:49,899,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KFKLZC0S,21/12/2023,16:29,1235,EXITOSA,España,Curro,Narváez,Álvaro,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KL5BGFEJ,22/01/2023,16:22,1063,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M6Y6SHQZ,22/01/2023,12:19,1369,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YD7YQNJ0,22/02/2023,10:57,518,CANCELADA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UZRH94AQ,22/03/2023,21:20,1873,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3OQ495A8,22/03/2023,17:30,1721,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QNWU6B4N,22/03/2023,19:09,705,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Matías,Montoya,Palomares,Trinidad y Tabago,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HJ9OE452,22/04/2023,20:43,960,CANCELADA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-YDDZ49Z6,22/04/2023,13:19,2581,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5WZ742UH,22/05/2023,11:35,722,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PA2X9XAR,22/06/2023,14:34,891,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Dolores,Portero,Mir,Uzbekistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PNLFEL17,22/06/2023,13:26,2531,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L9V1Y91D,22/06/2023,10:29,76,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-825BK44I,22/06/2023,16:32,1300,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JQCD6KJK,22/06/2023,13:17,292,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WHG2W1HD,22/06/2023,10:30,171,CANCELADA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4UTOQWVG,22/07/2023,17:37,2046,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IDX65669,22/07/2023,15:02,875,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y88A5TZE,22/07/2023,13:49,671,CANCELADA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KVR0L60X,22/07/2023,01:20,157,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JSP7E79Z,22/08/2023,14:42,1452,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L29ZTZ4W,22/08/2023,10:53,1759,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MZK022HG,22/08/2023,17:43,707,EXITOSA,España,Amando,Soriano,Costa,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-W8HV6F2P,22/09/2023,11:09,2833,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3788JQDU,22/09/2023,11:35,1550,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RCF4F6UM,22/09/2023,18:32,719,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GNYYT791,22/10/2023,18:43,1916,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FP7OIYYR,22/12/2023,20:55,1053,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IOTL6O48,22/12/2023,20:54,1369,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-C7GAKQW5,22/12/2023,12:03,1054,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZG9UKTM9,23/01/2023,11:26,414,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-O5RIYCFQ,23/01/2023,19:29,2739,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L21JFOAD,23/02/2023,11:57,310,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5882W9N0,23/02/2023,15:48,1589,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1CGX31KC,23/03/2023,13:43,2270,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-112HPMF6,23/03/2023,13:25,867,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-B36LRA4O,23/06/2023,15:46,1155,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Q3CDZWVB,23/08/2023,21:47,1685,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OOMNQ8TV,23/09/2023,20:56,1419,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OC8E7LX2,23/09/2023,18:31,314,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-EOG82I08,23/09/2023,14:50,384,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HMGSZ5O2,23/09/2023,18:47,1051,CANCELADA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GH9DDULJ,23/09/2023,19:55,2232,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TVQZDS66,23/09/2023,19:02,1547,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-60VXFRBU,23/10/2023,18:53,2264,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H5SZUBBE,23/10/2023,10:06,2973,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I1Z30ONU,23/10/2023,12:11,1432,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K8YRSVUA,23/11/2023,12:36,1778,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FWOERA4Y,23/12/2023,21:32,1870,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z1OZLGDJ,23/12/2023,17:43,2609,CANCELADA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LTSEE0ZT,23/12/2023,11:26,2202,FALLIDA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TH0JYSDC,23/12/2023,03:40,2899,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6N6PM61Z,23/12/2023,09:51,1460,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UX5LX5OK,24/01/2023,03:23,1184,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QUQHKP8Q,24/02/2023,20:29,227,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SM58DJ71,24/02/2023,16:29,802,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4ZGCQ1V1,24/02/2023,17:29,1377,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7MW6RCIO,24/02/2023,12:58,1055,CANCELADA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-U3GMAZL6,24/04/2023,13:57,2917,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RD5ALQ04,24/04/2023,21:23,1610,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-POU2BQF4,24/05/2023,14:09,1657,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5IHUWUJV,24/05/2023,19:36,1905,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WCFJM79J,24/06/2023,20:48,2073,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XE2YAUZG,24/06/2023,14:26,1667,FALLIDA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Y747035E,24/07/2023,13:24,2156,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Óscar,Ríos,Villa,Filipinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DFBBOA4O,24/07/2023,10:42,154,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XQ4FGCJU,24/08/2023,19:58,1312,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K0AGQIXV,24/08/2023,18:54,1335,CANCELADA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-V5YM6XII,24/09/2023,23:53,2317,CANCELADA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0W2TUGZE,24/09/2023,21:05,1972,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BCETXGF2,24/09/2023,14:19,2814,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CCBIQM7P,24/10/2023,15:50,2020,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1Q191PRU,24/10/2023,18:03,2783,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SGUK4WJJ,24/11/2023,09:58,963,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FSCKTBEH,24/11/2023,10:20,525,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-72MT059C,24/11/2023,12:09,1183,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ARSE4H0K,24/12/2023,20:29,1183,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9I51VAA0,24/12/2023,13:20,302,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NWFBOK2P,24/12/2023,13:24,2460,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WMSDQIR8,25/01/2023,14:38,114,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XL1NK91L,25/01/2023,20:56,1283,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8Y2K0ZF4,25/01/2023,14:52,499,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KEPMOYBU,25/01/2023,16:28,264,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RDYLUAA2,25/02/2023,11:47,733,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FLFNQTP6,25/02/2023,21:43,1038,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HHHDMGH2,25/02/2023,09:07,719,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6Y5BQ4QF,25/02/2023,14:00,1740,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DA5IRIK4,25/03/2023,11:22,1218,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IXBDG280,25/03/2023,20:47,2670,CANCELADA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RO1HPY3U,25/03/2023,21:00,2027,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K6B0L9GF,25/03/2023,12:18,787,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3QOB0SEA,25/04/2023,09:27,2522,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-73ABSLSR,25/04/2023,09:44,2763,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2ZXLMJM2,25/04/2023,10:55,2388,EXITOSA,España,Julián,Vazquez,Montserrat,Croacia,X3781092F,Haití,14/10/1976,False,Rodolfo,Pera,Mancebo,Tayikistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3IZTZLME,25/04/2023,13:56,1863,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NNKPYDC0,25/05/2023,07:48,1224,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-O1VWK56I,25/05/2023,10:46,741,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OYCAAJ3B,25/05/2023,10:14,626,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QCR81A3N,25/05/2023,14:24,97,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7H6RUS0Q,25/05/2023,09:41,414,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-98W3QW2W,25/05/2023,16:27,1914,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5JOLX5DB,25/06/2023,21:29,2412,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8S6ZCT5B,25/06/2023,16:21,1011,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1VX25E5E,25/06/2023,20:33,2719,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NDW3EX5W,25/06/2023,20:20,1104,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9U2WMA6C,25/06/2023,15:15,2131,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-U2JH15EZ,25/07/2023,15:02,2298,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-32YF3H5X,25/07/2023,09:15,1107,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2DWX81V0,25/08/2023,13:00,2092,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9UY6C2WH,25/08/2023,21:29,302,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-P5ZTBZFF,25/08/2023,14:35,2285,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-8JUMAAPI,25/09/2023,16:03,2526,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MVQ1BCAV,25/09/2023,15:50,2370,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SXNG15Z1,25/10/2023,21:52,2930,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BIS1LSOM,25/10/2023,19:35,381,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-T3T6Q8XH,25/10/2023,01:07,1290,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KQSZMRIK,25/10/2023,13:36,1221,FALLIDA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RF0C8YU2,25/11/2023,15:10,2461,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZQU3RL6I,25/11/2023,17:37,1775,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-NMX68EC1,25/11/2023,18:47,2431,CANCELADA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-W1VH62E3,25/12/2023,16:25,1252,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TWYVZG69,25/12/2023,11:45,1625,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N44LRH6T,25/12/2023,17:58,2562,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-M58VSRNL,26/01/2023,21:01,238,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CB9UXNEB,26/02/2023,17:05,397,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-1AXXXR7F,26/02/2023,18:37,1698,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FG5SDEM0,26/02/2023,15:22,336,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FG9ZCLJ6,26/02/2023,21:40,719,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7HPCYA9K,26/03/2023,14:37,2165,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RIP7TDTN,26/03/2023,10:51,1729,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IBGLBW2K,26/03/2023,12:49,965,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WHFV584Q,26/04/2023,14:32,902,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-R7B6XP09,26/04/2023,18:08,986,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FUBEUX00,26/04/2023,20:58,72,CANCELADA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OMSRSCHU,26/04/2023,21:12,1364,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-37L0GB6J,26/05/2023,19:30,554,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JVYP7EQP,26/05/2023,16:08,2997,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MMLP6AB6,26/06/2023,11:44,1845,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WIG3UUIR,26/07/2023,16:15,2388,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-7EE6EYAC,26/08/2023,18:34,101,FALLIDA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GIVQGC1T,26/09/2023,11:12,1476,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z4AMXFHT,26/10/2023,16:09,1798,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IH6N7OQ5,26/10/2023,16:25,54,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-9PKP8YDK,26/10/2023,15:16,1924,EXITOSA,España,Sonia,Canales,Royo,Marruecos,ZZZCF2FF,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-3KOPNV93,26/11/2023,15:14,2655,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WX9BD0I6,26/11/2023,21:10,2169,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z0GVLVAI,26/11/2023,19:27,1370,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JW1IGLDA,26/12/2023,10:51,1112,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-UAH9WSEX,26/12/2023,18:17,1882,EXITOSA,España,Concepción,Olivé,Rodríguez,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QIJTZTPP,27/01/2023,21:26,2727,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-WAYVP4I9,27/01/2023,10:56,1555,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Amaya,Salamanca,Parejo,Guinea Bissau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-H2EA4UU6,27/01/2023,19:34,2630,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-368UV9P7,27/01/2023,20:54,692,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-60VW99W1,27/01/2023,19:04,2544,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-0KPGOYP7,27/02/2023,16:59,1477,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OPIKQDGI,27/03/2023,06:09,2764,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HA9JHJS0,27/03/2023,16:40,242,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Estela,Sancho,Múgica,Noruega,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-F3SKJZ36,27/04/2023,23:58,883,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JH0EWS2V,27/04/2023,19:23,558,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SO1B2HYU,27/05/2023,12:09,1212,FALLIDA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,True
+TXN-84YOT9DZ,27/06/2023,18:00,895,FALLIDA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z6LYZRXR,27/06/2023,17:59,1667,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2NFYIWQK,27/06/2023,19:04,2830,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5WJOQAW2,27/07/2023,07:26,1307,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,True,Vera,Viña,Gras,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TDPSCS71,27/07/2023,14:41,2644,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RIDBCOJX,27/07/2023,12:57,2766,FALLIDA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JIEHLTYW,27/07/2023,18:55,2685,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TRXWBC2D,27/08/2023,16:48,1927,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-058HTPGF,27/08/2023,10:40,2104,CANCELADA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-2F1K0E5J,27/08/2023,09:25,2355,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5AL5M5CB,27/08/2023,17:42,1683,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-JY4XM6ZD,27/09/2023,18:20,405,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4UCUQICQ,27/09/2023,17:46,1365,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-04WVBBIP,27/09/2023,17:34,2385,EXITOSA,España,Florentino,Alemany,Castejón,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-I67I5YUJ,27/10/2023,20:21,976,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-K4Z1Z9IK,27/10/2023,21:11,1815,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-92BEI0P6,27/10/2023,13:42,1801,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-ZN6A8RYM,27/10/2023,20:54,258,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PQNQTD08,27/11/2023,20:48,2507,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SA8EYE3Q,27/11/2023,19:12,664,CANCELADA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5AW23D35,27/11/2023,22:15,2251,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,True,Vera,Viña,Gras,Samoa,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XI21YFL5,27/11/2023,14:06,2704,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VLW9HSXA,27/11/2023,17:26,2315,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-N6NN0EQ0,27/12/2023,19:13,1767,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-E2PYTPZV,27/12/2023,19:15,859,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-AUAJKSZ4,27/12/2023,16:43,1064,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-09SU2AE5,27/12/2023,23:10,2748,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-MJMI7FJR,27/12/2023,03:05,168,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-TDA7QTCU,28/01/2023,16:20,482,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-DVZQ7FIU,28/01/2023,18:28,2333,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-6UN91VHT,28/01/2023,14:38,2488,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-CEOP7C34,28/01/2023,11:47,585,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-A4OCAQNM,28/02/2023,19:38,1339,EXITOSA,España,Sonia,Canales,Royo,Marruecos,ZZZC9D93,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-SXP20F4R,28/02/2023,18:53,652,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VOGAOAU0,28/02/2023,13:27,531,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HGUTCUAJ,28/02/2023,18:47,2287,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-4OFVZ4D2,28/02/2023,10:58,1246,CANCELADA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-E5H62G3B,28/03/2023,18:34,498,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-BTT9MKIU,28/03/2023,19:25,2060,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-GT1OVDRD,28/04/2023,16:21,146,FALLIDA,España,Josefina,Collado,Galiano,República Árabe Siria,ZZZBE761,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-17AAJGGY,28/04/2023,15:45,1242,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-OCB80DM0,28/05/2023,09:51,1825,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FR14722V,28/05/2023,20:08,1914,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-39MQ40FE,28/05/2023,17:49,1786,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-PVPEK1B5,28/05/2023,10:29,1721,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QA1WYZL7,28/06/2023,13:07,491,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-71OWEO2E,28/07/2023,10:35,544,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-XYIXCC48,28/07/2023,18:04,2491,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-Z6VH4GAY,28/08/2023,16:33,80,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-D5DJ0J9H,28/08/2023,09:42,902,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-QYTOOC5C,28/09/2023,20:07,478,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KTEWDBVI,28/09/2023,13:02,2727,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-L7EW6M8W,28/09/2023,15:21,1476,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-LAPEHUIU,28/10/2023,10:39,1766,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-5Z2F1P2R,28/10/2023,12:52,363,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RFDNGGYS,28/11/2023,20:46,2173,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-30HEAQ1U,28/11/2023,18:57,166,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-24YQZ5AP,28/11/2023,12:09,627,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-KGSEGWIX,28/12/2023,14:03,2463,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-09W596Q8,28/12/2023,10:08,2638,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-IL55JO4H,28/12/2023,14:37,2979,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-RJT3CD9S,22/07/2023,21:07,95,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Central,Beneficiario,,España,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VAV537S6,03/12/2023,12:49,86,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Central,Beneficiario,,España,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FLVP3AGB,13/02/2023,11:56,22,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Central,Beneficiario,,España,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-VAX186UQ,16/09/2023,17:25,18,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Central,Beneficiario,,España,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-313CA,19/03/2023,19:15,813,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-3B123,19/03/2023,19:15,1196,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-3A1AA,19/03/2023,19:15,1071,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-ABAA3,27/12/2023,19:15,1476,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-12B1B,27/12/2023,09:50,1369,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-AA3CB,27/12/2023,09:50,1277,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-A1C1C,05/03/2023,11:59,1280,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,True
+TXN-FRAC-A2C3B,05/03/2023,11:59,1358,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-A3CA1,05/03/2023,11:59,1196,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-C1112,21/07/2023,16:28,974,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-AA133,21/07/2023,10:05,1251,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-B3B1C,21/07/2023,10:05,1314,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-33BCA,22/12/2023,12:03,1125,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-CB3C1,23/01/2023,15:15,837,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-2A13A,23/01/2023,15:15,1039,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-C2AC1,17/11/2023,15:53,901,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-A32CB,17/11/2023,15:53,1373,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-112BB,17/11/2023,15:53,1336,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-33321,07/09/2023,14:01,1454,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-C1BCA,07/09/2023,14:01,1112,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-CBA3B,07/09/2023,14:01,1060,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-2CBBC,10/12/2023,15:25,837,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-BA22A,11/01/2023,16:10,1325,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-2B321,11/01/2023,16:10,1316,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-1A1BA,10/06/2023,12:12,1459,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-C2ABC,10/06/2023,12:12,967,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-FRAC-31212,10/06/2023,12:12,1425,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-ZY88X,09/06/2023,17:20,2317,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7877Y,09/06/2023,17:20,2893,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7XZ98,09/06/2023,17:20,2914,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-988XY,09/06/2023,17:20,2340,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-9Y9YY,26/03/2023,21:34,2874,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-78Y9X,26/03/2023,21:34,2871,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8X8X9,26/03/2023,21:34,2417,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-XX8Y9,26/03/2023,21:34,2320,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7Y7XZ,11/02/2023,14:33,2373,EXITOSA,España,Jose Ramón,Valcárcel,Barroso,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8777Z,11/02/2023,14:33,2613,EXITOSA,España,Jose Ramón,Valcárcel,Barroso,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Y8798,11/02/2023,14:33,2630,EXITOSA,España,Jose Ramón,Valcárcel,Barroso,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-9XZZ9,11/02/2023,14:33,2364,EXITOSA,España,Jose Ramón,Valcárcel,Barroso,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8X87Z,11/02/2023,14:33,2500,EXITOSA,España,Jose Ramón,Valcárcel,Barroso,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8Z7Z9,25/09/2023,20:00,2180,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8Z79Z,25/09/2023,20:00,2160,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-87Y8Z,25/09/2023,20:00,2779,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-988Y7,25/09/2023,20:00,2754,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8987Z,25/09/2023,20:00,2859,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8YYYY,22/04/2023,15:53,2342,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Z788Z,22/04/2023,15:53,2855,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8YZZX,22/04/2023,15:53,2360,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-XY7XX,22/04/2023,15:53,2774,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Y8789,24/02/2023,10:45,2319,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-XY8Z7,24/02/2023,10:45,2641,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Z877Y,24/02/2023,10:45,2314,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-X979X,24/02/2023,10:45,2328,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7978X,24/02/2023,10:45,2238,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Andrés,Morell,,República de Moldova,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7XYXX,19/01/2023,12:15,2633,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-8787Y,19/01/2023,12:15,2515,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-X9XZZ,19/01/2023,12:15,2182,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-89888,19/01/2023,12:15,2220,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-798X9,19/01/2023,12:15,2801,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Y8Y7Z,12/05/2023,11:42,2407,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-97Z79,12/05/2023,11:42,2245,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-798YZ,12/05/2023,11:42,2107,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Y7ZYZ,12/05/2023,11:42,2491,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7Y7YY,12/05/2023,11:42,2609,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Z87ZY,01/09/2023,10:01,2351,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-78Y89,01/09/2023,10:01,2017,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Z77YZ,01/09/2023,10:01,2195,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-XX87X,01/09/2023,10:01,2043,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7778Y,01/09/2023,10:01,2917,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-899ZX,26/02/2023,15:20,2774,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-9XXZ9,26/02/2023,15:20,2079,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-ZXZ7Y,26/02/2023,15:20,2133,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-78YZZ,26/02/2023,15:20,2210,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-XY7Y9,26/02/2023,15:20,2703,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Y7YY7,09/09/2023,15:42,2528,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-Z9Z89,09/09/2023,15:42,2019,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-79778,09/09/2023,15:42,2866,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Valladolid,Sujeto_Obligado12,Agente2264,False
+TXN-HIGH-7YZY8,09/09/2023,15:42,2745,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Valladolid,Sujeto_Obligado12,Agente2264,False

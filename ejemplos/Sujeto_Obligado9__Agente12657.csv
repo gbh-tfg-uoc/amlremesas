@@ -1,0 +1,483 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-OEMNEYGP,01/01/2023,21:43,2101,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ERFGSUCC,01/01/2023,21:32,1815,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-A6VM4LOY,01/02/2023,17:58,2940,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-7PTB2XZ1,01/03/2023,12:44,1224,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2H5HAB5O,01/04/2023,12:54,709,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XSJCXTO6,01/04/2023,21:35,1190,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IB6T7ALU,01/05/2023,21:52,684,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Pilar,Briones,Pellicer,Bahrein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3AOSCARN,01/06/2023,16:20,291,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-27G9YGHW,01/06/2023,09:56,1294,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PHAW21NI,01/07/2023,15:01,1339,FALLIDA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-Y2F3RV29,01/08/2023,11:19,155,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BK9N8J7J,01/08/2023,09:49,2019,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RWC800TQ,01/08/2023,12:27,777,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-A61Q47FC,01/10/2023,21:38,769,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-06YPNWK9,01/10/2023,21:48,2360,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MH7DXC01,01/11/2023,09:55,2136,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BKV8JLZ1,01/11/2023,18:16,272,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-K6GYFVGH,01/11/2023,17:33,1331,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8F19VB2Q,01/11/2023,11:09,133,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QWJF0VFL,01/12/2023,14:00,568,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SKGSGAPJ,01/12/2023,19:53,1636,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-NJYUHMO1,02/01/2023,18:16,1227,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1OJ1FPYX,02/01/2023,13:38,446,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ROW37KB7,02/01/2023,23:08,1001,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-D849CAC8,02/01/2023,13:53,2749,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QV67L9L7,02/02/2023,20:56,76,EXITOSA,España,Ruy,Arévalo,Hoyos,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-X0WKCOXX,02/04/2023,14:03,543,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Hermenegildo,Anglada,Soriano,Yemen,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5AYGYWR6,02/05/2023,18:20,977,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Benjamín,Patiño,Matas,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-Z00KEWOW,02/06/2023,12:57,170,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VUBR0A94,02/06/2023,19:34,72,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8DXQPDOD,02/06/2023,21:27,229,CANCELADA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VP3A9U44,02/06/2023,17:31,2815,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XZK9GN1I,02/07/2023,11:01,1402,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-14TJJSLM,02/07/2023,12:10,2088,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Ismael,Isern,,Irán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WSJ9WYM3,02/08/2023,17:34,2573,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VLEM210O,02/08/2023,13:30,1126,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-II8AIW4A,02/09/2023,16:50,194,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-024VBYIG,02/11/2023,11:30,2458,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-O3J76KGT,02/11/2023,01:23,80,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XPYTXX1H,02/12/2023,16:38,1846,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BGJ87RW6,02/12/2023,10:54,1959,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1DQS2N86,02/12/2023,13:27,1768,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JJV73E33,02/12/2023,21:16,2885,EXITOSA,España,Pancho,Gibert,Cañizares,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-L31GEDSP,03/01/2023,09:26,2774,CANCELADA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5NMC56Y1,03/01/2023,15:56,2235,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-R941FZCQ,03/01/2023,21:58,2766,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LNM2Q2LO,03/01/2023,19:14,1555,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-62NH73LU,03/02/2023,18:55,1026,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FMACNMDX,03/03/2023,02:31,1071,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GG8FGH25,03/03/2023,13:47,2100,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WFBYT3ED,03/04/2023,17:26,1656,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EKGUFDML,03/05/2023,16:30,837,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BN5EC33B,03/07/2023,14:44,2379,FALLIDA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DC7K890U,03/07/2023,20:43,433,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Cintruengio,Sujeto_Obligado9,Agente12657,True
+TXN-76HFJS7S,03/08/2023,09:11,1868,EXITOSA,España,Heraclio,Esteban,Marin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,True
+TXN-D4ZR48Y9,03/09/2023,18:57,332,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-89EQIHKG,03/10/2023,20:43,2104,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-APWWQ3T9,03/10/2023,09:31,372,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EWD93AN9,03/12/2023,13:28,1984,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XNJ16V7Q,03/12/2023,10:15,196,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3UWNTJ03,03/12/2023,19:38,647,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-P133QZQM,03/12/2023,21:04,2705,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TJJQNFJT,04/01/2023,17:45,2315,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0CV4ZZF5,04/01/2023,09:34,1742,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OYTJZVMX,04/02/2023,10:44,2721,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-T7V31RPP,04/03/2023,18:39,2050,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GJIPND3N,04/03/2023,17:53,93,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XUEKC36Z,04/03/2023,12:45,232,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4ZQSKC4F,04/04/2023,14:15,184,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Ester,Quirós,Aragón,Ecuador,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MQTO78SH,04/06/2023,20:21,1754,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JPEF56QO,04/07/2023,16:04,988,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UJ7WEGUO,04/08/2023,14:22,1797,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DSUZIIRZ,04/09/2023,14:01,2627,FALLIDA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-O029VESA,04/10/2023,20:39,2466,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PUQKB7YB,04/10/2023,10:41,806,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UJ0ZGNSZ,04/12/2023,05:03,2463,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DYFRHHGQ,05/01/2023,09:41,1544,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AA1TDIWX,05/01/2023,14:08,2778,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WKRP5XIE,05/04/2023,21:20,2781,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1K4DVOCJ,05/04/2023,17:26,1796,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LR9P2815,05/05/2023,18:32,1983,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CCA0I7GH,05/05/2023,21:47,2477,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B6CMLIAO,05/06/2023,13:34,288,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AE12FUEH,05/08/2023,13:56,473,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5SEGJ2XG,05/08/2023,09:45,2794,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0CHG5FT8,05/09/2023,19:15,1194,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KAM413IW,05/09/2023,18:04,2591,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GBGYPCM3,06/01/2023,09:33,2173,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6P0Q7Z1X,06/01/2023,19:48,208,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZWN3BWK1,06/02/2023,22:09,1221,CANCELADA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MCS1KC6S,06/02/2023,10:29,117,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-F1BCRN8R,06/02/2023,17:41,1403,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-H1KFU1AL,06/04/2023,10:08,2683,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Celestino,Diego,Mayoral,Ghana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CYTP7XQK,06/05/2023,03:01,1157,FALLIDA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FEVX72ZT,06/05/2023,20:33,2221,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1FR59AZU,06/05/2023,16:37,2136,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RNIPCWLB,06/05/2023,10:07,1972,FALLIDA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JKE6QO5R,06/07/2023,13:47,411,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RLMHZEE6,06/07/2023,16:48,1535,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UXYUUDMB,06/08/2023,09:53,2753,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Julieta,Peralta,Cabrero,Palau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ACDPD5BG,06/08/2023,19:44,1199,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-74CPQ7QM,06/09/2023,10:27,524,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JYN0QCOH,06/12/2023,13:50,2443,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RL6KKLKU,07/01/2023,19:23,2176,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FKDGKFNX,07/01/2023,14:57,393,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2JHBR365,07/03/2023,02:58,79,FALLIDA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HJP77IGI,07/03/2023,20:36,1437,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AYP8I9W7,07/04/2023,16:58,2608,CANCELADA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OM22OHCL,07/04/2023,14:27,1875,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1R433S0V,07/06/2023,09:38,615,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HNM6XX0A,07/06/2023,21:34,2018,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6GT05GBP,07/07/2023,09:47,1663,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U3X84YWE,07/07/2023,19:07,814,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JVTXIMNK,07/07/2023,18:02,1653,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JVLUVXB9,07/07/2023,19:31,1446,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KXYNT2L9,07/08/2023,12:03,2944,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Lucio,Azorin,Real,Egipto,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BIZ1VV6V,07/08/2023,09:43,2077,EXITOSA,España,Agustín,Castells,Ayuso,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-Y0V7Q0BY,07/10/2023,17:57,937,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4MIX6IKS,07/10/2023,18:16,1756,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9ZC1JUN1,07/11/2023,10:07,1944,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XEEZ0O1I,07/11/2023,16:52,1805,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HRSEHA9K,07/11/2023,15:33,1602,CANCELADA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-S3NEFSB4,07/12/2023,17:22,1061,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-84ZXOEKG,07/12/2023,15:10,2705,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JVZTSQRC,07/12/2023,21:44,643,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XGJVRQUU,08/01/2023,11:22,1348,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TUMZEM4J,08/01/2023,09:09,2815,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-549NOT6Q,08/02/2023,14:35,621,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VWMCKAHF,08/02/2023,18:49,223,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MUWWL2WH,08/02/2023,21:43,685,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,ZZZ61191,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DR6L3V8G,08/03/2023,19:48,558,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YYTQ0KEW,08/04/2023,21:48,1581,EXITOSA,España,Remedios,Benet,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VSEKCSW6,08/04/2023,18:37,2333,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RVG84A43,08/05/2023,16:44,1341,EXITOSA,España,Severo,Río,Alberto,Uganda,ZZZD40D7,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-K7QFUUMJ,08/05/2023,14:14,1669,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SYRVNYPU,08/05/2023,12:37,1744,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3X11JI80,08/06/2023,19:39,2745,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-P9EXNBMP,08/07/2023,14:13,1907,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QX3R4ZHD,08/09/2023,05:47,1870,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IURWYO0A,08/10/2023,06:42,2498,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-O9ZNZ4R5,08/10/2023,09:07,1427,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-223WYQCK,08/11/2023,14:53,62,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CT6EJSZS,08/12/2023,16:32,1480,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EEUAMZZS,09/01/2023,17:22,1238,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RV2TA9CZ,09/03/2023,11:26,1449,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VRF9D1P7,09/03/2023,16:29,1382,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OOH0FHSX,09/05/2023,21:12,1882,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-M10AKVVB,09/05/2023,14:14,2334,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KFH32GDZ,09/05/2023,15:35,2362,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B8QU5ZND,09/05/2023,21:59,1766,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TWV860J3,09/05/2023,16:20,2170,EXITOSA,España,Margarita,Varela,Aroca,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B97RA3X0,09/06/2023,20:40,367,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9HZWHC6Q,09/06/2023,18:45,2120,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YQISK1VD,09/07/2023,20:05,193,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-NOKSK8GX,09/07/2023,15:46,826,FALLIDA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2XX7JI84,09/10/2023,19:11,1838,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DLELRCVM,09/11/2023,07:57,2204,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Genoveva,Higueras,Montero,Tonga,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-V3K5E28K,09/12/2023,18:45,2540,EXITOSA,España,Encarnación,Criado,Piñol,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1YWM22S5,10/01/2023,15:37,557,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ULTL5FIV,10/02/2023,20:46,1081,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B1MADJJT,10/03/2023,11:11,523,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QMUUW4QI,10/03/2023,10:25,2993,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9Z2WM3L0,10/03/2023,15:11,2947,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-C3JNAS54,10/03/2023,10:03,925,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GWWIAM93,10/03/2023,18:34,2314,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KKBF0COH,10/06/2023,13:54,286,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-G6P820R4,10/07/2023,22:05,2615,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KG8BWYE4,10/07/2023,12:30,457,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CGY5C9A7,10/09/2023,13:00,200,CANCELADA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JWIT3DGI,10/10/2023,14:21,2749,CANCELADA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-29GL44Q6,10/11/2023,12:18,311,CANCELADA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-E6D8YAXO,10/11/2023,10:26,2168,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Severino,Robledo,Piña,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MG782HBP,10/12/2023,16:35,2352,CANCELADA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HRFWU7DV,11/03/2023,10:24,1335,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DAMVSDLK,11/03/2023,18:04,2407,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VI24PMXK,11/03/2023,09:07,2397,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TG1XOD68,11/03/2023,11:17,2908,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B1G57BZ4,11/04/2023,21:20,2218,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OA2OKZOK,11/04/2023,11:48,377,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-7257AKIA,11/05/2023,16:38,795,EXITOSA,España,Alberto,Vicens,Villanueva,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0GAOKHYA,11/06/2023,11:28,598,FALLIDA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2Z6QCDFB,11/07/2023,18:06,2163,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Cayetana,Nicolau,Vives,Tuvalu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-C4QTGXM9,11/08/2023,14:44,1330,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,ZZZ5C224,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SEG1LKJR,11/08/2023,12:51,347,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LDY8RNA6,11/08/2023,15:20,353,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZGFQBZLO,11/08/2023,19:58,1654,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RC976ETH,11/10/2023,06:16,182,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-F7QZ2ZU0,11/11/2023,09:41,2464,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4N927EM6,11/11/2023,21:49,2953,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Isaac,Asensio,Artigas,República de Macedonia del Norte,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-401JPQYS,11/12/2023,21:20,1139,EXITOSA,España,Amada,Viñas,Téllez,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EPWLLQ3H,11/12/2023,21:27,984,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EVW1V972,12/01/2023,09:04,2140,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-NWQ7Y310,12/01/2023,17:44,1877,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-D6VBWS6E,12/02/2023,15:48,863,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BN531XJT,12/03/2023,18:23,2658,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PTGAJRPU,12/03/2023,11:08,2077,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-V5LYFB0Y,12/05/2023,14:08,2264,EXITOSA,España,Rufina,Cal,Arellano,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-M2BMT70J,12/06/2023,18:14,446,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,ZZZD5AF7,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4FGTF111,12/06/2023,19:18,800,FALLIDA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Jose Miguel,Viñas,,Gabón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6D30WMCQ,12/06/2023,17:46,1365,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-03KY3HL6,12/07/2023,21:08,2070,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TEXU51AM,12/07/2023,12:20,2243,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZJFB0ACK,12/07/2023,12:07,2691,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U3GG2BJY,12/09/2023,15:23,434,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6R2LPB4T,12/09/2023,13:33,1279,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Isaac,Asensio,Artigas,República de Macedonia del Norte,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EC5B34XJ,12/10/2023,20:11,2949,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5J4YJ2AE,12/10/2023,15:44,2418,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WUDNGTKR,12/11/2023,16:08,564,EXITOSA,España,Paulino,Nicolás,Vilalta,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZBZVZJJ3,13/01/2023,16:47,2043,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U2H4GFKC,13/02/2023,15:58,2320,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2828K17O,13/03/2023,09:52,183,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ND002REX,13/03/2023,21:19,2905,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PWOBK327,13/04/2023,11:19,1855,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3MG35KA0,13/05/2023,19:01,1472,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PJC27B59,13/05/2023,14:50,463,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OZ7OZDG7,13/08/2023,19:51,2099,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YQB5CT8D,13/09/2023,10:02,699,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Alonso,Rozas,Barón,Benin,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XZTX6DZ5,13/09/2023,13:20,2999,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IZ3KRLJD,13/10/2023,09:24,1344,EXITOSA,España,Fabio,Gascón,Ledesma,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UAIQZU64,13/11/2023,10:38,1844,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MTV436CF,13/12/2023,14:58,337,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GL3BCH3E,13/12/2023,15:13,287,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-09LJU2P1,14/01/2023,18:05,2062,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B6FU5BE1,14/02/2023,19:31,2973,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JLCZUY0E,14/04/2023,09:04,1265,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U47WCDLV,14/04/2023,09:01,846,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SDDO5W04,14/04/2023,19:21,746,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-L8Y1WMOH,14/05/2023,19:39,106,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ECQY86WU,14/05/2023,20:13,2546,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0X7E8XL6,14/06/2023,18:23,138,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UVRYNBQS,14/08/2023,06:40,2203,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HBNELYKZ,14/08/2023,16:34,1185,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JUIEYSSE,14/08/2023,10:14,1488,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-7ZZJCHTP,14/08/2023,15:52,2478,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-A6BB6PM4,14/08/2023,19:19,1787,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-L086Z6DG,14/09/2023,14:12,2752,FALLIDA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-EYJFUIX5,14/11/2023,12:51,182,CANCELADA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OG71L2KT,14/11/2023,12:35,2763,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-Y45T4M3E,14/11/2023,04:04,1332,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PBPW76WZ,14/11/2023,20:20,1822,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Alcides,Girón,Guillén,Arabia Saudita,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XNSNTYH5,14/11/2023,17:53,1787,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LBIKWB3Y,14/11/2023,14:38,2509,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-P9239A54,15/02/2023,13:34,851,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9OA119DA,15/03/2023,15:02,2684,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1M825RV1,15/05/2023,19:42,1269,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IP8T6VKP,15/06/2023,13:25,461,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6ENC4XP5,15/09/2023,15:55,1600,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BD4NY7SR,15/09/2023,15:35,2467,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5Q5UP2ER,15/09/2023,09:56,1112,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZLDIJH18,15/11/2023,16:35,852,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-W7VPI745,15/11/2023,18:47,1200,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Joaquín,Ayllón,Trujillo,Colombia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-M50AYM1I,15/11/2023,21:17,2876,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0JC4WDH7,15/12/2023,20:58,1332,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KD9AVFC8,16/02/2023,11:43,2361,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4DTDKMS7,16/02/2023,09:59,2372,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ANI20HQC,16/03/2023,14:47,1682,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,ZZZ06B68,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BU3VEFRE,16/05/2023,12:34,2823,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CAOW63U5,16/06/2023,13:56,1770,EXITOSA,España,Manola,Domingo,Sedano,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Lázaro,Ramírez,Real,Eslovaquia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YQTN02B7,16/07/2023,17:59,2186,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CBQCOCOC,16/07/2023,19:36,134,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-M5QCHEI4,16/08/2023,18:57,1126,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PMPPD3XQ,16/08/2023,21:47,516,CANCELADA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DAJ4WDFY,16/09/2023,13:07,1045,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SZTIHQXR,16/09/2023,21:15,352,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FOHAG2LD,16/09/2023,16:07,782,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-A8UYF5PX,16/09/2023,16:34,2269,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5YDI3OE2,16/11/2023,20:12,1589,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-22JBLRHQ,16/11/2023,22:10,872,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-A3R5X6EZ,16/11/2023,17:40,1563,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-C6K70EYV,16/12/2023,10:04,2300,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WFMMBOZ9,17/03/2023,14:45,1639,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AO3LI6QM,17/03/2023,11:21,1905,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QGSZ2QB2,17/04/2023,18:11,599,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RE8VJ2QE,17/04/2023,14:35,1434,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4SKYQSZT,17/04/2023,16:58,592,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6JDETZRU,17/05/2023,14:12,1375,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-40R9UCEV,17/05/2023,09:48,1583,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-72JK61OB,17/06/2023,14:07,2802,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TGVVL2XE,17/09/2023,16:16,1598,CANCELADA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8AZ6P0LC,17/09/2023,20:51,133,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SZ2N5J9J,17/12/2023,17:33,184,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VOB54PVV,18/02/2023,15:22,2792,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GUAKC268,18/02/2023,09:05,1350,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RG8C26MU,18/04/2023,00:27,870,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-NSIUI8JP,18/04/2023,09:01,1961,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-87GU27BR,18/04/2023,11:17,863,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RJKMLH14,18/05/2023,14:12,2538,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-L76N4W03,18/05/2023,13:31,684,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MACX5N7R,18/05/2023,20:15,1332,FALLIDA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3DRVFBL5,18/05/2023,00:17,1460,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4Z4MZONU,18/07/2023,19:42,2279,CANCELADA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YHXJ4441,18/07/2023,12:45,2241,FALLIDA,España,Yésica,Palomo,,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Pili,Río,Tomas,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QX382N06,18/10/2023,19:15,2883,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MEJWVZPH,18/11/2023,13:50,613,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3PJBY7QQ,18/11/2023,15:28,1731,EXITOSA,España,Cayetana,Codina,Pintor,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-N160VLEC,18/12/2023,16:37,1189,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AJC5ZEBV,18/12/2023,15:48,2328,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QBXHCSQE,18/12/2023,14:48,2830,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LIMO7WXK,19/01/2023,19:14,1786,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-H6CIOLL4,19/02/2023,12:56,1803,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-T8VOMYYV,19/03/2023,21:34,1559,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PMGQ85XL,19/03/2023,19:09,2825,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4V2RIESE,19/04/2023,16:04,2482,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8LL13ZBA,19/04/2023,20:58,320,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,José Antonio,Vallés,Amores,República Checa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YUBULQ70,19/04/2023,10:13,1439,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IBFZKDYF,19/05/2023,21:38,1485,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2WCQV5XV,19/05/2023,12:02,2440,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AYA0SVUR,19/05/2023,09:21,333,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ELG8YC2G,19/05/2023,14:10,1210,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8BDDAGBC,19/05/2023,09:34,1142,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-92IAJ42L,19/09/2023,09:51,2115,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DFPBJKT6,19/09/2023,20:29,919,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YN3TGABE,19/09/2023,20:42,324,EXITOSA,España,Jose Miguel,Elías,,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PW2MY828,19/09/2023,20:02,1331,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BVS7G69K,19/09/2023,10:46,590,CANCELADA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UDUAASD1,19/09/2023,15:47,1829,CANCELADA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-D9CL2VXQ,19/11/2023,22:49,1270,EXITOSA,España,Geraldo,Puig,Nadal,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UL19DR6A,20/02/2023,17:47,2077,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-7IDRNOUX,20/03/2023,12:26,682,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-XY0AQC8G,20/03/2023,18:59,887,CANCELADA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CT903JI6,20/05/2023,20:31,1934,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-J4UVAQT9,20/05/2023,14:32,953,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Evaristo,Bonet,Bermúdez,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DW64EWXK,20/07/2023,19:26,325,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8IH15POJ,20/11/2023,18:29,2589,EXITOSA,España,Aristides,Mena,Amo,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UPMDCNR4,20/12/2023,21:07,464,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TT85U5VW,21/02/2023,13:57,426,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0AWNNPI3,21/02/2023,16:10,393,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-7BJ7MVUA,21/03/2023,13:11,2255,EXITOSA,España,Leire,Amores,Lastra,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WFQXU2D6,21/03/2023,21:16,2097,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5NPRJMD0,21/03/2023,17:53,1818,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-N11JOQTA,21/06/2023,13:51,2245,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Ceferino,Viana,Gomez,Armenia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1DU62G61,21/06/2023,14:33,1781,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RK51YEMA,21/08/2023,14:57,2835,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U21KAN4Z,21/08/2023,11:55,2986,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1RJJ36TT,21/08/2023,15:45,1387,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5OR4IIS7,21/09/2023,15:20,2320,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-736CP65B,21/10/2023,21:22,2019,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0WSMTVSC,21/11/2023,21:36,1973,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RGTV5KEP,21/12/2023,13:11,1866,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-L3C3DLOO,22/02/2023,21:14,2478,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-D1WAUJVA,22/03/2023,01:46,2722,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-C0FEUJGS,22/03/2023,13:42,2727,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KIHCVCGW,22/03/2023,16:31,724,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4VHHFK0Z,22/03/2023,19:51,2690,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-40J3OYFB,22/05/2023,09:36,1503,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RUHLJ97A,22/05/2023,15:18,1436,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PHLYXD5C,22/05/2023,14:34,1259,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-T29T557Y,22/08/2023,20:11,661,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8XC049UT,22/08/2023,20:47,1730,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PHGD4B6X,22/09/2023,13:03,658,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-I2E03WX1,22/09/2023,10:28,1744,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GR9CVLL7,22/10/2023,18:50,2410,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5038J4WP,22/11/2023,09:29,2358,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-7KSNM3MK,22/12/2023,14:40,192,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZCSHWFCT,23/01/2023,11:30,1184,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-1MXN60SQ,23/01/2023,13:34,846,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5ZN7JVQ1,23/02/2023,12:33,2879,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QUQ1P0FQ,23/03/2023,16:13,2947,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Estrella,Montalbán,Uría,Irán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6ED2QFCJ,23/03/2023,21:13,503,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VEPZ7F2T,23/03/2023,18:25,1901,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8PAJIEL6,23/04/2023,09:14,2476,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MOLKYPLN,23/04/2023,09:01,2454,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-W4BHCUXN,23/05/2023,17:13,1874,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-L7M3LLWX,23/05/2023,12:47,142,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-31K6BKO4,23/06/2023,19:53,2632,EXITOSA,España,Albina,Agustín,Girón,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-AR73IYDX,23/07/2023,20:05,1139,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5X3PF714,23/08/2023,15:46,1301,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-E989JR5C,23/08/2023,18:30,2480,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-RT3OQVIZ,23/08/2023,17:31,1631,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FNRKARBW,23/09/2023,19:51,711,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UXLGKJUK,23/10/2023,16:24,2682,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U0QR3SUJ,23/11/2023,12:32,1160,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VDR1EYW3,23/11/2023,11:57,1672,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BPARUH9W,23/12/2023,19:36,1921,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DW4LBOQ6,23/12/2023,14:01,430,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-0HT3D37B,24/01/2023,19:19,1772,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OTKD8CSE,24/02/2023,15:24,968,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6E7QWWNB,24/03/2023,18:06,2117,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-P79PWO55,24/03/2023,11:16,2049,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QYZSF0T3,24/03/2023,13:17,458,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HTFAGNFB,24/03/2023,15:26,1588,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IDHCRWV0,24/04/2023,16:25,2920,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MOSHKLKW,24/04/2023,14:46,1551,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-PYOOVSYG,24/04/2023,20:34,281,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-YKNWDME7,24/04/2023,09:40,1235,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LEB9MG29,24/09/2023,19:37,1141,EXITOSA,España,Juanita,Frías,Verdugo,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-2MQ9CRXY,24/09/2023,17:20,882,FALLIDA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-91KAZFO7,24/11/2023,10:14,851,EXITOSA,España,Wilfredo,Rico,Piñol,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-8THGPHGP,25/01/2023,20:45,544,CANCELADA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-6X639Z0F,25/01/2023,11:36,1715,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-B29R1AMF,25/01/2023,15:21,2337,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VRCIEY82,25/01/2023,19:12,849,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-DHV45Q5J,25/02/2023,11:47,284,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-U9S7O0KT,25/02/2023,09:35,236,EXITOSA,España,María Ángeles,Jaén,Juliá,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-12EQWGPN,25/04/2023,15:51,538,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-WEMH81GU,25/05/2023,10:06,890,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ZIUHJAOK,25/05/2023,20:23,444,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QDB1BMA2,25/05/2023,21:34,2253,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-CAGMZSTB,25/06/2023,17:23,575,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QPAHW66J,25/07/2023,17:59,1545,FALLIDA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3AATGSPC,25/09/2023,14:21,1723,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9C0M00KV,25/10/2023,19:46,2467,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-VW6U3OFA,25/12/2023,13:07,505,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LLK4IM29,25/12/2023,10:32,692,FALLIDA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UQNNCJDK,26/01/2023,16:00,1347,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ATB41HFA,26/02/2023,20:19,2249,CANCELADA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Rosa,Murillo,Ramirez,Samoa,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-KVH2X779,26/02/2023,17:52,1049,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-H0HBEWHW,26/04/2023,18:58,1215,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-Y4KLC9YV,26/05/2023,18:50,1173,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3XEUHU6B,26/05/2023,11:03,557,CANCELADA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-4ED2IKSZ,26/07/2023,10:13,2495,CANCELADA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-T4P8A6V9,26/09/2023,16:49,2397,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-Z4PRDILO,26/10/2023,17:53,801,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IWXATXFZ,26/11/2023,21:10,2865,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QFAH553T,27/03/2023,10:46,1121,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-X45LAWCE,27/04/2023,21:49,637,FALLIDA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JBP12AGD,27/05/2023,20:07,2832,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-MAEXWHWY,27/05/2023,18:45,2572,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-IJTZTW5N,27/05/2023,11:23,1248,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9O2BOY63,27/05/2023,09:05,235,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,ZZZ73CAB,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-I6HXS6KM,27/07/2023,18:58,1282,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-LGGDSFHZ,27/07/2023,17:01,2519,EXITOSA,España,Soraya,Tejada,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Maxi,Sarmiento,Gargallo,Mónaco,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-3S4ZQLR5,27/07/2023,16:51,287,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-79FO56OQ,27/07/2023,11:36,628,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OSYV4BPO,27/11/2023,10:03,1132,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-OSJS6WM5,27/11/2023,18:10,1984,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-ERU7Q6OH,27/12/2023,20:41,562,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TSBJH87P,28/01/2023,22:03,1509,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QORZ0PE5,28/02/2023,14:52,2473,EXITOSA,España,Juan Carlos,Catalán,Tomas,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9YVY23EB,28/02/2023,19:39,2649,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-5KE49622,28/03/2023,21:17,191,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-TXSQ6B37,28/03/2023,10:09,295,CANCELADA,España,Florencia,Sanmiguel,Cordero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SLODBLNA,28/03/2023,19:03,1659,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-NMXMYDHA,28/03/2023,13:49,1377,EXITOSA,España,Octavio,Rosales,,Chipre,ZZZC2342,Uganda,16/04/1918,False,Fidel,Blazquez,Calderon,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-GHXOMCGP,28/04/2023,18:01,505,EXITOSA,España,Eli,Tapia,Marco,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UEY98OZY,28/05/2023,21:19,73,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-BE6FHVLS,28/06/2023,16:07,671,FALLIDA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,True,Vanesa,Arjona,Castrillo,República Árabe Siria,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-M7J75G9E,28/06/2023,12:34,1127,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9WEU3ZXH,28/07/2023,16:43,169,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-X8EMGPGJ,28/07/2023,17:13,1558,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Amador,Perelló,Barberá,Vanuatu,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-QOEJVOVV,28/07/2023,14:51,2878,EXITOSA,España,María Fernanda,Fortuny,Segarra,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-JB1KNIOP,28/07/2023,13:21,1388,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9N2Z85VJ,28/08/2023,12:37,1794,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-67OL9D06,28/10/2023,04:34,1569,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Eduardo,González,Mir,Italia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-UPSII3Q4,28/11/2023,16:56,2127,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-R6D8THBG,11/08/2023,20:12,190,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Central,Beneficiario,,España,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-SXBM2W0B,13/09/2023,18:49,76,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Central,Beneficiario,,España,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-9I80YLC0,22/08/2023,20:15,179,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Central,Beneficiario,,España,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-121CA,07/09/2023,17:25,1168,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-331A2,07/09/2023,17:25,803,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-23A13,07/09/2023,17:25,1416,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-AA2C3,19/05/2023,09:21,920,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-B32BB,19/05/2023,19:23,875,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Remigio,Rodrigo,Piñol,Liberia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-CACB2,19/05/2023,19:23,1465,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Remigio,Rodrigo,Piñol,Liberia,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-1132C,05/11/2023,17:04,973,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-A1B2A,05/11/2023,17:04,1200,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-3ABBA,05/11/2023,17:04,1127,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-AA12C,17/06/2023,14:07,879,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-1122C,17/07/2023,14:25,1178,EXITOSA,España,Javier,Barral,Checa,Jamaica,ZZZ29CC7,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-FRAC-CAA32,17/07/2023,14:25,1228,EXITOSA,España,Javier,Barral,Checa,Jamaica,ZZZ29CC7,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-YXZ7Z,05/05/2023,20:04,2287,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Y79Z7,05/05/2023,20:04,2922,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-8888Y,05/05/2023,20:04,2852,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-XZXZX,05/05/2023,20:04,2469,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-YZ789,05/10/2023,20:47,2352,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-XX97Z,05/10/2023,20:47,2712,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Y79X7,05/10/2023,20:47,2500,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-8XY88,05/10/2023,20:47,2749,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Z9Y89,03/05/2023,07:11,2627,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Z87ZY,03/05/2023,07:11,2017,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-7ZX7X,03/05/2023,07:11,2377,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-77Z87,03/05/2023,07:11,2104,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Z9ZX9,03/05/2023,07:11,2077,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-8XZ9Z,18/01/2023,06:42,2031,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Z89XX,18/01/2023,06:42,2817,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-8YYXZ,18/01/2023,06:42,2350,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-8ZXY8,18/01/2023,06:42,2732,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-ZZ88X,18/01/2023,06:42,2839,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-X8789,23/06/2023,09:44,2930,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-Z9XYX,23/06/2023,09:44,2328,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-7Y87Z,23/06/2023,09:44,2359,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False
+TXN-HIGH-YY999,23/06/2023,09:44,2393,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Alicia,Acero,Castellanos,Argentina,Cintruengio,Sujeto_Obligado9,Agente12657,False

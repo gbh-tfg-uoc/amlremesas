@@ -1,0 +1,746 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-HL6TXV7X,01/01/2023,11:28,1163,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,True,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-E4SR1NZ9,01/01/2023,16:48,1791,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-G9KPVF3P,01/02/2023,21:55,2619,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-66OPSKA3,01/02/2023,15:03,758,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TX01XKAY,01/02/2023,06:28,697,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LG53FCE6,01/03/2023,16:28,1573,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3R526EUE,01/03/2023,16:59,1127,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-56J8U4BB,01/03/2023,14:13,2797,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4HU84C2U,01/04/2023,18:36,1426,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RIGM6VAC,01/05/2023,19:57,2002,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-64CWBHYJ,01/05/2023,12:41,385,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Emigdio,Casal,Medina,Comoras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-M6WWT3KI,01/05/2023,20:17,366,FALLIDA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0BDZ9Y3M,01/05/2023,21:36,1832,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XG4H84EG,01/05/2023,11:38,2735,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CWT1S4ED,01/06/2023,10:31,514,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5D8L0KS4,01/07/2023,15:03,599,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EWIY19MW,01/07/2023,19:48,153,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NXOF6CUV,01/07/2023,11:30,1256,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1QPLZFPO,01/07/2023,17:25,570,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HZ1MMKCL,01/07/2023,20:24,1496,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9LQ5DMAR,01/08/2023,21:22,2678,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D1VJK4JF,01/09/2023,21:27,1377,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,ZZZ32C70,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NZNJWFWA,01/09/2023,19:33,480,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BI2N7WSK,01/10/2023,10:03,1306,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4FRS7GWK,01/10/2023,12:39,589,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PF25G1LH,01/11/2023,16:44,1658,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J92VNAGE,01/11/2023,12:11,1878,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-M7XB2HT4,01/11/2023,17:39,2144,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LPHA6LT9,01/11/2023,16:10,2849,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3N871KJP,01/12/2023,12:02,2738,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4IGT12W5,01/12/2023,21:48,610,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TVV4RSCG,01/12/2023,11:55,2903,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-E1HX488V,02/01/2023,18:14,185,EXITOSA,España,Nieves,Hernández,Pascual,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OTUL4DD5,02/01/2023,18:32,2323,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5E78KG6D,02/02/2023,17:10,2969,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WRYTAE2C,02/02/2023,21:39,2784,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1V6D2DUW,02/03/2023,19:36,2628,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8HV2NC4F,02/03/2023,15:27,1054,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-K1VE0DEP,02/04/2023,15:36,1862,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TUJSNOL9,02/04/2023,09:37,2507,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4I2M1KOA,02/05/2023,18:22,1843,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UK4I1JYF,02/06/2023,11:42,2389,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,ZZZD0EE6,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UHU0OFZL,02/07/2023,14:45,593,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0UOIRW47,02/08/2023,10:51,610,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RMEVH6QM,02/08/2023,19:57,1774,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6BBV21GJ,02/08/2023,09:15,1802,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3IWCZRGF,02/09/2023,17:43,2213,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Cristian,Benavent,Beltran,Fiji,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YSR0YLBF,02/09/2023,10:41,586,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Carlos,Aller,Cabañas,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-V7FZTZS6,02/09/2023,09:19,845,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IADAA89I,02/10/2023,10:43,1101,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Severino,Robledo,Piña,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0NGAC4OY,02/10/2023,17:51,2083,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UVNZEBZ1,02/11/2023,14:38,1402,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SYJIVDMK,02/11/2023,12:14,1220,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T7CDSHIC,02/11/2023,09:04,639,FALLIDA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D67HOP9V,02/12/2023,09:48,176,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Teófilo,Llamas,Bonilla,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZDQX6LIT,02/12/2023,19:28,2539,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T4H1MQV1,02/12/2023,02:57,2890,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-R6RARYS7,02/12/2023,21:12,1183,EXITOSA,España,Aroa,Real,Mate,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ITN774MZ,02/12/2023,18:35,2811,FALLIDA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D4I9S4JK,03/02/2023,09:43,1331,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QKNOSV1N,03/03/2023,05:43,1205,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GW28EZGR,03/04/2023,10:12,1020,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-83PMDZOW,03/04/2023,18:36,1968,EXITOSA,España,Alba,Acero,,Argentina,ZZZ2A54B,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-X7Z7GHKD,03/04/2023,15:39,418,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UWS9YIOW,03/05/2023,21:47,1439,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7SMBIPH8,03/05/2023,15:35,1662,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,ZZZ816E6,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-A2RDK7R6,03/06/2023,20:59,1632,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZG6UUXCO,03/07/2023,18:51,1642,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Q39O4E50,03/07/2023,10:42,647,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-31YDGBXB,03/07/2023,21:51,859,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-U0XQISFL,03/07/2023,11:42,1183,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-K128M0L4,03/08/2023,09:33,1032,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OFWT2XHK,03/08/2023,18:42,2241,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FNZ72YIC,03/08/2023,10:19,2481,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZRYS0NTN,03/08/2023,19:35,543,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Ale,Valls,Ferrer,Dinamarca,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OI9L6TYK,03/08/2023,19:05,1975,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-30OT7BIS,03/08/2023,10:11,1391,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RZTC1F8A,03/09/2023,16:01,320,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IYR3YQ0K,03/09/2023,17:41,214,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PEDFPM1H,03/11/2023,10:35,2176,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VX6RZ2G7,03/11/2023,14:19,652,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CFIBZF3P,03/12/2023,19:40,1272,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7ZLPSW4D,03/12/2023,12:12,1139,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-05IDDZTQ,03/12/2023,16:40,247,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NP49GZDD,03/12/2023,14:13,53,FALLIDA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRODPTM8,03/12/2023,17:59,1559,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-809T427A,04/01/2023,10:45,797,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BP11LIXI,04/02/2023,09:55,1323,CANCELADA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HANU52FE,04/02/2023,13:00,1699,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XGT851QW,04/03/2023,19:06,1574,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WMQPIIDA,04/04/2023,10:40,274,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IIUIV130,04/04/2023,20:32,568,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-66ZHLGW1,04/04/2023,09:31,1971,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-03G0LQ9J,04/04/2023,10:31,235,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5V050MGI,04/05/2023,10:27,332,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-X2N7HSS9,04/07/2023,16:30,1177,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3WRFS6GD,04/07/2023,11:10,1825,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-K4DVZTZG,04/08/2023,19:15,731,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RJV4O2DC,04/08/2023,20:52,274,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-41LK6MMF,04/10/2023,15:25,98,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XTUVFY6B,04/11/2023,18:32,2201,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TF5GK5PK,04/12/2023,17:52,337,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AITVGK47,04/12/2023,10:35,1827,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-579YN7BL,04/12/2023,13:39,2125,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-202Q35VZ,04/12/2023,12:26,2646,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DPDF63CQ,04/12/2023,10:57,1856,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9JM9NOF7,05/01/2023,09:57,2413,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6KWXJ69K,05/01/2023,09:41,2863,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-I7K34J6B,05/02/2023,17:54,2448,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TDPLRQEQ,05/03/2023,09:22,1700,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YTDQSIH0,05/03/2023,12:32,1499,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0A9NC30H,05/04/2023,11:23,2059,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-A9G9TVF9,05/04/2023,13:11,1379,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NXZEYEPE,05/04/2023,11:57,1114,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5GBZJXBK,05/04/2023,20:37,1065,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NBTLRSU5,05/05/2023,13:25,593,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YY8IKOBG,05/05/2023,00:44,2044,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FG8UHLQV,05/05/2023,14:01,1772,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VNY03C8J,05/06/2023,00:32,2821,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QOL1O8I9,05/06/2023,14:11,1152,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MGLGPOSL,05/06/2023,16:06,2867,CANCELADA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BFYIZ3IF,05/07/2023,10:31,1845,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZRDBV2SA,05/07/2023,11:39,1150,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5QI9MTOP,05/08/2023,13:53,918,EXITOSA,España,Sara,Solé,Sainz,Gabón,X4728854P,Georgia,22/08/1953,False,Fermín,Carreras,,Perú,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T6ULA7VU,05/09/2023,21:00,1979,CANCELADA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1224QZ1W,05/09/2023,09:03,135,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7O6Z3Q9Y,05/09/2023,16:58,2139,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OKY7IZ6F,05/11/2023,15:57,1812,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HTXLTX0J,05/12/2023,15:39,2005,EXITOSA,España,Violeta,Navas,Nicolás,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GSMQOIN9,06/02/2023,12:56,406,FALLIDA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1ROSCNAV,06/03/2023,04:21,2271,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-O2RK4WGZ,06/03/2023,09:03,95,EXITOSA,España,Fito,Campoy,,Togo,ZZZ855C3,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OOW5FY4L,06/04/2023,09:09,1890,CANCELADA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VU83I7E7,06/06/2023,14:10,2026,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2YYK5G3L,06/06/2023,13:25,330,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Pili,Río,Tomas,Uganda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-539TOLF0,06/06/2023,13:41,1246,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8O69FBYS,06/06/2023,15:41,2898,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4HJQDMUY,06/07/2023,17:25,2046,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-I6WANY9K,06/07/2023,09:06,1962,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DSW1SKLZ,06/07/2023,21:23,331,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DYJV9PMX,06/08/2023,14:15,224,FALLIDA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-KZ8T5G38,06/09/2023,18:40,2030,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Z3EJJNV2,06/09/2023,20:15,2493,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CBVUOFNN,06/09/2023,13:36,1594,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7KH8H9AW,06/10/2023,12:00,851,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PUNM8QEL,06/10/2023,19:39,1767,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JSUYWAQD,06/10/2023,12:02,2395,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5ZXQA7LD,06/12/2023,10:34,1061,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4J85KMZK,06/12/2023,09:08,2980,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3ROI3N4U,07/01/2023,17:17,1962,CANCELADA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VTLYPCIO,07/01/2023,20:11,257,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VKTIKM7Q,07/03/2023,21:05,2647,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WJQBZG7M,07/03/2023,20:23,2653,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MBEOG3AU,07/04/2023,19:29,1989,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZN8POGCI,07/05/2023,21:02,2048,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-N8WYLMSG,07/06/2023,16:15,311,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9J3Q5W0W,07/06/2023,14:55,2897,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-15UK2W91,07/06/2023,15:20,1499,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-S4IS3LPY,07/07/2023,09:29,1886,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0H28RM2L,07/08/2023,03:01,2168,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RG2RSJWX,07/08/2023,16:54,1828,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-W05ROVZ7,07/08/2023,11:46,591,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OXOGZBGC,07/09/2023,17:33,843,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AJG20BZJ,07/09/2023,13:28,1278,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JTTDXHDP,07/10/2023,17:06,2524,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MGMEC5YT,07/10/2023,17:13,1695,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WZK3TSLO,07/10/2023,15:56,1685,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4CQM1ASY,08/01/2023,14:23,1583,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-B7ECS2SV,08/02/2023,09:58,2529,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UC40Z95U,08/02/2023,05:14,2198,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1DSAD0X9,08/02/2023,11:06,638,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-93ZQT6AY,08/03/2023,21:06,559,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HGWU4SOO,08/03/2023,09:11,924,FALLIDA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JKWW1TFG,08/03/2023,11:40,375,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DWWWHPD5,08/03/2023,21:27,780,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-E0ZP0HML,08/03/2023,09:55,2846,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4TSS9DHH,08/03/2023,10:34,2231,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-C4RDTV1I,08/03/2023,21:37,562,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XZPNETEJ,08/04/2023,11:36,1550,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZY6G2Z3F,08/04/2023,21:28,972,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6XATCS91,08/04/2023,12:57,1567,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OZBEHJ6N,08/04/2023,11:40,1727,FALLIDA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-46DK6FYM,08/05/2023,11:58,1309,EXITOSA,España,José,Serrano,Criado,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9OY6YQP7,08/05/2023,11:14,592,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-879OOM43,08/06/2023,11:46,1583,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ST7W2ME9,08/06/2023,20:11,2567,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HT2HNHXD,08/07/2023,21:35,2321,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ASPRIKPS,08/07/2023,13:32,2451,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WKE5ICBM,08/07/2023,11:38,720,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7IYLAVJL,08/08/2023,11:11,2834,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-B0ZKVKR7,08/08/2023,07:26,2487,CANCELADA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-U02CLVX4,08/08/2023,11:46,1114,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6ESMEMNZ,08/08/2023,11:23,1305,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NZJBFO56,08/10/2023,20:33,476,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-E3YBZVS5,08/10/2023,13:34,1329,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DYDE0TB8,08/11/2023,11:14,788,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Consuelo,Moll,,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-R2AHHFFM,08/11/2023,16:28,535,FALLIDA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LS97E0GS,08/11/2023,11:00,2964,CANCELADA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5WQ3W9FU,08/12/2023,13:04,2698,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6KHR3IK0,08/12/2023,11:02,2749,CANCELADA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TUJ1MTO9,09/01/2023,16:01,173,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6VF64R9B,09/02/2023,11:11,125,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AP5UUW0C,09/03/2023,12:14,1757,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Matías,Montoya,Palomares,Trinidad y Tabago,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZEX8AAZJ,09/03/2023,10:02,1709,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RXFRVCLT,09/03/2023,09:01,898,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-H2O400EH,09/03/2023,10:16,200,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JIU8IX3L,09/03/2023,16:24,293,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T8SDNNMH,09/03/2023,21:24,2105,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J07G4C06,09/05/2023,20:39,2801,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BBWY5Z0N,09/05/2023,04:12,890,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-V0QYD6J5,09/06/2023,21:28,159,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-COA04BEI,09/06/2023,16:47,2764,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-46SKWODJ,09/06/2023,14:40,137,EXITOSA,España,Liliana,Albero,,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-U9AKEI55,09/06/2023,19:00,1503,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2QI3JIDE,09/06/2023,18:32,1073,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-M40JZ5DU,09/07/2023,15:40,1175,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T1EG6EYJ,09/07/2023,12:50,1005,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MJ5N1ORA,09/07/2023,19:00,2431,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4YLKFL2W,09/07/2023,20:50,217,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NW4VGEG8,09/09/2023,16:10,2227,EXITOSA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2APGY92D,09/09/2023,19:17,2657,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Eliana,Rosales,Frutos,Dominicana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7GYIVEHB,09/09/2023,21:07,2060,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IA8F8I9O,09/10/2023,17:01,640,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-51QC610S,09/11/2023,09:04,914,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NG445TE8,09/12/2023,11:25,485,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SU8PWBOV,09/12/2023,17:07,2204,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VSO4INGC,10/01/2023,11:28,2034,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D9L7PURT,10/03/2023,21:42,2315,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NL4C7EY6,10/05/2023,11:51,2342,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OTYQT2QC,10/06/2023,01:16,1282,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-75HGD74X,10/06/2023,14:32,1122,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2ZI8HSUP,10/07/2023,03:39,2897,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OHZRGV3X,10/07/2023,12:46,2650,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZULJOHLW,10/08/2023,15:53,1779,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JFRWI35A,10/08/2023,09:37,1760,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HQFK3HN0,10/08/2023,01:41,1484,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BUSI7O1B,10/08/2023,21:15,1610,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-B0K0SJBE,10/08/2023,11:15,1140,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EBEGBB2S,10/09/2023,11:09,1550,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Jordán,Ferrer,Solsona,Benin,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3E25K6I2,10/10/2023,12:03,2715,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GCNBH59C,10/10/2023,19:49,2276,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ICTPBEW8,10/10/2023,17:02,803,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IGLZGWTZ,10/10/2023,18:24,1134,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZMQIVPS4,10/11/2023,19:31,1069,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ASVTSTZ2,10/12/2023,15:46,1059,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YRJAJYW0,10/12/2023,09:13,1114,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NGQJZA8H,11/01/2023,14:14,833,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AJE1KNA6,11/01/2023,21:10,629,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Ismael,Isern,,Irán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-65VBVH8P,11/01/2023,20:25,1104,CANCELADA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LCI2GJX0,11/02/2023,09:10,2583,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JH5KZ3NI,11/02/2023,17:36,58,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-M9GMDIK5,11/02/2023,10:15,1813,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NCSMMB5W,11/02/2023,12:52,2539,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HYIU1HT7,11/03/2023,18:41,786,EXITOSA,España,Humberto,Carreño,Castilla,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NI3ISY9S,11/03/2023,09:54,2494,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WOBWXEZ8,11/03/2023,10:30,780,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9TFA8FUH,11/04/2023,13:54,2840,CANCELADA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QAZDFD8I,11/04/2023,20:46,2464,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AQSKC9N1,11/04/2023,11:13,1402,CANCELADA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-N4Q852CS,11/05/2023,15:31,2773,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BEEK9QIK,11/05/2023,18:51,2564,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-W1P56C4Q,11/05/2023,11:09,1766,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Wilfredo,Montero,Valle,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9MKYEB2U,11/06/2023,09:02,1805,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Hermenegildo,Anglada,Soriano,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LWPP4BNC,11/06/2023,09:02,781,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QYWC6G4W,11/07/2023,10:11,1294,EXITOSA,España,Felicia,Fernandez,,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3GVK6XYZ,11/07/2023,11:28,182,FALLIDA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZF5PZ8ET,11/08/2023,13:47,1859,FALLIDA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3OSID3D0,11/08/2023,21:37,928,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Bruno,Reyes,Morcillo,Albania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-13UJQ854,11/09/2023,18:54,1542,CANCELADA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TCRWTTFX,11/09/2023,09:05,2989,EXITOSA,España,Segismundo,Barrios,Escamilla,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1BW94MP5,11/09/2023,20:42,859,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GB8IAC5P,11/11/2023,18:49,781,FALLIDA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FN4T62QC,11/11/2023,09:40,2742,EXITOSA,España,Benigno,Soriano,,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Ainoa,Sarabia,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DBP6TCA6,11/12/2023,09:25,159,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-V3NJDWIN,11/12/2023,21:46,1308,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D6U3890D,12/01/2023,16:17,1037,CANCELADA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-KKRGN9H7,12/01/2023,17:23,2556,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NSVVKSIJ,12/02/2023,10:09,2321,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T7B6OUNK,12/02/2023,18:52,2343,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WJ5RXUVT,12/03/2023,18:12,2035,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BMB9QOWB,12/04/2023,11:29,1287,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GR9SVKA3,12/04/2023,14:00,2736,CANCELADA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BS4YE6MA,12/04/2023,02:08,1007,CANCELADA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2J1JT2MC,12/04/2023,18:44,61,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZZEXWSUJ,12/05/2023,09:07,2073,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RNXAY8SR,12/05/2023,11:51,1170,CANCELADA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D853XNKY,12/05/2023,20:57,424,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OENC2AU3,12/06/2023,21:20,2952,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-KE98CWBI,12/06/2023,21:08,2825,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TNZS3NJK,12/07/2023,19:57,424,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3YDKK742,12/07/2023,00:23,1866,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-24G6COQ7,12/07/2023,12:28,187,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OKDLL9VZ,12/07/2023,19:40,1598,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Y6KXAHIW,12/08/2023,12:09,2431,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-C93VWNIQ,12/08/2023,12:43,1504,CANCELADA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7FCNGP8K,12/10/2023,18:01,1166,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4RGPWYIR,12/10/2023,19:07,1249,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-POSQ79LM,12/11/2023,13:09,1755,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PO3MUHA4,12/11/2023,11:07,1619,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BEQ7NIE0,12/11/2023,18:26,967,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2KE83KST,12/11/2023,22:12,476,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-U2CXR4SH,12/12/2023,15:55,1992,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GES7OS8P,12/12/2023,14:20,169,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T9SH9720,13/01/2023,19:52,2471,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UR8JCDVS,13/01/2023,20:36,1753,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HNA6S1R0,13/01/2023,15:47,1063,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XMDO4QC3,13/01/2023,09:17,188,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JHZFQ8Q6,13/01/2023,19:18,1602,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JIRWA5UC,13/02/2023,12:01,1075,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-70SKQ5HL,13/02/2023,14:25,2486,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-03O9H4D9,13/03/2023,18:00,2477,EXITOSA,España,Jerónimo,Azorin,Maza,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-K4USD3T0,13/05/2023,09:20,813,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QBB0ZCW7,13/05/2023,12:58,324,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JV1GEGUX,13/05/2023,15:30,105,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TKWPFEV9,13/06/2023,09:56,1576,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FFU45DZK,13/07/2023,12:33,2143,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JRJL4Z8S,13/07/2023,21:22,2175,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4MVZWSWW,13/08/2023,20:04,652,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RVY9HAIN,13/08/2023,21:20,2620,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QD51CJV5,13/09/2023,16:19,2039,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-26YX8IMD,13/09/2023,19:20,1771,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T7RPF1EP,13/10/2023,18:56,133,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Celestina,Corominas,Lledó,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JTQKVWBI,13/11/2023,12:59,2553,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-B322MMEX,13/11/2023,13:58,2521,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4BJK7X7O,13/12/2023,14:53,1586,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CEXB5FQ1,14/01/2023,09:52,1628,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-B817GT6C,14/01/2023,09:52,410,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5Y9P4F9X,14/02/2023,18:53,1415,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NUBIQ24S,14/03/2023,16:37,204,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QWKI8A1W,14/03/2023,15:05,2945,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-11BVU8L2,14/04/2023,10:54,1000,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LQ2PREW0,14/04/2023,18:02,636,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CFOR3JP4,14/05/2023,10:10,2291,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-X3T9RWNC,14/05/2023,20:38,1382,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-H4UCD1OV,14/06/2023,21:19,424,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J07ARTH7,14/06/2023,19:51,2171,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RJLJN2U7,14/06/2023,17:47,1794,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LNF1YW9W,14/06/2023,20:35,2195,FALLIDA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TC6LK8RA,14/07/2023,20:37,2929,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8WIN6YH6,14/07/2023,19:09,2393,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XFH0PUIA,14/08/2023,12:05,1679,CANCELADA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OOZT2O8N,14/08/2023,20:46,2843,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LBGHF17I,14/08/2023,19:41,2907,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VHPI4NAU,14/08/2023,21:17,1771,CANCELADA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BM0NWABI,14/09/2023,17:52,2243,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WYZBGGVI,14/09/2023,13:55,2200,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MREGYI2B,14/10/2023,13:43,548,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YJ3BLUAL,14/10/2023,13:34,1514,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DM4BLCLV,14/10/2023,16:58,304,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-S58Q517Q,14/10/2023,01:32,299,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8NUTKQOV,14/11/2023,18:52,2389,FALLIDA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Amada,Aguilera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-X2ZB13IS,14/11/2023,12:31,360,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3111MZED,14/12/2023,17:42,2238,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3AJZTCO0,14/12/2023,09:42,494,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YM19HM85,14/12/2023,11:15,1881,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FOLU7MVG,15/01/2023,15:00,1951,EXITOSA,España,Paulino,Tello,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-H1ZC5I10,15/01/2023,15:51,440,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3E724549,15/01/2023,18:01,576,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TGZGJSWY,15/02/2023,14:42,2925,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-34JOOMYY,15/03/2023,13:04,2090,CANCELADA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TME44HRL,15/03/2023,15:28,2302,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9XNN6IGD,15/03/2023,17:20,384,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-57AUT3AE,15/04/2023,20:53,2320,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RI8ENNRF,15/06/2023,20:23,2058,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1098D4NB,15/08/2023,13:04,2336,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-KIGRYV1Z,15/08/2023,12:08,226,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-S97JJ9V3,15/08/2023,09:39,405,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9QU27TK3,15/08/2023,16:44,130,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Espiridión,Roldan,Larrañaga,Tonga,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-L5GPTUSI,15/09/2023,13:37,788,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UWZO2J86,15/10/2023,19:28,2890,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-S714H649,15/10/2023,18:53,259,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-C9WT3XPV,15/11/2023,20:26,2261,CANCELADA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-13AVFO9P,15/11/2023,12:43,2511,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2WVHVVT1,15/11/2023,13:58,1408,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Z9VKZWUD,15/11/2023,16:59,649,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-22B7F4IP,15/12/2023,18:49,740,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-H5FS9OZ0,15/12/2023,23:19,1736,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-H02WY6EW,15/12/2023,21:40,2906,FALLIDA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Celestina,Corominas,Lledó,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0MGGSUH4,15/12/2023,12:37,1609,EXITOSA,España,Eugenia,Criado,Niño,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YCJOT60D,16/01/2023,19:29,2533,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SCQEVIAF,16/02/2023,04:28,303,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LVZG45SJ,16/03/2023,21:06,1968,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CPEIJ8I3,16/04/2023,20:58,131,CANCELADA,España,Felicidad,Nuñez,Uribe,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EPS2U6BI,16/04/2023,10:00,2369,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QZ656G4W,16/04/2023,12:50,2111,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T8XTQAF6,16/04/2023,14:10,1984,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HH25I0ZG,16/05/2023,12:40,2174,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-M8LFJ191,16/05/2023,09:27,663,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QGRGB3GS,16/06/2023,10:56,618,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-76CQFUTI,16/06/2023,09:40,1836,FALLIDA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WNYMVEBX,16/06/2023,10:03,1292,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UZVTTAI6,16/06/2023,21:10,2090,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LKQD5L61,16/08/2023,08:02,1288,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CJFMW7E1,16/10/2023,13:51,393,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-F393518C,16/10/2023,09:26,1723,CANCELADA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YJRQA9RU,16/12/2023,21:58,1324,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AIJWWHN4,16/12/2023,13:20,1730,CANCELADA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-34YX4DWP,16/12/2023,21:01,464,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RATJDXLH,17/01/2023,17:06,658,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NEYVO9C9,17/01/2023,15:30,2115,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XRZ00SFQ,17/01/2023,19:30,1504,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7G7OJY2Q,17/02/2023,17:34,397,EXITOSA,España,Artemio,Linares,Carranza,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XTUG2UWN,17/02/2023,14:46,2137,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Alonso,Rozas,Barón,Benin,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QK0R4MLF,17/02/2023,16:43,147,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XPP934AY,17/02/2023,14:20,1010,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IOVSJA4G,17/03/2023,17:14,1387,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AYN6CWVK,17/04/2023,04:50,1839,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-60IWLL4O,17/04/2023,21:01,2894,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1U3OIM96,17/05/2023,11:03,1318,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5FQIO6WU,17/05/2023,12:00,1688,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J0KEMHYU,17/05/2023,12:54,1004,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SNA2K5FT,17/05/2023,13:43,1901,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OMN7602A,17/06/2023,10:30,738,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IXAH0QAW,17/07/2023,11:04,871,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CHBXW3FP,17/08/2023,12:45,1547,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RXNFUXE8,17/08/2023,19:41,758,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-821E2Y0R,17/08/2023,12:30,650,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XCOQBYJI,17/09/2023,23:47,631,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-57EZB6H6,17/09/2023,13:01,1188,EXITOSA,España,Lupita,Cueto,Fajardo,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-71CZI7KZ,17/09/2023,09:01,2826,CANCELADA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8BHBYTIH,17/10/2023,12:21,1211,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-R0OB5D5S,17/10/2023,09:26,2931,CANCELADA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ODAGR2UG,17/11/2023,13:11,1634,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YUSPTV35,17/12/2023,12:39,911,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PO9949IS,17/12/2023,19:45,595,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TO3OMHI3,18/01/2023,15:06,2370,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZHWGXY2T,18/02/2023,20:29,698,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YNW2DIQE,18/02/2023,18:32,2304,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SPPXPT68,18/03/2023,21:15,849,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SBRYUJ0M,18/03/2023,20:37,1859,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FZE31PO1,18/03/2023,20:35,2755,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NRD1CH6V,18/03/2023,20:40,1139,CANCELADA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VK8HC2GS,18/03/2023,12:51,976,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T3KIKLNV,18/05/2023,12:55,1239,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GV6GWRW6,18/05/2023,16:12,1817,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2OLT6PU4,18/05/2023,14:15,74,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Maura,Ribera,Pont,Polonia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HYQ63C3W,18/05/2023,15:48,2508,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3HBCI4DY,18/07/2023,19:27,501,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J6RH48Q7,18/07/2023,14:17,733,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Modesto,Badía,Cabrera,Zimbabwe,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VAQ8P5OF,18/08/2023,10:35,274,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4YB4V8D9,18/08/2023,21:21,2201,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FHAP420Z,18/09/2023,13:38,1410,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ABAFZSGJ,18/09/2023,15:21,1878,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UZCT0Q0Q,18/09/2023,09:02,2353,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IPF3CO9G,18/10/2023,14:53,1087,FALLIDA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EX5MVL6J,18/11/2023,14:34,267,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LDD7G71L,18/11/2023,22:20,51,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Lucio,Azorin,Real,Egipto,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XHVVLFCM,18/12/2023,21:06,1535,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4IQ10AH0,18/12/2023,21:45,1951,FALLIDA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CFKP0RKF,19/01/2023,19:38,919,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IDRPIOXV,19/02/2023,16:09,2342,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1RJOK3UX,19/02/2023,12:36,1708,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LYSFA7NF,19/03/2023,14:54,2526,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Q1NCNAOW,19/03/2023,16:36,741,EXITOSA,España,José,Ayllón,Nevado,Colombia,ZZZ725DA,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3H39K4FX,19/03/2023,18:46,1683,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MLDI323V,19/04/2023,18:50,2293,CANCELADA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ABTJQUW1,19/04/2023,14:48,106,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HGD9S56M,19/04/2023,14:20,491,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HCL3S0IW,19/05/2023,04:51,227,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Heraclio,Barrera,Farré,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-V8CERG92,19/07/2023,14:51,1778,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HROLNZ4Y,19/08/2023,12:30,2305,CANCELADA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-M6BE6VF0,19/09/2023,13:10,1308,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZP7SBCY1,19/10/2023,16:13,1254,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Q4LFEQU1,19/10/2023,11:50,1505,FALLIDA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9YJMQMTK,19/10/2023,20:02,67,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RRIWEB5S,19/10/2023,11:57,2807,CANCELADA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7CEKDGCR,19/11/2023,13:45,2895,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8HGA4E9G,19/11/2023,21:12,2257,EXITOSA,España,Clementina,Arévalo,Guijarro,Togo,Y7772907W,Bhután,22/10/1929,False,Felicia,Manzanares,Salmerón,Barbados,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TY6FC0QL,19/11/2023,13:49,739,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4SQB40CH,19/12/2023,15:55,2423,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XEL3Q9NZ,20/01/2023,16:05,430,FALLIDA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2IQ5BV6O,20/01/2023,21:26,1863,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4ZPY38OW,20/01/2023,20:20,1867,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Y94CEPEC,20/01/2023,19:47,521,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ACPB5X3E,20/02/2023,18:02,1290,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7GQM5CX9,20/03/2023,07:09,2093,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-P3XGASZ2,20/04/2023,17:25,289,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GHU5QP9S,20/04/2023,14:58,2413,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GN575K0J,20/06/2023,11:22,2438,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3AVPMX0P,20/06/2023,19:18,2263,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-82ZUFWFB,20/07/2023,11:31,1191,FALLIDA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SCHE4MI6,20/08/2023,17:13,1964,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1ZQ95Q88,20/09/2023,14:12,299,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-C0540ZPC,20/09/2023,11:30,647,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-L837JAMM,20/10/2023,20:12,402,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-A462XUZ7,20/10/2023,18:24,98,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-35HK4HBK,20/10/2023,15:53,2490,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CLRP93A9,20/11/2023,21:11,2205,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,True
+TXN-A1XQCZ0M,20/11/2023,09:47,2255,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9NGV1APV,20/12/2023,14:11,1653,CANCELADA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-V1A29JAD,20/12/2023,12:16,2120,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Hugo,Muñoz,Vives,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9WO9W43D,21/01/2023,10:08,447,CANCELADA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DXV8EXIJ,21/02/2023,13:11,690,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-21C7FOT5,21/03/2023,21:31,1256,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HNOPSI77,21/03/2023,12:54,1761,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T8YY5TQO,21/03/2023,15:36,1080,FALLIDA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2DMRCD97,21/04/2023,09:08,2452,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8DY2SXR8,21/04/2023,13:23,335,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-382RUAB8,21/05/2023,12:52,1902,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TO0D2CII,21/05/2023,18:23,271,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JVJS6T4S,21/05/2023,13:21,2877,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7VG8TS1C,21/06/2023,09:00,1893,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ADRQJ85Q,21/09/2023,19:06,1148,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-03XUXJ0U,21/10/2023,19:45,2245,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0SG6NBM8,21/12/2023,19:52,2756,CANCELADA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T360MJP6,21/12/2023,09:15,309,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5UWP7MOE,22/01/2023,09:34,2590,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7OP0VTVW,22/02/2023,14:02,801,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JKVF1S0I,22/02/2023,15:50,1905,FALLIDA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VAYLZSBZ,22/02/2023,17:50,1363,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LS74ARXP,22/03/2023,13:21,2293,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PXHXFIZF,22/03/2023,20:12,1039,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Marcia,Salazar,Novoa,Nueva Zelandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-O7X7BC9Z,22/04/2023,13:54,835,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EC52ZA2T,22/04/2023,03:25,701,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T54ZEMQ3,22/04/2023,13:37,2621,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PC4CO4AA,22/04/2023,13:10,595,EXITOSA,España,Nieves,Cabezas,Pombo,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CDESIXDB,22/05/2023,15:05,1185,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JLKE8GUJ,22/05/2023,09:35,1616,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-W9USROFQ,22/06/2023,12:39,132,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2W5BIVTZ,22/06/2023,20:01,1067,CANCELADA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8LQLA52X,22/06/2023,18:25,2685,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RE2NJAOI,22/06/2023,18:32,2256,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BOPEYGCI,22/07/2023,16:43,2784,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3VQJF22C,22/07/2023,16:12,1364,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LSUQNPL6,22/07/2023,09:02,1156,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D731JG33,22/07/2023,10:17,1498,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1Z6Q67L8,22/08/2023,21:32,786,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OLGL624T,22/08/2023,18:36,2120,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Miguel Ángel,Campoy,Rivera,Togo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MOBJZ5CB,22/09/2023,19:25,693,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6P5NUD2E,22/10/2023,17:01,2733,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DVZLZK73,22/10/2023,17:55,2676,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-DQT6ZM63,22/10/2023,05:18,2952,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-S1AVKPGQ,22/11/2023,09:01,1213,CANCELADA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OSXIOXE9,23/02/2023,10:51,1897,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3YEX8GAY,23/02/2023,09:44,2678,EXITOSA,España,María Cristina,Valero,Daza,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UVZP2F34,23/04/2023,09:29,247,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XWQDZ7ZU,23/04/2023,20:51,2607,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NL9HSTPG,23/04/2023,18:49,2823,CANCELADA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-47L6Q9EU,23/04/2023,18:38,1726,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AEV93ZZM,23/04/2023,11:44,2052,FALLIDA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-TFNIILFP,23/04/2023,20:14,1154,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HQKLI4UO,23/04/2023,12:50,384,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Carina,Llopis,,República Federal Democrática de Nepal,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VVSEQ4Q2,23/04/2023,18:29,1344,FALLIDA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EK2MRIH4,23/04/2023,13:13,1007,EXITOSA,España,América,Catalán,,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-E5SZTMB8,23/05/2023,16:49,2748,EXITOSA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-70A9ZOK8,23/05/2023,14:32,2631,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Q1LFSL1G,23/05/2023,19:45,2607,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-OXI220MU,23/05/2023,16:53,2512,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EY8ORAAN,23/05/2023,09:53,318,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-8HZAX0RW,23/05/2023,15:16,1989,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-87ZNR60Z,23/06/2023,21:52,2053,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Y6X8RVVG,23/06/2023,09:15,2383,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QTYXGNHW,23/07/2023,18:45,2716,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2HDPP26Z,23/07/2023,09:27,2955,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-KIHFDYFT,23/08/2023,10:16,2939,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WJZY7PXS,23/09/2023,18:57,1534,FALLIDA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0D1C3X1I,23/09/2023,13:48,2594,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,ZZZ48587,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1QHMTJ7H,23/10/2023,17:08,686,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-KB4QHOB5,23/10/2023,21:46,2660,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4HD7XILT,23/11/2023,15:47,367,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-O2JL5GPN,23/11/2023,19:06,2506,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T0U6CGFW,23/11/2023,21:32,905,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-W5JRR9JO,23/12/2023,03:36,1141,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EUKSNQHW,23/12/2023,16:53,379,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UQCMZ9JB,24/01/2023,20:58,1458,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-P1HMM8TS,24/02/2023,16:59,1314,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MY5JQ6H1,24/03/2023,10:09,2162,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Q39AUOUS,24/03/2023,10:05,434,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0P0LA0E0,24/03/2023,09:54,669,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AA2TOSZY,24/04/2023,11:13,1156,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-V2XSMZUT,24/04/2023,10:46,2438,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2A8HGED6,24/05/2023,09:57,1962,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-K9SUOHLZ,24/05/2023,16:01,2068,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7QF5T50R,24/06/2023,13:10,403,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MB1UVXQ1,24/06/2023,19:38,63,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ODRNXTMO,24/06/2023,19:31,2905,FALLIDA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-G9HKVNX0,24/06/2023,19:54,199,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BUOTSO61,24/07/2023,15:42,1200,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-YIXI3P3E,24/07/2023,12:40,627,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JJSHPEO4,24/08/2023,17:07,357,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Adelardo,Santamaría,,Bahamas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VBMCRUD1,24/08/2023,21:06,779,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3A0UWFBG,24/08/2023,18:06,2529,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-I1U3QM8L,24/08/2023,14:36,981,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HEKLO4CZ,24/09/2023,15:27,2494,EXITOSA,España,Abraham,Catalán,Morillo,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UH57CZA8,24/10/2023,21:11,1540,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NL6EC6D6,24/10/2023,23:38,2983,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Maricela,Belda,,Congo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-885GGKMB,24/10/2023,12:04,1431,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-75PYK8TZ,24/10/2023,16:52,2434,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CZ4ATAI4,24/10/2023,18:54,1560,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BM1MFAY7,24/10/2023,09:43,2042,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-08RF3Q1N,24/11/2023,10:05,107,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SWF6JI39,24/12/2023,10:31,356,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FWAJ86Q5,24/12/2023,17:53,2776,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Evaristo,Bonet,Bermúdez,Madagascar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2IR4CAJN,25/01/2023,17:10,669,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4MA3F4VT,25/02/2023,10:03,183,EXITOSA,España,Leocadia,Feliu,Paniagua,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IS00PL33,25/02/2023,23:34,1745,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UL7D2CIZ,25/04/2023,11:59,226,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NH42JDHM,25/04/2023,09:28,1450,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XNRXBYU5,25/05/2023,10:29,1634,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-G5J7LPP0,25/07/2023,16:03,2653,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6J384VFH,25/08/2023,09:13,1479,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-VZCD3DHB,25/08/2023,17:57,2526,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-SVYAVQ2D,25/09/2023,07:25,911,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UFOIJPX7,25/09/2023,16:09,1001,CANCELADA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Daniela,Perez,Coll,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QYRBA7HP,25/09/2023,12:10,336,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,ZZZA65A5,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-6CG8SRCN,25/10/2023,17:48,1297,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GRUDC5EL,25/11/2023,11:58,977,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GV51I9EJ,25/11/2023,11:00,72,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7FBDXBTF,25/11/2023,13:39,2755,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0C2RXUIK,25/11/2023,09:21,2353,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AVIBOLLL,26/01/2023,09:51,2076,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-D9M3NGNA,26/01/2023,15:53,2016,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1W7LQX1J,26/01/2023,09:09,568,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7JOV1L4K,26/02/2023,18:42,1353,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0SFVMRR3,26/03/2023,14:26,1834,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-78INASWP,26/03/2023,21:48,819,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XPLQ5OH7,26/03/2023,15:24,753,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-USRP9RNU,26/03/2023,20:56,1752,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XD0JKBN4,26/04/2023,19:15,2142,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LBELTBBS,26/05/2023,11:54,1550,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NO50NCI1,26/05/2023,11:52,495,EXITOSA,España,Lino,Zamorano,Roselló,Niger,ZZZ489C5,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-C0VWUXJ1,26/06/2023,21:08,2206,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-W7TPHMQN,26/07/2023,14:15,2245,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-NEJNUBSK,26/08/2023,20:30,929,CANCELADA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-U98FUQOA,26/08/2023,21:50,2425,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-81S56XL7,26/09/2023,21:33,1448,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J9EHD58O,26/09/2023,12:38,480,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IUJVTM0F,26/09/2023,16:54,571,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XPDBSXFK,26/09/2023,18:53,691,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MLTU21SX,26/09/2023,19:15,876,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2BIO3QE3,26/10/2023,21:13,1609,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-AA1D2Q0T,26/12/2023,18:15,476,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Gertrudis,Olivera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MHEX9FY7,26/12/2023,13:56,1349,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LGFKB12G,26/12/2023,17:41,2853,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-PSSSRZT9,27/01/2023,14:50,510,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-WLOENZ9G,27/01/2023,15:27,584,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZUF3DMK7,27/02/2023,18:21,1388,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-QUBLT8AW,27/02/2023,11:09,1406,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LRJONNG0,27/02/2023,18:56,2286,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-EBAROAP5,27/03/2023,19:06,792,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-S48NFV3E,27/03/2023,19:24,2404,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-A0SZFI4U,27/03/2023,16:26,1356,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1R4DWZOR,27/04/2023,05:45,1313,EXITOSA,España,Flor,Bernat,Pomares,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Heliodoro,Barbero,,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-UZ6NKQVG,27/05/2023,15:59,404,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-3IDR3BW2,27/05/2023,10:54,2775,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-519P4HUX,27/07/2023,18:31,2984,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-9U4IPXZ7,27/07/2023,17:22,1392,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-CSQG9LRB,27/08/2023,16:46,907,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-B013PQBE,27/09/2023,09:12,863,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-XZRMFJAD,27/09/2023,18:46,101,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-I8JVEUUD,27/09/2023,09:25,2008,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JRO8BJNP,27/09/2023,16:10,888,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Y0F1522K,27/10/2023,09:36,245,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-MBUNFABZ,27/10/2023,21:36,2272,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,ZZZ73B5D,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-P38NGGGF,27/10/2023,11:55,2898,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IHAC68OW,27/11/2023,21:49,718,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-5ZS1AUWD,27/12/2023,21:38,2268,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-89OUJXHH,27/12/2023,16:02,852,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0JL838Q0,27/12/2023,19:42,632,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JIOVNYQM,27/12/2023,10:14,1331,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T8NZ6O82,27/12/2023,09:35,1054,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7Y12DYWP,28/01/2023,11:08,2276,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-E5RLVRER,28/01/2023,18:12,1651,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-J64M2GBI,28/02/2023,15:24,955,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-C37Q9NX1,28/03/2023,12:09,2833,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-A1FRU9XY,28/03/2023,16:28,1279,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-JT4473YF,28/05/2023,20:17,397,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Florentina,Lobo,Larrea,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-78GCK5T5,28/05/2023,12:32,2170,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-0FGLC402,28/05/2023,09:41,2318,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-LOPH608Y,28/05/2023,11:41,2696,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-O6PTI2CO,28/06/2023,17:56,2744,CANCELADA,España,Nieves,Pont,Zorrilla,Bhután,ZZZF1DB7,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-T7DT3M1Y,28/06/2023,14:31,1634,FALLIDA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HQ6D3VMU,28/06/2023,16:01,205,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Jordán,Ferrer,Solsona,Benin,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-2G2HG2YN,28/07/2023,21:10,1687,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-ZGHV8747,28/07/2023,18:34,2826,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Fanny,Amorós,,República Árabe Siria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-Q8JPHVLD,28/08/2023,21:02,2889,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-IE9TEYHO,28/09/2023,16:10,2589,FALLIDA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-07O4TCOI,28/10/2023,12:20,544,FALLIDA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-RDWJ9N0B,28/10/2023,10:07,1208,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-BR0VH0N0,28/11/2023,14:57,1370,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Prudencio,Arregui,Quevedo,Bulgaria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-4Q3NS3L9,28/11/2023,21:25,1347,EXITOSA,España,Ligia,Madrigal,Asenjo,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-K031G4TZ,28/12/2023,11:25,218,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-1LF804O0,28/12/2023,12:30,1189,EXITOSA,España,Plácido,Escamilla,,Canadá,Z5579888R,Zimbabwe,29/11/2021,False,Andrés,Escamilla,,Canadá,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-7PLUT6P7,14/06/2023,09:41,32,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Central,Beneficiario,,España,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-GN32RCU2,28/07/2023,16:05,131,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Central,Beneficiario,,España,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-P43X7Y05,14/06/2023,14:57,200,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Central,Beneficiario,,España,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-321CB,05/08/2023,17:33,1099,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Severino,Calatayud,Moles,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-3ACAB,05/08/2023,17:33,1181,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Severino,Calatayud,Moles,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-BA2B2,05/08/2023,17:33,1313,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Severino,Calatayud,Moles,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-ACAC3,09/10/2023,17:01,1198,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-21CBB,09/10/2023,16:59,892,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-11122,09/10/2023,16:59,1138,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-1C2A3,20/03/2023,07:09,1429,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-A3CB1,20/03/2023,20:35,1351,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-CB311,20/03/2023,20:35,1150,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-CAAB2,08/02/2023,12:50,1403,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-C121C,08/02/2023,12:50,1462,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-3CC3B,08/02/2023,12:50,1479,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-AA2AC,11/11/2023,18:49,850,FALLIDA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-AABA2,11/11/2023,21:10,1168,CANCELADA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-3A21C,11/11/2023,21:10,1394,CANCELADA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-1231A,20/12/2023,12:16,1204,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Hugo,Muñoz,Vives,Estados Unidos de América,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-C1B23,21/01/2023,10:48,1489,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-3ABCC,21/01/2023,10:48,1265,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-BBBB1,07/12/2023,18:33,1322,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-2C23A,07/12/2023,18:33,1255,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-FRAC-312B3,07/12/2023,18:33,944,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-XXY97,27/12/2023,08:22,2296,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-9YY8X,27/12/2023,08:22,2627,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-XXXYX,27/12/2023,08:22,2892,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-9ZZYY,27/12/2023,08:22,2341,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-9997X,28/08/2023,11:18,2558,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Z98X8,28/08/2023,11:18,2048,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-X8ZYY,28/08/2023,11:18,2972,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-97Z8X,28/08/2023,11:18,2031,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-ZY787,28/08/2023,11:18,2799,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Mauricio,Burgos,Escrivá,Malta,Vigo,Sujeto_Obligado3,Agente9519,True
+TXN-HIGH-XYX8X,10/04/2023,09:49,2224,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y878X,10/04/2023,09:49,2347,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y88XY,10/04/2023,09:49,2614,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,True
+TXN-HIGH-77998,10/04/2023,09:49,2682,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-887Z7,10/04/2023,09:49,2855,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-X88Y9,01/10/2023,21:14,2045,FALLIDA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Z8ZXX,01/10/2023,21:14,2116,FALLIDA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y9Y77,01/10/2023,21:14,2708,FALLIDA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-X997Z,01/10/2023,21:14,2129,FALLIDA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-YZX89,01/10/2023,21:14,2797,FALLIDA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Z79XY,19/12/2023,11:34,2481,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-789X9,19/12/2023,11:34,2345,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-9YX8Y,19/12/2023,11:34,2243,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y7YY8,19/12/2023,11:34,2412,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-X7Z77,19/12/2023,11:34,2720,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-7XX8X,27/03/2023,10:58,2460,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Z9YY8,27/03/2023,10:58,2377,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-8ZZXY,27/03/2023,10:58,2275,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-9798Z,27/03/2023,10:58,2408,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y899Y,27/03/2023,10:58,2141,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-98978,01/08/2023,09:55,2255,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-779XZ,01/08/2023,09:55,2052,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-YYY8Y,01/08/2023,09:55,2563,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-X77Y8,01/08/2023,09:55,2117,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-7Y7Z8,01/08/2023,09:55,2872,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Z98Y7,09/08/2023,09:44,2843,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y988Y,09/08/2023,09:44,2964,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y9Z8Y,09/08/2023,09:44,2208,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
+TXN-HIGH-Y8Y9Z,09/08/2023,09:44,2300,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Vigo,Sujeto_Obligado3,Agente9519,False
