@@ -1,10 +1,10 @@
 # Sistema de Análisis de Riesgo de Lavado de Dinero
 
-Una aplicación Streamlit para el análisis avanzado de riesgos de lavado de dinero, detección de patrones sospechosos y generación de informes detallados. La aplicación utiliza algoritmos de análisis de 20 indicadores diferentes de riesgo, visualización de redes de transacciones, y detección de comunidades para facilitar la identificación de actividades potencialmente sospechosas.
+Esta es una aplicación generada con Streamlit para el análisis  de riesgos de blanqueo de capitales, detección de indicadores de riesgo y generación de informes detallados. La aplicación utiliza algoritmos de análisis de 20 indicadores diferentes de riesgo, visualización de redes de transacciones, y detección de comunidades para facilitar la identificación de actividades potencialmente sospechosas.
 
 ## Características principales
 
-- **Análisis de 20 indicadores de riesgo**: Evaluación exhaustiva basada en indicadores específicos como documentación repetida, operaciones estructuradas, y perfiles de alto riesgo.
+- **Análisis de 20 indicadores de riesgo**: Evaluación de 20 indicadores específicos como documentación repetida, operaciones estructuradas, y perfiles de alto riesgo.
 - **Visualización de redes de transacciones**: Representación gráfica de conexiones entre remitentes y beneficiarios.
 - **Detección de comunidades**: Identificación automática de grupos conectados de operaciones.
 - **Análisis de patrones**: Detección de actividades estructuradas y repetitivas.
@@ -14,7 +14,7 @@ Una aplicación Streamlit para el análisis avanzado de riesgos de lavado de din
 ## Requisitos del sistema
 
 - Python 3.8 o superior
-- Los paquetes listados en `requirements.txt`
+- Los paquetes listados en `dependencies.txt`
 
 ## Instalación
 
@@ -22,10 +22,9 @@ Siga estos pasos para instalar y ejecutar la aplicación en su entorno local:
 
 1. Clone o descargue este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/analisis-riesgo-ld.git
-cd analisis-riesgo-ld
+git clone https://github.com/gbh-tfg-uoc/amlremesas.git
+cd amlremesas
 ```
-
 2. Instale las dependencias necesarias:
 ```bash
 pip install streamlit pandas numpy matplotlib plotly networkx fuzzywuzzy python-levenshtein rapidfuzz babel pycountry pytz reportlab xlsxwriter openpyxl
@@ -47,7 +46,7 @@ La aplicación estará disponible en `http://localhost:5000` en su navegador.
 
 Para asegurar el correcto funcionamiento, se debe mantener la siguiente estructura de carpetas:
 ```
-analisis-riesgo-ld/
+amlremesas/
 ├── app.py                 # Archivo principal de la aplicación
 ├── utils/                 # Carpeta con módulos de utilidades
 │   ├── __init__.py
@@ -65,9 +64,7 @@ analisis-riesgo-ld/
 
 ### Uso de datos de ejemplo
 
-Los archivos de ejemplo incluidos en `attached_assets/` se pueden utilizar para pruebas. Se recomienda usar los archivos:
-- `informe_riesgo_04.xlsx`
-- `informe_riesgo_detallado(5).xlsx`
+Los archivos de ejemplo incluidos en `ejemplos/` se pueden utilizar para pruebas.
 
 ## Archivos y carpetas
 
