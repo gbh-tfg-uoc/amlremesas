@@ -9,7 +9,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-# Import utility modules
+
 from utils.data_processing import (
     process_csv_files, 
     extract_agent_subject_info,
@@ -42,7 +42,6 @@ from utils.export_utils import (
     get_download_link as export_download_link
 )
 
-# Set page configuration
 st.set_page_config(
     page_title="Análisis de Prevención de Blanqueo de Capitales",
     page_icon="🔍",
@@ -56,7 +55,6 @@ indicator_descriptions = get_indicator_descriptions()
 indicator_types = get_indicator_types()
 
 
-# Initialize session state variables if they don't exist
 if 'data' not in st.session_state:
     st.session_state.data = None
 if 'agent_subject_mapping' not in st.session_state:
@@ -171,7 +169,7 @@ with st.sidebar:
                     import traceback
                     st.error(traceback.format_exc())
     
-    # Display filtering options if data is available
+
     if st.session_state.available_agents and st.session_state.available_subjects:
         st.header("Filtros")
         
@@ -1129,14 +1127,14 @@ else:
                     # Guardar el método seleccionado para uso posterior
                     st.session_state.community_method = community_method
                     
-                    # Generate network data with community detection
+                    # Generar network data con detección de comunidades
                     st.session_state.network_data = create_transaction_graph(
                         df, 
                         min_transaction_value,
                         community_method=community_method
                     )
                     
-                    # Show success and ask to reload
+                    # Mostrar y actualizar
                     st.success("Datos de red generados correctamente")
                     if st.button("Mostrar Visualización de Red", key="show_network_button"):
                         st.rerun()
