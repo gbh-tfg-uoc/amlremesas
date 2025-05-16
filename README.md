@@ -1,5 +1,4 @@
-# Sistema de Análisis de Riesgo de Lavado de Dinero
-
+# Sistema de Análisis de Riesgo de Blanqueo de Capitales
 Esta es una aplicación generada con Streamlit para el análisis  de riesgos de blanqueo de capitales, detección de indicadores de riesgo y generación de informes detallados. La aplicación utiliza algoritmos de análisis de 20 indicadores diferentes de riesgo, visualización de redes de transacciones, y detección de comunidades para facilitar la identificación de actividades potencialmente sospechosas.
 
 ## Características principales
