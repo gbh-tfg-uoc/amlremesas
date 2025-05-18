@@ -30,19 +30,20 @@ def create_sankey_diagram(
     colorize: bool = True
 ) -> go.Figure:
     """
-    Create a Sankey diagram showing flows from a source column to a target column,
-    limited to the top N nodes on each side for better readability.
-    
-    Args:
-        df: DataFrame with transaction data
-        source_col: Column name for source nodes
-        target_col: Column name for target nodes
-        value_col: Column name for flow values
-        max_nodes_per_side: Maximum number of nodes to display on each side
-        colorize: Whether to use different colors for nodes
-        
-    Returns:
-        Plotly figure object
+    Crea un diagrama de Sankey que muestre los flujos desde una columna de origen
+    hacia una columna de destino, limitado a los N nodos principales en cada lado
+    para lograr mayor legibilidad.
+
+    Parámetros:
+        df: DataFrame con los datos de transacciones
+        source_col: Nombre de la columna con los nodos de origen
+        target_col: Nombre de la columna con los nodos de destino
+        value_col: Nombre de la columna con los valores de flujo
+        max_nodes_per_side: Número máximo de nodos que se mostrarán en cada lado
+        colorize: Indica si se deben usar distintos colores para los nodos
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if df.empty:
         # Return empty figure if no data
@@ -50,16 +51,16 @@ def create_sankey_diagram(
         fig.update_layout(title="No data available for Sankey diagram")
         return fig
     
-    # Create a copy of the dataframe
+    # Crea una copia de Dataframe
     df_sankey = df.copy()
     
-    # Ensure we have the required columns
+    # Asegura que existan las columnas
     if not all(col in df_sankey.columns for col in [source_col, target_col, value_col]):
         fig = go.Figure()
         fig.update_layout(title=f"Missing columns for Sankey diagram: {source_col}, {target_col}, or {value_col}")
         return fig
     
-    # Drop rows with NaN in source or target
+    # Elimina filas con NaN 
     df_sankey = df_sankey.dropna(subset=[source_col, target_col])
     
     if df_sankey.empty:
@@ -67,64 +68,64 @@ def create_sankey_diagram(
         fig.update_layout(title="No valid data for Sankey diagram after dropping NaN values")
         return fig
     
-    # Create a DataFrame with aggregated values
+    # Crea un DataFrame con valores agregados
     df_agg = df_sankey.groupby([source_col, target_col])[value_col].sum().reset_index()
     
-    # Calculate totals for source and target to find the top N for each
+    # Calcula los totales
     source_totals = df_agg.groupby(source_col)[value_col].sum().reset_index()
     source_totals = source_totals.sort_values(value_col, ascending=False)
     
     target_totals = df_agg.groupby(target_col)[value_col].sum().reset_index()
     target_totals = target_totals.sort_values(value_col, ascending=False)
     
-    # Limit to top N for each side
+    # Limita a N por cada lado
     top_sources = source_totals.head(max_nodes_per_side)[source_col].tolist()
     top_targets = target_totals.head(max_nodes_per_side)[target_col].tolist()
     
-    # Filter data to only include top sources and targets
+    # Filtra los datos para incluir únicamente los principales origenes y destinos
     df_agg = df_agg[
         (df_agg[source_col].isin(top_sources)) & 
         (df_agg[target_col].isin(top_targets))
     ]
     
-    # If still empty after filtering, return empty diagram
+    # Si, después de aplicar el filtrado, el resultado sigue estando vacío, devuelve un diagrama vacío
     if df_agg.empty:
         fig = go.Figure()
         fig.update_layout(title="No data available after limiting to top countries")
         return fig
     
-    # Create lists of unique source and target values (now limited to top N)
+    # Crea listas de valores únicos de origen y destino (ahora limitados a los N principales)
     source_values = df_agg[source_col].unique().tolist()
     target_values = df_agg[target_col].unique().tolist()
     
-    # Sort to ensure consistent ordering
+    # Ordena para garantizar un orden coherente.
     source_values.sort()
     target_values.sort()
     
-    # Create a mapping of labels to indices, keeping sources and targets distinct
+    # Crea un mapeo de etiquetas a índices, manteniendo separados los orígenes y los destinos
     node_labels = source_values + target_values
     node_indices = {node: i for i, node in enumerate(node_labels)}
     
-    # Create source, target, and value arrays for Sankey diagram
+    # Crea los arreglos de source, target y value para el diagrama de Sankey
     sources = [node_indices[src] for src in df_agg[source_col]]
     targets = [node_indices[tgt] for tgt in df_agg[target_col]]
     values = df_agg[value_col].tolist()
     
-    # Create node colors based on whether they are source or target
+    # Asigna colores a los nodos según si son de origen o de destino
     node_colors = []
     
-    # Generate colors for nodes
+    # Genera los colores para los nodos
     if colorize:
         import matplotlib.colors as mcolors
         import random
         
-        # Create color palettes for source and target
+        # Crea paletas de colores diferenciadas para los orígenes y los destinos
         source_palette = list(mcolors.TABLEAU_COLORS.values())
         target_palette = list(mcolors.CSS4_COLORS.values())
         
-        # If we have many nodes, we need to ensure enough colors
+        # Si tenemos muchos nodos, asegúrate de que haya suficientes colores
         if len(source_values) > len(source_palette):
-            # Add more colors as needed
+            # Añade más colores según sea necesario
             random.seed(42)  # For reproducibility
             for _ in range(len(source_values) - len(source_palette)):
                 r = random.random()
@@ -133,7 +134,7 @@ def create_sankey_diagram(
                 source_palette.append(f'rgb({int(r*255)},{int(g*255)},{int(b*255)})')
         
         if len(target_values) > len(target_palette):
-            # Add more colors as needed
+            # Añade más colores según sea necesario
             random.seed(43)  # Different seed for targets
             for _ in range(len(target_values) - len(target_palette)):
                 r = random.random()
@@ -141,28 +142,28 @@ def create_sankey_diagram(
                 b = random.random()
                 target_palette.append(f'rgb({int(r*255)},{int(g*255)},{int(b*255)})')
         
-        # Assign colors to nodes
+        # Asigna colores a los nodos
         source_color_map = {source: source_palette[i % len(source_palette)] 
                            for i, source in enumerate(source_values)}
         
         target_color_map = {target: target_palette[i % len(target_palette)] 
                            for i, target in enumerate(target_values)}
         
-        # Fill node colors list in the order of node_labels
+        # FRellena la lista de colores de los nodos en el orden de node_labels
         for node in node_labels:
             if node in source_values:
                 node_colors.append(source_color_map[node])
             else:
                 node_colors.append(target_color_map[node])
     else:
-        # Use default colors: sources are blue, targets are green
+        # Colores predeterminados: los nodos de origen van en azul y los de destino en verde
         for node in node_labels:
             if node in source_values:
                 node_colors.append('rgba(31, 119, 180, 0.8)')  # Blue for sources
             else:
                 node_colors.append('rgba(44, 160, 44, 0.8)')  # Green for targets
     
-    # Create the Sankey diagram
+    # Crear el diagrama Sankey
     fig = go.Figure(data=[go.Sankey(
         node=dict(
             pad=15,
@@ -179,7 +180,7 @@ def create_sankey_diagram(
         )
     )])
     
-    # Update layout
+    # Actualiza el layout
     fig.update_layout(
         title_text=f"Flujo desde {source_col} hacia {target_col}",
         font_size=12,
@@ -191,32 +192,32 @@ def create_sankey_diagram(
 
 def create_country_map(df: pd.DataFrame, country_col: str, value_col: str) -> go.Figure:
     """
-    Create a choropleth map showing values by country.
-    
-    Args:
-        df: DataFrame with transaction data
-        country_col: Column name for country
-        value_col: Column name for values
-        
-    Returns:
-        Plotly figure object
+    Crea un mapa coroplético que muestre los valores por país.
+
+    Parámetros:
+        df: DataFrame con los datos de transacciones
+        country_col: Nombre de la columna con el país
+        value_col: Nombre de la columna con los valores
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if df.empty:
-        # Return empty figure if no data
+        # Devuelve una figura vacía si no hay datos
         fig = go.Figure()
         fig.update_layout(title="No data available for country map")
         return fig
     
-    # Create a copy of the dataframe
+    # Crea una copia del DataFrame
     df_map = df.copy()
     
-    # Ensure we have the required columns
+    # Asegúrate de que disponemos de las columnas necesarias
     if not all(col in df_map.columns for col in [country_col, value_col]):
         fig = go.Figure()
         fig.update_layout(title=f"Missing columns for country map: {country_col} or {value_col}")
         return fig
     
-    # Drop rows with NaN in country
+    # Elimina las filas con NaN en la columna de país
     df_map = df_map.dropna(subset=[country_col])
     
     if df_map.empty:
@@ -224,10 +225,10 @@ def create_country_map(df: pd.DataFrame, country_col: str, value_col: str) -> go
         fig.update_layout(title="No valid data for country map after dropping NaN values")
         return fig
     
-    # Aggregate values by country
+    # Agrupa los valores por país
     country_values = df_map.groupby(country_col)[value_col].sum().reset_index()
     
-    # Create the choropleth map
+    # Crea el mapa coroplético
     fig = px.choropleth(
         country_values,
         locations=country_col,
@@ -239,7 +240,7 @@ def create_country_map(df: pd.DataFrame, country_col: str, value_col: str) -> go
         title=f"Total by {country_col}"
     )
     
-    # Update layout
+    # Actualiza el diseño
     fig.update_layout(
         geo=dict(
             showframe=False,
@@ -254,13 +255,13 @@ def create_country_map(df: pd.DataFrame, country_col: str, value_col: str) -> go
 
 def create_operation_status_chart(df: pd.DataFrame) -> go.Figure:
     """
-    Create a pie chart showing distribution of operation statuses.
+    Crea un gráfico que muestre la distribución de los estados de operación.
     
-    Args:
-        df: DataFrame with transaction data
+    Parámetros:
+        df: DataFrame con los datos de transacciones
         
-    Returns:
-        Plotly figure object
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if df.empty or 'ESTADO_OPERACION' not in df.columns:
         # Return empty figure if no data or missing column
@@ -268,18 +269,18 @@ def create_operation_status_chart(df: pd.DataFrame) -> go.Figure:
         fig.update_layout(title="No data available for operation status chart")
         return fig
     
-    # Count operations by status
+    # Cuenta operaciones por estatus
     status_counts = df['ESTADO_OPERACION'].value_counts().reset_index()
     status_counts.columns = ['Status', 'Count']
     
-    # Create color map
+    # Crea un mapa de color
     color_map = {
         'EXITOSA': 'green',
         'CANCELADA': 'red',
         'FALLIDA': 'orange'
     }
     
-    # Create the pie chart
+    # Crea el gráfico
     fig = px.pie(
         status_counts,
         values='Count',
@@ -289,7 +290,7 @@ def create_operation_status_chart(df: pd.DataFrame) -> go.Figure:
         color_discrete_map=color_map
     )
     
-    # Update layout
+    # Actualiza el layout
     fig.update_layout(
         legend_title="Status",
         height=400
@@ -300,22 +301,22 @@ def create_operation_status_chart(df: pd.DataFrame) -> go.Figure:
 
 def create_document_country_chart(df: pd.DataFrame, chart_type: str = 'bar') -> go.Figure:
     """
-    Create a chart showing distribution of sender document countries.
-    
-    Args:
-        df: DataFrame with transaction data
-        chart_type: Type of chart to create ('bar' or 'pie')
-        
-    Returns:
-        Plotly figure object
+    Crea un gráfico que muestre la distribución de los países del documento del remitente.
+
+    Parámetros:
+        df: DataFrame con los datos de transacciones  
+        chart_type: Tipo de gráfico a crear ('bar' o 'pie')
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if df.empty or 'PAIS_DOC_ORDENANTE' not in df.columns:
-        # Return empty figure if no data or missing column
+        # Devuelve una figura vacía si no hay datos o falta la columna necesaria
         fig = go.Figure()
         fig.update_layout(title="No data available for document country chart")
         return fig
     
-    # Drop rows with NaN in document country
+    # Elimina las filas con valores NaN en el país del documento.
     df_chart = df.dropna(subset=['PAIS_DOC_ORDENANTE'])
     
     if df_chart.empty:
@@ -323,14 +324,14 @@ def create_document_country_chart(df: pd.DataFrame, chart_type: str = 'bar') -> 
         fig.update_layout(title="No valid data for document country chart after dropping NaN values")
         return fig
     
-    # Count documents by country
+    # Cuenta los documentos por país
     doc_counts = df_chart['PAIS_DOC_ORDENANTE'].value_counts().reset_index()
     doc_counts.columns = ['Country', 'Count']
     
-    # Take top 15 countries
+    # Selecciona los 15 países principales
     top_countries = doc_counts.head(15)
     
-    # Create chart based on type
+    # Crea el gráfico 
     if chart_type == 'pie':
         # Create a pie chart
         fig = px.pie(
@@ -342,17 +343,17 @@ def create_document_country_chart(df: pd.DataFrame, chart_type: str = 'bar') -> 
             hover_data=['Count']
         )
         
-        # Update layout
+        # Actualiza el layout
         fig.update_layout(
             legend_title="País",
             height=450
         )
         
-        # Update traces
+        # Actualiza traces
         fig.update_traces(textposition='inside', textinfo='percent+label')
         
-    else:  # Default to bar chart
-        # Create the bar chart
+    else:  # Por defecto, utiliza un gráfico de barras
+        # Crea un grafico de barras
         fig = px.bar(
             top_countries,
             x='Country',
@@ -363,7 +364,7 @@ def create_document_country_chart(df: pd.DataFrame, chart_type: str = 'bar') -> 
             labels={'Count': 'Número de Transacciones', 'Country': 'País del Documento'}
         )
         
-        # Update layout
+        # Actualiza el layout
         fig.update_layout(
             xaxis_title="País del Documento",
             yaxis_title="Número de Transacciones",
@@ -375,22 +376,22 @@ def create_document_country_chart(df: pd.DataFrame, chart_type: str = 'bar') -> 
 
 def create_destination_country_chart(df: pd.DataFrame, top_n: int = 20) -> go.Figure:
     """
-    Create a bar chart showing top destination countries by amount.
-    
-    Args:
-        df: DataFrame with transaction data
-        top_n: Number of top countries to display
-        
-    Returns:
-        Plotly figure object
+    Crea un gráfico de barras que muestre los principales países de destino por monto.
+
+    Parámetros:
+        df: DataFrame con los datos de transacciones  
+        top_n: Número de países principales a mostrar
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if df.empty or 'PAIS_DESTINO' not in df.columns or 'IMPORTE' not in df.columns:
-        # Return empty figure if no data or missing columns
+        # Devuelve una figura vacía si no hay datos o faltan columnas
         fig = go.Figure()
         fig.update_layout(title="No data available for destination country chart")
         return fig
     
-    # Drop rows with NaN in destination country or amount
+    # Elimina las filas con valores NaN en el país de destino o en el importe
     df_chart = df.dropna(subset=['PAIS_DESTINO', 'IMPORTE'])
     
     if df_chart.empty:
@@ -398,14 +399,14 @@ def create_destination_country_chart(df: pd.DataFrame, top_n: int = 20) -> go.Fi
         fig.update_layout(title="No valid data for destination country chart after dropping NaN values")
         return fig
     
-    # Sum amounts by destination country
+    # Suma los montos por país de destino
     dest_amounts = df_chart.groupby('PAIS_DESTINO')['IMPORTE'].sum().reset_index()
     dest_amounts = dest_amounts.sort_values('IMPORTE', ascending=False)
     
-    # Take top N countries
+    # Selecciona los N países principales
     top_countries = dest_amounts.head(top_n)
     
-    # Create the bar chart
+    # Crea un gráfico de barras
     fig = px.bar(
         top_countries,
         x='PAIS_DESTINO',
@@ -416,12 +417,12 @@ def create_destination_country_chart(df: pd.DataFrame, top_n: int = 20) -> go.Fi
         labels={'IMPORTE': 'Importe Total (€)', 'PAIS_DESTINO': 'País Destino'}
     )
     
-    # Crear una lista personalizada de valores para los ticks del eje Y
+    # Crea una lista personalizada de valores para los ticks del eje Y
     max_value = top_countries['IMPORTE'].max()
     tick_values = np.linspace(0, max_value, 6)
     tick_texts = [f"€{format_es(val, 2)}" for val in tick_values]
     
-    # Format the y-axis to show currency with Spanish format
+    # Formatea el eje Y para mostrar los valores como moneda con formato español
     fig.update_layout(
         xaxis_title="País Destino",
         yaxis_title="Importe Total (€)",
@@ -433,7 +434,7 @@ def create_destination_country_chart(df: pd.DataFrame, top_n: int = 20) -> go.Fi
         )
     )
     
-    # Rotate x-axis labels for better readability
+    # Rota las etiquetas del eje X para mejorar la legibilidad
     fig.update_xaxes(tickangle=45)
     
     return fig
@@ -441,28 +442,28 @@ def create_destination_country_chart(df: pd.DataFrame, top_n: int = 20) -> go.Fi
 
 def create_amount_over_time_chart(df: pd.DataFrame) -> go.Figure:
     """
-    Create a line chart showing transaction amounts over time.
-    
-    Args:
-        df: DataFrame with transaction data
-        
-    Returns:
-        Plotly figure object
+    Crea un gráfico de líneas que muestre los montos de transacciones a lo largo del tiempo.
+
+    Parámetros:
+        df: DataFrame con los datos de transacciones
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if df.empty or 'FECHA' not in df.columns or 'IMPORTE' not in df.columns:
-        # Return empty figure if no data or missing columns
+        # Devuelve una figura vacía si no hay datos o faltan columnas.
         fig = go.Figure()
         fig.update_layout(title="No data available for amount over time chart")
         return fig
     
-    # Create a copy of the dataframe
+    # Crea una copia del DataFrame
     df_time = df.copy()
     
-    # Ensure date is in datetime format
+    # Asegúrate de que la columna de fecha esté en formato datetime
     if not pd.api.types.is_datetime64_any_dtype(df_time['FECHA']):
         df_time['FECHA'] = pd.to_datetime(df_time['FECHA'], errors='coerce')
     
-    # Drop rows with NaN in date
+    # Elimina las filas con valores NaN en la fecha
     df_time = df_time.dropna(subset=['FECHA'])
     
     if df_time.empty:
@@ -470,14 +471,14 @@ def create_amount_over_time_chart(df: pd.DataFrame) -> go.Figure:
         fig.update_layout(title="No valid data for amount over time chart after dropping NaN values")
         return fig
     
-    # Resample data by day
+    # Re-muestrea los datos por día
     df_time_daily = df_time.groupby(df_time['FECHA'].dt.date)['IMPORTE'].agg(['sum', 'count']).reset_index()
     df_time_daily.columns = ['Date', 'Total Amount', 'Transaction Count']
     
-    # Create the figure with two y-axes
+    # Crea la figura con dos ejes Y
     fig = make_subplots(specs=[[{"secondary_y": True}]])
     
-    # Add amount line
+    # Añadir una linea de importe
     fig.add_trace(
         go.Scatter(
             x=df_time_daily['Date'],
@@ -488,7 +489,7 @@ def create_amount_over_time_chart(df: pd.DataFrame) -> go.Figure:
         secondary_y=False
     )
     
-    # Add transaction count line
+    # Agrega la línea de conteo de transacciones
     fig.add_trace(
         go.Scatter(
             x=df_time_daily['Date'],
@@ -504,12 +505,12 @@ def create_amount_over_time_chart(df: pd.DataFrame) -> go.Figure:
     amount_tick_values = np.linspace(0, max_amount, 6)
     amount_tick_texts = [f"€{format_es(val, 2)}" for val in amount_tick_values]
     
-    # Crear valores personalizados para el eje Y de conteo
+    # Crear valores personalizados para el eje Y de número de transacciones
     max_count = df_time_daily['Transaction Count'].max()
     count_tick_values = np.linspace(0, max_count, 6)
     count_tick_texts = [format_es(val, 0) for val in count_tick_values]
     
-    # Update layout with Spanish format
+    # Actualiza el diseño con formato español
     fig.update_layout(
         title="Actividad de Transacciones en el Tiempo",
         xaxis_title="Fecha",
@@ -523,7 +524,7 @@ def create_amount_over_time_chart(df: pd.DataFrame) -> go.Figure:
         height=400
     )
     
-    # Update y-axes titles with Spanish format
+    # Actualiza los títulos de los ejes Y con formato en español
     fig.update_yaxes(
         title_text="Importe Total (€)",
         secondary_y=False,
@@ -542,26 +543,26 @@ def create_amount_over_time_chart(df: pd.DataFrame) -> go.Figure:
 
 def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dict[str, Dict[str, str]], indicator_types: Dict[str, str] = None) -> go.Figure:
     """
-    Create a heatmap visualization of risk scores for each indicator, separated by type.
-    
-    Args:
-        risk_scores: Dictionary mapping indicator IDs to their risk scores
-        indicator_descriptions: Dictionary mapping indicator IDs to their descriptions
-        indicator_types: Dictionary mapping indicator IDs to their types
-        
-    Returns:
-        Plotly figure object
+    Crea una visualización de mapa de calor (heatmap) de los puntajes de riesgo para cada indicador, separados por tipo.
+
+    Parámetros:
+        risk_scores: Diccionario que asigna a cada ID de indicador su puntaje de riesgo  
+        indicator_descriptions: Diccionario que asigna a cada ID de indicador su descripción  
+        indicator_types: Diccionario que asigna a cada ID de indicador su tipo
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if not risk_scores:
-        # Return empty figure if no data
+        # Devuelve una figura vacía si no hay datos
         fig = go.Figure()
         fig.update_layout(title="No risk score data available")
         return fig
     
-    # Convert risk scores to DataFrame for visualization
+    # Convierte los puntajes de riesgo a un DataFrame para su visualización
     risk_data = []
     
-    # Use default type if not provided
+    # Usa un tipo predeterminado si no se proporciona
     if indicator_types is None:
         indicator_types = {}
     
@@ -570,10 +571,10 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
             description = indicator_descriptions[indicator_id]['description']
             weight = indicator_descriptions[indicator_id]['weight']
             
-            # Truncate long descriptions
+            # Trunca las descripciones largas
             short_desc = description[:50] + '...' if len(description) > 50 else description
             
-            # Get the indicator type or use a default
+            # Obtén el tipo de indicador o usa un valor por defecto
             indicator_type = indicator_types.get(indicator_id, "General")
             
             risk_data.append({
@@ -583,16 +584,16 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
                 'Type': indicator_type
             })
     
-    # Create DataFrame
+    # Crea un DataFrame
     risk_df = pd.DataFrame(risk_data)
     
-    # Sort by indicator ID
+    # Ordena por indicator ID
     risk_df['Indicator_ID'] = risk_df['Indicator'].str.extract(r'^(\d+)\.').astype(int)
     risk_df = risk_df.sort_values('Indicator_ID')
     
-    # If we don't have any type information, create a single heatmap
+    # Si no se dispone de información sobre los tipos, crea un único mapa de calor
     if 'Type' not in risk_df.columns or len(risk_df['Type'].unique()) <= 1:
-        # Create a single heatmap
+        # Crea un único mapa de calor
         fig = px.imshow(
             risk_df[['Risk Score']].T,
             x=risk_df['Indicator'],
@@ -608,10 +609,10 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
             labels={'color': 'Risk Level'}
         )
     else:
-        # Get unique types and create a subplot for each
+        # Obtén los tipos únicos y crea una subgráfica (subplot) para cada uno
         types = sorted(risk_df['Type'].unique())
         
-        # Create subplot grid - one row per type
+        # Crea una cuadrícula de subgráficas (subplot) — una fila por cada tipo
         fig = make_subplots(
             rows=len(types),
             cols=1,
@@ -619,13 +620,13 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
             vertical_spacing=0.1
         )
         
-        # Add a heatmap for each type
+        # Agrega un mapa de calor para cada tipo
         for i, type_name in enumerate(types):
-            # Filter data for this type
+            # Filtra los datos correspondientes a ese tipo
             type_df = risk_df[risk_df['Type'] == type_name].copy()
             
             if not type_df.empty:
-                # Create heatmap for this type
+                # Crea el mapa de calor para ese tipo
                 heatmap = go.Heatmap(
                     z=type_df[['Risk Score']].T.values,
                     x=type_df['Indicator'],
@@ -644,7 +645,7 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
                 # Add to subplot
                 fig.add_trace(heatmap, row=i+1, col=1)
     
-    # Add annotations
+    # Añade anotaciones
     for i, indicator in enumerate(risk_df['Indicator']):
         score = risk_df.iloc[i]['Risk Score']
         weight = risk_df.iloc[i]['Weight']
@@ -657,7 +658,7 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
             font=dict(color="black" if score < 3 else "white")
         )
     
-    # Update layout
+    # Actualiza el layout
     fig.update_layout(
         title="Risk Scores by Indicator",
         xaxis_title="",
@@ -674,25 +675,25 @@ def create_risk_heatmap(risk_scores: Dict[str, int], indicator_descriptions: Dic
 
 def create_risk_radar_chart(risk_by_type: Dict[str, float]) -> go.Figure:
     """
-    Create a radar chart visualization of risk scores by type.
-    
-    Args:
-        risk_by_type: Dictionary mapping risk types to their scores
-        
-    Returns:
-        Plotly figure object
+   Crea una visualización en gráfico de radar de los puntajes de riesgo por tipo.
+
+    Parámetros:
+        risk_by_type: Diccionario que asigna a cada tipo de riesgo su puntaje
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if not risk_by_type:
-        # Return empty figure if no data
+        # Devuelve una figura vacía si no hay datos
         fig = go.Figure()
         fig.update_layout(title="No risk type data available")
         return fig
     
-    # Sort the risk types
+    # Ordena los tipos de riesgo
     types = sorted(risk_by_type.keys())
     values = [risk_by_type[t] for t in types]
     
-    # Create the radar chart
+    # Crea el gráfico de radar
     fig = go.Figure()
     
     fig.add_trace(go.Scatterpolar(
@@ -704,7 +705,7 @@ def create_risk_radar_chart(risk_by_type: Dict[str, float]) -> go.Figure:
         fillcolor='rgba(51, 102, 204, 0.5)'
     ))
     
-    # Update layout
+    # Actualiza el layout
     fig.update_layout(
         polar=dict(
             radialaxis=dict(
@@ -725,17 +726,17 @@ def create_indicator_histogram(
     data=None
 ) -> go.Figure:
     """
-    Create a histogram visualization for an indicator with threshold lines.
-    Based on real transaction data from the session state.
-    
-    Args:
-        indicator_id: The ID of the indicator
-        umbral_info: Dictionary with threshold information ('medium', 'high', 'descripcion')
-        title: Optional title for the chart
-        data: Optional real data to use instead of default risk data
-        
-    Returns:
-        Plotly figure object
+    Crea una visualización tipo histograma para un indicador, con líneas de umbral.
+        Basado en datos reales de transacciones provenientes del estado de sesión.
+
+    Parámetros:
+        indicator_id: ID del indicador  
+        umbral_info: Diccionario con la información de umbrales ('medium', 'high', 'descripcion')  
+        title: Título opcional para el gráfico  
+        data: Datos reales opcionales a usar en lugar de los datos de riesgo por defecto
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     import numpy as np
     import plotly.graph_objects as go
@@ -883,30 +884,30 @@ def create_indicator_histogram(
 
 def create_average_transaction_by_country_chart(df: pd.DataFrame, top_n: int = 20) -> go.Figure:
     """
-    Create a bar chart showing the top countries by average transaction amount.
-    
-    Args:
-        df: DataFrame with transaction data
-        top_n: Number of top countries to display
-        
-    Returns:
-        Plotly figure object
+    Crea un gráfico de barras que muestre los principales países según el monto promedio de transacción.
+
+    Parámetros:
+        df: DataFrame con los datos de transacciones  
+        top_n: Número de países principales a mostrar
+
+    Devuelve:
+        Objeto de figura de Plotly
     """
     if 'PAIS_DESTINO' not in df.columns or 'IMPORTE' not in df.columns:
-        # Return empty figure if required columns don't exist
+        # Devuelve una figura vacía si no existen las columnas necesarias
         return go.Figure()
     
-    # Group by destination country and calculate average transaction amount
+    # Agrupa por país de destino y calcula el monto promedio de transacción
     country_avg = df.groupby('PAIS_DESTINO')['IMPORTE'].agg(['mean', 'count']).reset_index()
     
-    # Filter countries with at least 3 transactions for statistical significance
+    # Filtra los países con al menos 3 transacciones para asegurar significancia estadística
     min_transactions = 3
     country_avg = country_avg[country_avg['count'] >= min_transactions]
     
-    # Sort and get top countries by average amount
+    # Ordena y selecciona los países principales según el monto promedio
     country_avg = country_avg.sort_values(by='mean', ascending=False).head(top_n)
     
-    # Create bar chart
+    # Crea el gráfico de barras
     fig = px.bar(
         country_avg,
         x='PAIS_DESTINO',
@@ -923,7 +924,7 @@ def create_average_transaction_by_country_chart(df: pd.DataFrame, top_n: int = 2
     tick_values = np.linspace(0, max_value, 6)
     tick_texts = [f"€{format_es(val, 2)}" for val in tick_values]
     
-    # Customize layout with Spanish formatted ticks
+    # Personaliza el diseño con marcas (ticks) formateadas en español
     fig.update_layout(
         xaxis_title='País de Destino',
         yaxis_title='Importe Medio por Transacción (€)',
@@ -936,7 +937,7 @@ def create_average_transaction_by_country_chart(df: pd.DataFrame, top_n: int = 2
         )
     )
     
-    # Add formatted amounts
+    # Agrega los importes formateados (por ejemplo, con símbolo de euro y separadores de miles con punto).
     for i, row in enumerate(country_avg.itertuples()):
         # Usar nuestra función de formato español
         formatted_mean = format_es(row.mean, 2)
