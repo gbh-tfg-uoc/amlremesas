@@ -611,10 +611,10 @@ def obtener_nivel_riesgo(score):
 
 def get_indicator_descriptions():
     """
-    Get descriptions and weights for risk indicators.
+    Obtiene las descripciones y los pesos de los indicadores de riesgo
 
-    Returns:
-        Dictionary mapping indicator IDs to their descriptions and weights
+    Devuelve:
+    Diccionario que asigna a cada ID de indicador su descripción y peso
     """
     return {
         "1": {
@@ -701,10 +701,10 @@ def get_indicator_descriptions():
 
 def get_indicator_types():
     """
-    Get types for risk indicators.
+    Obtiene los tipos de los indicadores de riesgo
 
-    Returns:
-        Dictionary mapping indicator IDs to their types
+    Devuelve:
+        Diccionario que asigna a cada ID de indicador su tipo
     """
     return {
         "1": "DOCUMENTACIÓN",
@@ -731,10 +731,10 @@ def get_indicator_types():
 
 def get_indicator_names():
     """
-    Get short names for risk indicators.
+    Obtiene los nombres cortos de los indicadores de riesgo
 
-    Returns:
-        Dictionary mapping indicator IDs to their short names
+    Devuelve:
+        Diccionario que asigna a cada ID de indicador su nombre corto
     """
     descriptions = get_indicator_descriptions()
     names = {}
@@ -746,13 +746,14 @@ def get_indicator_names():
 
 def calculate_total_risk_score(risk_scores):
     """
-    Calculate total risk score from individual indicator scores.
+    Calcula el puntaje de riesgo total a partir de los puntajes individuales de cada indicador.
 
-    Args:
-        risk_scores: Dictionary mapping indicator IDs to their scores
+    Parámetros:
+        risk_scores: Diccionario que asigna a cada ID de indicador su puntaje
 
-    Returns:
-        Total risk score (weighted average) formateado con máximo 2 decimales
+    Devuelve:
+        Puntaje de riesgo total (promedio ponderado), formateado con un máximo de 2 decimales
+    
     """
     if not risk_scores:
         return 1.0  # Default: riesgo bajo si no hay puntuaciones
@@ -924,15 +925,15 @@ def calculate_risk_scores(indicators: Dict[str, int], indicator_weights: Dict[st
 
 def run_risk_analysis(df: pd.DataFrame) -> Tuple[Dict[str, int], Dict[str, Any]]:
     """
-    Run all risk indicators on the provided DataFrame.
+    Ejecuta todos los indicadores de riesgo sobre el DataFrame proporcionado.
 
-    Args:
-        df: DataFrame with transaction data
+    Parámetros:
+        df: DataFrame con los datos de transacciones
 
-    Returns:
-        Tuple containing:
-        - Dictionary mapping indicator IDs to their risk scores
-        - Dictionary mapping indicator IDs to their detailed results
+    Devuelve:
+        Una tupla que contiene:
+        - Un diccionario que asigna a cada ID de indicador su puntaje de riesgo
+        - Un diccionario que asigna a cada ID de indicador sus resultados detallados
     """
     indicators, details = calculate_risk_indicators(df)
     return indicators, details
